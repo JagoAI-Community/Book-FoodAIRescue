@@ -1,0 +1,165 @@
+    % ==============================================================================
+% BAB 1: PENDAHULUAN
+% ==============================================================================
+
+\chapter{Pendahuluan}
+\label{chapter:pendahuluan}
+\section{Latar Belakang}
+\textit{Startup} JagoAI adalah perusahaan inovatif yang dibangun oleh mahasiswa Fakultas Ilmu Terapan Universitas Telkom dengan fokus pada solusi cerdas berbasis IoT dan kecerdasan buatan. Sebagai wujud ekspansi inovasi JagoAI dalam menjawab tantangan sosial dan ekologis, dikembangkanlah sebuah platform khusus bernama Food AI Rescue. Platform ini dirancang untuk memberikan akses teknologi yang menjembatani para penyumbang (donatur) surplus makanan dengan fasilitas sosial maupun masyarakat yang membutuhkan. Melalui sistem otomatisasi yang interaktif, Food AI Rescue membawa visi untuk memfasilitasi manajemen donasi pangan secara aman dan terpadu. Hal ini sejalan dengan urgensi global untuk melakukan daur ulang dan pemanfaatan kembali limbah makanan secara esensial demi menjaga keberlanjutan lingkungan \cite{raiEssentialRecyclingRepurposing2025a}. Mengurangi pemborosan di tingkat konsumsi rumah tangga juga telah terbukti secara ilmiah sebagai salah satu strategi mitigasi yang paling krusial untuk menekan jejak karbon operasional \cite{liuExploringHouseholdFood2023b}.
+
+Sektor sisa makanan (\textit{food waste}) dipilih sebagai fokus utama dari Food AI Rescue karena memiliki potensi permasalahan sekaligus peluang yang sangat masif di Indonesia. Secara statistik, Indonesia menghasilkan 23 hingga 48 juta ton sampah makanan setiap tahunnya yang memicu kerugian ekonomi nasional dalam jumlah masif \cite{yulianaPotensiGerakanFood2022b}. Ironisnya, pemborosan ini terjadi berdampingan dengan tingginya ancaman krisis ketahanan pangan dan prevalensi \textit{stunting} (gizi buruk) yang masih menyentuh angka 32,1\% di berbagai wilayah agraris, seperti di Bondowoso \cite{prayitnoExploringRoleFood2025b}. Krisis ini menuntut adanya intervensi strategi ketahanan pangan yang berkelanjutan dan berbasis masyarakat, sebagaimana yang mendesak untuk diupayakan di wilayah Jawa Tengah guna menangani masalah inflasi harga, kemiskinan, serta kekurangan gizi secara komprehensif \cite{pujiyantoStrategiKetahananPangan2025b}. Kombinasi besarnya volume makanan yang terbuang sia-sia dan mendesaknya kebutuhan nutrisi ini menjadikan penyaluran surplus pangan sebagai pasar yang sangat strategis untuk diselesaikan.
+
+Meskipun inisiatif pembagian surplus makanan memiliki potensi yang besar, pelaksanaannya di lapangan masih menghadapi kendala operasional, logistik, dan ancaman keamanan lingkungan. Makanan yang gagal disalurkan dan dibiarkan membusuk di Tempat Pembuangan Akhir (TPA) terbukti melepaskan emisi gas metana (CH$_4$) yang memiliki potensi pemanasan global berkali-lipat lebih tinggi dibandingkan karbon dioksida \cite{alliffiyaalkhansyaharsyDampakLimbahMakanan2025c}. Fakta ini juga divalidasi oleh analisis di sektor rumah makan, seperti di Kota Bogor, di mana tingginya volume sisa makanan komersial berbanding lurus dengan besarnya pelepasan jejak emisi gas buang \cite{fernandezCarbonFootprintAnalysis2024c}. Selain itu, kebijakan pengelolaan sampah nasional kerap terhambat oleh minimnya kesadaran konsumen yang menjadi pendorong utama \textit{food waste} di tingkat rumah tangga \cite{lestariKebijakanPengelolaanSampah2022c}. Di sisi lain, kesiapan ekosistem dalam melakukan \textit{valorization} (pemanfaatan/daur ulang kembali) limbah pangan di Indonesia juga masih memerlukan evaluasi infrastruktur \cite{immawanFoodWasteIndonesia2024a}. Padahal, intervensi kesadaran lingkungan, sebagaimana dibuktikan oleh studi pada universitas-universitas di Tiongkok, sangatlah efektif and dibutuhkan untuk memitigasi jejak karbon tersebut secara signifikan \cite{qianFoodWasteAssociated2022a}.
+
+Untuk menambal celah inefisiensi logistik dan tingginya ancaman keamanan pangan tersebut, penerapan teknologi kecerdasan buatan (AI) dari ekosistem JagoAI menawarkan otomatisasi dengan tingkat presisi tinggi. Tinjauan literatur di bidang visi komputer (\textit{Computer Vision}) membuktikan bahwa AI modern mampu mengevaluasi konteks visual di sekitar benda guna meminimalkan misklasifikasi objek yang dideteksi \cite{jamaliContextObjectDetection2025b}. Meski demikian, keandalan sistem klasifikasi AI ini harus dirancang secara tangguh untuk menghindari fenomena \textit{Clever Hans effect}, yakni jalan pintas pembelajaran (\textit{shortcut learning}) di mana AI sering kali salah menyimpulkan status suatu objek karena hanya melihat korelasi palsu pada latar belakang gambarnya \cite{pathakUnmaskingCleverHans2026a}. Model deteksi objek seperti YOLO juga terbukti rentan terhadap manipulasi visual kecil (\textit{adversarial patches}) yang dapat mengecoh pengenalan AI terhadap wujud hewan maupun benda fisik lainnya \cite{hopsonStudyAIObject2026b}. Melalui mitigasi pemrograman \textit{prompt} dan infrastruktur yang tepat, kemampuan intelijensi visual ini menjadi instrumen otonom yang sangat ideal untuk memvalidasi kelayakan konsumsi dan kehigienisan suatu makanan donasi secara \textit{real-time}.
+
+Berdasarkan seluruh permasalahan yang diidentifikasi, diperlukan sebuah sistem terintegrasi yang menggabungkan inspeksi cerdas keamanan pangan, rekam jejak lingkungan, dan pendorong motivasi relawan kurir. Oleh karena itu, penelitian dan pengembangan ini menciptakan platform Food AI Rescue yang mengintegrasikan layanan \textit{Google Gemini Vision API} sebagai "Polisi Pangan" untuk memverifikasi keamanan dan kehalalan makanan donasi secara otomatis, fitur Kalkulator \textit{Sustainability Impact} untuk melacak efisiensi emisi jejak karbon, serta algoritma gamifikasi \textit{Leaderboard Ranking} yang ditandemkan dengan \textit{QR Code Validation} guna memastikan serah terima logistik secara nirkontak (\textit{contactless}) dan akurat. Sistem komprehensif ini dirancang untuk menciptakan manajemen surplus pangan yang aman, transparan, dan berdampak luas terhadap lingkungan, sesuai dengan judul Tugas Akhir: "Implementasi Platform Manajemen Donasi Makanan Berbasis \textit{Artificial Intelligence} dan Gamifikasi untuk Optimalisasi Ketahanan Pangan dan Mitigasi Jejak Karbon".
+\section{Rumusan Masalah}
+Berdasarkan latar belakang sebagaimana diuraikan di atas, maka dapat diidentifikasi permasalahan sebagai berikut:
+\begin{enumerate}
+    \item Bagaimana merancang platform agregator logistik digital (Food AI Rescue) untuk mengintegrasikan dan menyalurkan donasi surplus pangan dari penyedia kepada masyarakat rentan secara \textit{real-time}?
+    \item Bagaimana mengimplementasikan teknologi \textit{Computer Vision} dan AI Generatif guna memvalidasi kelayakan makanan secara visual, sekaligus memfasilitasi kebutuhan konten promosi CSR bagi donatur korporat?
+    \item Bagaimana membangun sistem manajemen pelaporan dan validasi distribusi (melalui wajib pindai Kode QR dan Dasbor Analitik) yang transparan untuk mencegah penyalahgunaan donasi?
+\end{enumerate}
+
+\section{Tujuan}
+Berdasarkan identifikasi masalah diatas, maka dapat dirumuskan tujuan dari penulisan proyek akhir ini adalah sebagai berikut:
+\begin{enumerate}
+    \item Merancang platform agregator logistik digital (Food AI Rescue) berbasis PWA dengan 6 peran pengguna untuk memfasilitasi distribusi donasi pangan secara \textit{real-time}.
+    \item Mengimplementasikan 4 fungsi AI (\textit{Computer Vision} dan AI Generatif) guna memverifikasi kelayakan visual makanan serta mendukung kebutuhan konten kampanye CSR donatur korporat.
+    \item Membangun dasbor analitik dampak yang transparan untuk melacak distribusi, mencegah penyalahgunaan, serta mengkalkulasi pencapaian metrik SROI dan reduksi jejak karbon.
+\end{enumerate}
+
+% \section{Cakupan Pengerjaan}
+% Cakupan pengerjaan Tugas Akhir ini sebagai berikut:
+% \begin{enumerate}
+%     \item Ruang Lingkup Aplikasi: Sistem yang dibangun adalah aplikasi berbasis web (Progressive Web App/PWA) yang berfungsi khusus sebagai agregator logistik untuk memfasilitasi donasi makanan surplus halal yang masih layak konsumsi secara gratis atau non-komersial
+%     \item Batasan Pengguna (Aktor): Sistem membatasi interaksi pada 6 (enam) peran pengguna yang saling terintegrasi, yaitu:
+%     \begin{enumerate}
+%         \item Donatur Individu: Masyarakat perorangan atau usaha mikro yang bertugas mengunggah stok makanan surplus skala kecil, serta wajib memindai Kode QR Penerima saat serah terima.
+%         \item Donatur Kelompok/Korporat: Pelaku bisnis HORECA (skala besar) yang mengelola stok donasi dengan hak akses eksklusif terhadap fitur AI Generatif (pembuatan desain kemasan dan copywriting media sosial) untuk mendukung kampanye Corporate Social Responsibility (CSR).
+%         \item Mitra Penerima: Masyarakat rentan atau yayasan yang bertugas mencari donasi, melakukan klaim (booking) untuk mengunci stok, dan menyajikan Kode QR miliknya untuk dipindai saat makanan tiba.
+%         \item Relawan: Armada logistik sosial (crowdsourcing) yang menjemput dan mengantar makanan, serta memegang otoritas untuk wajib memindai (mandatory scan) Kode QR Penerima sebagai bukti sah penyelesaian distribusi.
+%         \item Admin Pengelola: Pihak manajerial (seperti Dinas Sosial atau pengurus Food Bank Nasional) yang bertugas memverifikasi pendaftaran akun, menindaklanjuti laporan negatif pengguna, dan memantau Dasbor Analitik Dampak (SROI).
+%         \item Super Admin: Tim pengembang (IT) yang memiliki akses backend tertinggi untuk melakukan pemeliharaan (maintenance) server dan menjaga stabilitas basis data.
+%     \end{enumerate}
+%     \item Batasan Fitur dan Teknologi Utama: Pengembangan sistem difokuskan pada manajemen distribusi digital yang telah dilengkapi dengan prosedur keamanan wajib pindai (mandatory scan) Kode QR saat serah terima logistik dan fitur gamifikasi Poin Sosial. Dari segi teknologi inti, aplikasi ini mengintegrasikan API Gemini 3     Engine yang mengeksekusi 4 (empat) perluasan fungsi kecerdasan buatan (AI), yaitu:
+%     \begin{enumerate}
+%         \item AI Quality Verification: Fitur pemrosesan citra (Computer Vision) yang bertindak sebagai bantuan skrining awal untuk memprediksi kelayakan fisik dan higienitas visual makanan.
+%         \item AI Generatif (Eksklusif Korporat): Modul khusus bagi donatur tingkat perusahaan untuk mendukung kampanye Corporate Social Responsibility (CSR), yang mencakup fitur pemindaian bahan untuk rekomendasi resep, pembuatan (generate) gambar desain kemasan, serta penyusunan teks (copywriting) promosi media sosial.
+%         \item AI Impact Analytics: Dasbor pelaporan otomatis yang merekam riwayat transaksi guna mengkalkulasi pencapaian dampak sosial (Social Return on Investment/SROI) dan estimasi reduksi jejak karbon ($CO_2$).
+%     \end{enumerate}
+%     \item Batasan Lingkup Geografis dan Operasional: Pengujian dan implementasi sistem pada fase pilot project dibatasi secara geografis di wilayah Desa Lengkong, Kecamatan Bojongsoang, Kabupaten Bandung. Secara operasional, sistem ini tidak menyediakan armada logistik komersial sendiri. Selain itu, mekanisme pengantaran logistik oleh Relawan kini dibatasi oleh logika batas minimal (threshold); jika makanan yang didonasikan berjumlah sedikit (di bawah 5 porsi), maka opsi pengantaran oleh Relawan akan otomatis dikunci (locked) oleh sistem. Untuk menyiasati donasi dengan kuantitas kecil tersebut, sistem akan mengalihkan pengguna ke metode pengambilan Ambil Sendiri atau fitur Janji Temu (COD) di lokasi netral, yang didukung oleh integrasi jendela pemberitahuan dan tombol WhatsApp untuk memfasilitasi komunikasi langsung antara donatur dan penerima.
+%     \item Batasan Teknis dan Keamanan AI: Aplikasi dirancang dengan teknologi Front-End React JS dan Back-End Node/PHP (REST API) menggunakan database MySQL. Aplikasi mewajibkan adanya koneksi internet aktif, akses lokasi (GPS), dan izin kamera keras. Analisis kualitas makanan oleh AI (Food Guard AI) hanya bertindak sebagai bantuan verifikasi visual awal, sedangkan validasi akhir keamanan pangan tetap menjadi tanggung jawab manusia (Admin atau Mitra Penerima) sebelum makanan dikonsumsi.
+% \end{enumerate}
+
+\section{Tahapan Pengerjaan}
+Dalam pengembangan platform Food AI Rescue, metode rekayasa perangkat lunak yang digunakan adalah pendekatan Agile dengan kerangka kerja (framework) Scrum. Metode ini dipilih karena sifatnya yang iteratif dan fleksibel, sehingga sangat adaptif terhadap perubahan kebutuhan sistem yang dinamis, terutama dalam hal pengintegrasian teknologi kecerdasan buatan (Artificial Intelligence) secara real-time ke dalam aplikasi. Proses pengembangan dibagi ke dalam siklus-siklus kecil yang berulang untuk memastikan setiap modul dapat dirilis, dievaluasi, dan disempurnakan secara bertahap.
+
+\subsection{Produk Backlog}
+Product Backlog merupakan daftar prioritas utama yang berisi seluruh fitur, fungsi, perbaikan, dan kebutuhan sistem yang harus dibangun dalam platform Food AI Rescue. Daftar ini dikelola secara dinamis untuk memastikan pengembangan terarah pada nilai manfaat aplikasi. Beberapa item utama dalam Product Backlog pada proyek ini meliputi:
+\begin{enumerate}
+    \item \textbf{Rancang ulang database:} Backlog ini berfokus pada pembaruan struktur penyimpanan data aplikasi dari awal hingga siap beroperasi. Tahapannya sangat komprehensif, dimulai dari merancang desain database baru, mengimplementasikannya ke dalam bahasa SQL, hingga melakukan pengujian awal. Setelah kerangka selesai, langkah selanjutnya adalah memasukkan data rekaan (dummy data) untuk uji coba, mengoneksikan basis data tersebut ke aplikasi utama, dan melakukan pengujian akhir (final testing) untuk memastikan tidak ada kebocoran atau kesalahan aliran data.
+    \item \textbf{Revisi Frontend:} Backlog kedua ini bertujuan untuk menyempurnakan antarmuka pengguna (UI) dan pengalaman pengguna (UX) pada aplikasi. Pengerjaannya dimulai dengan menganalisis bug atau kecacatan visual yang ada di seluruh modul aplikasi. Setelah masalah teridentifikasi, dilakukan revisi pada kode frontend yang dilanjutkan dengan implementasi tata letak dan tampilan baru agar platform FoodAI Rescue terlihat lebih rapi, interaktif, dan mudah digunakan oleh para donatur, relawan, maupun penerima.
+    \item \textbf{Implementasi backend:} Backlog ini bergeser ke sisi server untuk memperkuat fondasi logika sistem aplikasi. Tugas utama di sini adalah memigrasikan logika backend yang sebelumnya menggunakan AppScript ke lingkungan peladen yang baru (seperti Node.js). Selain proses pemindahan, backlog ini juga mewajibkan adanya pengujian backend, implementasi penanganan eror (exceptions) untuk mencegah sistem crash saat terjadi anomali, serta pengujian tahap akhir (final testing) untuk menjamin stabilitas aplikasi secara keseluruhan.
+    \item \textbf{Implementasi API KEY AI:} Backlog terakhir ini merupakan tahap krusial untuk mengaktifkan fitur Kecerdasan Buatan (Google Gemini API) yang menjadi inti inovasi FoodAI Rescue. Tugasnya meliputi pemasangan atau implementasi API Key ke dalam sistem, merevisi konfigurasi environment (seperti file .env) untuk memastikan kunci rahasia terlindungi dengan aman, serta melakukan pengujian (testing AI) guna memastikan fitur intelijensi visual dan generatif—seperti "Polisi Pangan" untuk verifikasi makanan—berjalan dengan akurat.
+\end{enumerate}
+\subsection{Pelaksanaan Sprint}
+Pelaksanaan setiap backlog dibagi ke dalam beberapa tahapan sprint terstruktur guna memastikan pengerjaan yang terukur dan efisien. Rincian tahapan pelaksanaan sprint untuk masing-masing backlog adalah sebagai berikut:
+
+% \vspace{0.5cm}
+\noindent Rancang Ulang Database
+\begin{itemize}
+    \item Desain database
+    \item Implementasi SQL
+    \item Test database
+    \item Insert dummy
+    \item Koneksikan dengan aplikasi
+    \item Final testing
+\end{itemize}
+
+\noindent Revisi Frontend
+\begin{itemize}
+    \item Analisis bug visual untuk semua modul
+    \item Revisi frontend
+    \item Implementasi tampilan baru
+\end{itemize}
+
+\noindent Implementasi Backend
+\begin{itemize}
+    \item Migrasi logic backend dari AppScript
+    \item Testing backend
+    \item Implementasi exceptions
+    \item Final testing
+\end{itemize}
+
+\noindent Implementasi API Key AI
+\begin{itemize}
+    \item Implementasi API key
+    \item Revisi environment
+    \item Testing AI
+\end{itemize}
+
+\subsection{Daily Standup}
+Guna menjaga efisiensi komunikasi dan memastikan kelancaran pencapaian target, tim pengembang mengadakan koordinasi rutin melalui mekanisme Daily Standup. Rapat evaluasi harian yang singkat ini difokuskan untuk memaparkan perkembangan (progress) tugas dari masing-masing personel, menyusun rencana pengembangan kode (coding) selanjutnya, serta mendeteksi dan merumuskan solusi bersama terhadap kendala teknis (blocker) yang mungkin muncul selama proses integrasi kecerdasan buatan (AI) maupun perancangan arsitektur perangkat lunak.
+
+\subsection{Scrum Events}
+Untuk menjamin bahwa setiap hasil pengembangan sistem sejalan dengan kebutuhan pengguna, siklus Sprint didampingi oleh serangkaian tahapan (events) yang terstruktur. Proses ini diawali dengan Sprint Planning guna menetapkan prioritas fitur yang akan dibangun. Selanjutnya, Sprint Review dilaksanakan pada akhir periode untuk mendemonstrasikan kelayakan fungsi fitur, seperti sistem verifikasi makanan oleh AI dan modul gamifikasi relawan, kepada pemangku kepentingan (Startup JagoAI). Rangkaian ini kemudian ditutup dengan Sprint Retrospective untuk meninjau efektivitas kinerja tim serta merencanakan perbaikan teknis pada iterasi pengembangan berikutnya.
+
+% Pengembangan platform Food AI Rescue (FAR) mengadopsi pendekatan pengerjaan yang iteratif, kolaboratif, dan berbasis \textit{Minimum Viable Product} (MVP). Pelaksanaan program ini dirancang berlangsung selama kurang lebih (waktu pengerjaan) minggu dengan tahapan terstruktur yang berfokus pada adopsi teknologi oleh masyarakat sasaran. Berikut adalah tahapan pengerjaan yang dilakukan:
+% \begin{enumerate}
+%     \item \textit{Requirement}: \\
+%     Tahap ini melibatkan komunikasi dan observasi yang bertujuan untuk memahami perangkat lunak yang dibutuhkan pengguna, termasuk batasan dan ekspektasi platform Food AI Rescue (FAR) sebagai aplikasi non-komersial. Dalam proses ini, informasi dikumpulkan melalui koordinasi dan identifikasi masalah dengan pihak terkait, seperti Mitra Penyedia (UMKM KHB) dan Mitra Penerima (panti asuhan atau komunitas rentan). Informasi tersebut dianalisis untuk merumuskan kebutuhan sistem logistik pangan yang akurat guna memecahkan masalah "keterhubungan yang terputus" (\textit{disconnected link}) secara aman dan efisien.
+%     \item \textit{Design}: \\
+%     Pada tahap ini, pengembang membuat perancangan sistem yang membantu mendefinisikan arsitektur platform secara keseluruhan. Proses ini mencakup pembuatan desain antarmuka pengguna (\textit{User Interface}) yang mengutamakan aspek keamanan pangan dan kenyamanan navigasi (\textit{ergonomics}), perancangan kerangka \textit{database} relasional menggunakan MySQL, serta pendefinisian logika integrasi dengan layanan pihak ketiga seperti \textit{Application Programming Interface} (API) Gemini AI untuk fitur pemindaian kelayakan visual makanan.
+%     \item \textit{Implementation}: \\
+%     Pada tahap ini, sistem mulai dikembangkan dan diterjemahkan ke dalam kode program yang berfokus pada pembuatan \textit{Minimum Viable Product} (MVP). Platform Food AI Rescue dikembangkan sebagai \textit{Progressive Web App} (PWA) menggunakan \textit{framework} Node.js. Setiap modul utama, seperti dasbor donatur, sistem titik radius lokasi, keranjang klaim penerima, hingga fitur inti validasi kecerdasan buatan (Food Guard AI), dibangun secara bertahap untuk kemudian diintegrasikan ke dalam satu kesatuan sistem yang utuh.
+%     \item \textit{Verification}: \\
+%     Pada tahap ini, sistem dilakukan verifikasi dan pengujian operasional \textit{end-to-end} untuk memastikan apakah sistem memenuhi persyaratan fungsionalitas yang diharapkan. Pengujian dilakukan melalui simulasi \textit{Role-Playing} (di mana tim berperan secara langsung sebagai donatur, relawan logistik, dan penerima). Proses ini ditujukan untuk mengevaluasi respons integrasi modul, kelancaran verifikasi otomatis AI, akurasi data \textit{database}, serta mendeteksi adanya kebingungan navigasi (\textit{UX friction}) atau potensi \textit{crash} pada aplikasi.
+%     \item \textit{Maintenance}: \\
+%     Ini adalah tahap akhir dari metode pengembangan dalam batasan pengerjaan proyek ini. Setelah perangkat lunak diuji coba, pengembang melakukan pemeliharaan berupa stabilisasi sistem akhir. Tahap pemeliharaan ini berfokus pada perbaikan berbagai kesalahan dan \textit{error} minor yang ditemukan pada tahap verifikasi sebelumnya, seperti perbaikan \textit{bug} logika lokasi (peta), penyesuaian tata letak antarmuka, serta penyederhanaan bahasa notifikasi agar aplikasi dinyatakan stabil dan terbebas dari \textit{bug} utama.
+% \end{enumerate}
+
+
+% Halaman ini adalah contoh penggunaan template buku standar LaTeX untuk proyek \textbf{Book FAR}. Struktur template ini dirancang sedemikian rupa agar mudah dikelola dan memenuhi standar estetika modern Telkom University.
+
+% \section{Tujuan Pembuatan Modul}
+% Beberapa tujuan utama dari penggunaan template ini adalah:
+% \begin{enumerate}
+%     \item Meningkatkan efisiensi penulisan buku dan modul praktikum.
+%     \item Menciptakan konsistensi styling di seluruh departemen.
+%     \item Mempermudah proses pembaruan konten di masa mendatang.
+% \end{enumerate}
+
+% \section{Contoh Referensi Gambar}
+% Berikut adalah contoh penyisipan gambar yang menggunakan caption terpusat.
+
+% \begin{figure}[ht]
+%     \centering
+%     % \includegraphics[width=0.5\textwidth]{image/placeholder_figure}
+%     \caption{Contoh Gambar dalam Template}
+%     \label{fig:contoh_gambar}
+% \end{figure}
+
+% Gunakan referensi silang seperti \ref{fig:contoh_gambar} untuk memudahkan pembaca dalam menavigasi konten.
+
+% \section{Contoh Tabel Standar}
+% Gunakan paket \texttt{booktabs} untuk membuat tabel yang lebih bersih dan profesional.
+
+% \begin{table}[ht]
+%     \centering
+%     \caption{Contoh Tabel Data}
+%     \label{tab:data_contoh}
+%     \begin{tabularx}{\textwidth}{l X X}
+%         \toprule
+%         \bfseries No & \bfseries Komponen & \bfseries Deskripsi \\
+%         \midrule
+%         1 & Preamble & Konfigurasi style dan paket utama. \\
+%         2 & Frontmatter & Halaman judul dan daftar isi. \\
+%         3 & Content & Isi materi per bab. \\
+%         \bottomrule
+%     \end{tabularx}
+% \end{table}
+
+% \section{Kesimpulan}
+% Dengan menggunakan template modular ini, Anda dapat fokus pada isi konten tanpa harus sering-sering mengedit preamble untuk setiap bab.
