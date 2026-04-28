@@ -1,13 +1,13 @@
 # Fdb version 4
-["biber main"] 0 "main.bcf" "main.bbl" "main" 1776967437.62577 -1
-  "main.bcf" 1776967436.13076 109091 b0177ca69a992ac956428459c4cb9d94 "pdflatex"
+["biber main"] 1777362971.25128 "main.bcf" "main.bbl" "main" 1777364314.39588 0
+  "main.bcf" 1777364312.14572 109091 0edf8cde5d2605b9eb47b48618f6ba1e "pdflatex"
   "referensi.bib" 1776849367.91147 25791 43be7808e9f0b0501d865437e3d98258 ""
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1776967426.92102 "/home/shaf/development/jagoAI/Book/Book-FAR/main.tex" "main.pdf" "main" 1776967437.62651 0
-  "/home/shaf/development/jagoAI/Book/Book-FAR/main.tex" 1776870174.85601 798 f3e6cc49c5e6eb596c10cff4302a37bf ""
+["pdflatex"] 1777364299.97764 "/home/shaf/development/Book-FoodAIRescue/main.tex" "main.pdf" "main" 1777364314.39708 0
+  "/home/shaf/development/Book-FoodAIRescue/main.tex" 1777363547.78412 798 f3e6cc49c5e6eb596c10cff4302a37bf ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1775001600 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -206,10 +206,10 @@
   "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1775001600 40900 887e0dc8cac988a9e9c574af364cf837 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1776103822.4386 4602601 5d02a5c5d52d7237566d144856366042 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1776103081 7753790 ba04a2daaddcea278ba37d43babff43b ""
-  "bab/bab1.tex" 1776955166.31882 22795 fc8fda5a7b6f2c2ffc5bb91acc8144fc ""
-  "bab/bab2.tex" 1776967426.36566 14962 e875c016a8d6cac5dbdd19778964adfa ""
-  "contents/frontmatter.tex" 1776870673.29797 9563 3a543a23f391bd71fdb99f71619decf9 ""
-  "contents/preamble.tex" 1776870247.859 4894 f679a8ac52aa0ad6bcc258b8e7049211 ""
+  "bab/bab1.tex" 1777364298.81972 21962 ebf96be2412743d57629aa3a8270fbba ""
+  "bab/bab2.tex" 1777363547.77654 14968 a283974b0c23f619e7251f1a775cf1ce ""
+  "contents/frontmatter.tex" 1777363547.76778 9563 3a543a23f391bd71fdb99f71619decf9 ""
+  "contents/preamble.tex" 1777363547.77031 4894 f679a8ac52aa0ad6bcc258b8e7049211 ""
   "image/Logo_Universitas_Telkom_Horizontal.png" 1775206084.03241 85717 8e866233a6456751d1a7402981f89895 ""
   "image/bab2/segmentasi.png" 1776965310.67717 4618321 48416a67ded1fc329117390e08e708c3 ""
   "image/bab2/segmentasi/empati_map/thinks_and_feels/donatur_individu.png" 1776940406 552056 218a8f9ac0c36a86613955214bababfe ""
@@ -225,14 +225,14 @@
   "image/logo.png" 1775206084.03272 14344 ea6c71a1cccd54457e5f9fc3c66a27dd ""
   "image/signature.png" 1775206084.03384 364576 dd2ea6dddd6fc3c999d7b922301d9463 ""
   "indonesian.lbx" 1776849395.68446 1129 02418208dc70c50b9d8b1739f7128b57 ""
-  "main.aux" 1776967436.12076 10705 d1054e92ca6f6a8a57d2a513d7a5e7db "pdflatex"
-  "main.bbl" 1776870655.87039 47576 70117fd05d0fcc2d5d61648d61dcfc64 "biber main"
-  "main.lof" 1776967436.13498 1342 279e786c81aa6158c18948a41ea6be9f "pdflatex"
-  "main.lot" 1776967436.13498 73 23cfe5d6a5dbc9e42550adad93b343e3 "pdflatex"
-  "main.out" 1776967436.12776 3415 545490b1853e9cbed97d6e1492d5e5b5 "pdflatex"
-  "main.run.xml" 1776967436.13498 2435 f0b3549e85e497e9cce3770b05b8e08b "pdflatex"
-  "main.tex" 1776870174.85601 798 f3e6cc49c5e6eb596c10cff4302a37bf ""
-  "main.toc" 1776967436.13498 1866 83525f5dd4eb97cb9612649ddd1646ab "pdflatex"
+  "main.aux" 1777364312.13072 10705 eeccc19c9dbd138f8506a9af41601154 "pdflatex"
+  "main.bbl" 1777362975.88855 47576 47533143e51635b295076b785268ff61 "biber main"
+  "main.lof" 1777364312.15082 1342 279e786c81aa6158c18948a41ea6be9f "pdflatex"
+  "main.lot" 1777364312.15082 73 23cfe5d6a5dbc9e42550adad93b343e3 "pdflatex"
+  "main.out" 1777364312.14072 3415 545490b1853e9cbed97d6e1492d5e5b5 "pdflatex"
+  "main.run.xml" 1777364312.15082 2435 f0b3549e85e497e9cce3770b05b8e08b "pdflatex"
+  "main.tex" 1777363547.78412 798 f3e6cc49c5e6eb596c10cff4302a37bf ""
+  "main.toc" 1777364312.15082 1866 1c8dd1220907b45540420fb2f20c92c0 "pdflatex"
   (generated)
   "main.aux"
   "main.bcf"

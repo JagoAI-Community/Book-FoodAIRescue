@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2026.4.14)  24 APR 2026 01:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2026.4.14)  28 APR 2026 15:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/shaf/development/jagoAI/Book/Book-FAR/main.tex
-(/home/shaf/development/jagoAI/Book/Book-FAR/main.tex
+**/home/shaf/development/Book-FoodAIRescue/main.tex
+(/home/shaf/development/Book-FoodAIRescue/main.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22> (/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
 Document Class: book 2022/07/02 v1.4n Standard LaTeX document class
@@ -3555,1218 +3555,867 @@ I|
 @@1: line 1.2- t=100 -> @@0
 
 @firstpass
-\T1/ptm/m/it/12 Startup \T1/ptm/m/n/12 JagoAI adalah perusahaan inovatif yang dibangun oleh mahasiswa Fakultas Ilmu 
-@ via @@0 b=0 p=0 d=100
-@@1: line 1.2 t=100 -> @@0
-Terapan Universitas Telkom dengan fokus pada solusi cerdas berbasis IoT dan kecerdasan 
-@ via @@1 b=22 p=0 d=1024
-@@2: line 2.3 t=1124 -> @@1
-buatan. Sebagai wujud ekspansi inovasi JagoAI dalam menjawab tantangan sosial dan 
-@ via @@2 b=26 p=0 d=11296
-@@3: line 3.1 t=12420 -> @@2
-ekologis, dikembangkanlah sebuah platform khusus bernama Food AI Rescue. Platform 
-@ via @@3 b=1 p=0 d=121
-@@4: line 4.2 t=12541 -> @@3
-ini dirancang untuk memberikan akses teknologi yang menjembatani para penyumbang 
-@ via @@4 b=10 p=0 d=400
-@@5: line 5.2 t=12941 -> @@4
+\T1/ptm/m/n/12 Paradoks pangan global saat ini ditandai oleh kontradiksi tajam antara tingginya surplus 
+@ via @@0 b=2 p=0 d=144
+@@1: line 1.2 t=144 -> @@0
 @secondpass
-\T1/ptm/m/it/12 Startup \T1/ptm/m/n/12 Ja-go-AI ada-lah per-u-sa-ha-an ino-va-tif yang di-ba-ngun oleh ma-ha-sis-wa Fa-kul-tas 
-@ via @@0 b=419 p=0 d=194041
-@@1: line 1.0 t=194041 -> @@0
-Il-mu 
-@ via @@0 b=0 p=0 d=100
-@@2: line 1.2 t=100 -> @@0
-Ter-ap-an Uni-ver-si-tas Tel-kom de-ngan fo-kus pa-da so-lu-si ce-rdas ber-ba-sis 
-@ via @@1 b=6859 p=0 d=47183161
-@@3: line 2.0 t=47377202 -> @@1
-IoT 
-@ via @@1 b=1668 p=0 d=2815684
-@@4: line 2.0 t=3009725 -> @@1
-dan 
-@ via @@1 b=218 p=0 d=51984
-@ via @@2 b=2318 p=0 d=5429584
-@@5: line 2.0 t=246025 -> @@1
-ke-ce-rdas-an 
-@ via @@2 b=22 p=0 d=1024
-@@6: line 2.3 t=1124 -> @@2
-bu-at-an. Se-ba-gai wu-jud eks-pan-si ino-va-si Ja-go-AI da-lam 
-@ via @@3 b=4266 p=0 d=18284176
-@@7: line 3.0 t=65661378 -> @@3
-men-ja-wab 
-@ via @@3 b=50 p=0 d=3600
-@ via @@4 b=677 p=0 d=471969
-@ via @@5 b=3312 p=0 d=11035684
-@@8: line 3.0 t=3481694 -> @@4
-tan-tang-an 
-@ via @@5 b=7 p=0 d=10289
-@ via @@6 b=4582 p=0 d=21096464
-@@9: line 3.2 t=256314 -> @@5
-so-si-al 
-@ via @@6 b=509 p=0 d=279361
-@@10: line 3.0 t=280485 -> @@6
-dan 
-@ via @@6 b=26 p=0 d=11296
-@@11: line 3.1 t=12420 -> @@6
-eko-lo-gis, di-kem-bang-ka-nlah se-bu-ah pla-tform khu-sus 
-@ via @@7 b=546 p=0 d=309136
-@@12: line 4.0 t=65970514 -> @@7
-ber-na-ma 
-@ via @@8 b=1184 p=0 d=1425636
-@@13: line 4.0 t=4907330 -> @@8
-Fo-od 
-@ via @@8 b=6 p=0 d=10256
-@ via @@9 b=5345 p=0 d=28686025
-@@14: line 4.2 t=3491950 -> @@8
-AI 
-@ via @@9 b=1418 p=0 d=2049184
-@@15: line 4.0 t=2305498 -> @@9
-Re-scue. 
-@ via @@9 b=0 p=0 d=100
-@ via @@10 b=584 p=0 d=352836
-@ via @@11 b=3884 p=0 d=15163236
-@@16: line 4.2 t=256414 -> @@9
-Pla-tform 
-@ via @@11 b=1 p=0 d=121
-@@17: line 4.2 t=12541 -> @@11
-ini di-ran-cang un-tuk mem-be-rik-an ak-ses 
-@ via @@12 b=4013 p=0 d=16184529
-@@18: line 5.0 t=82155043 -> @@12
-tek-no-lo-gi 
-@ via @@12 b=73 p=0 d=6889
-@ via @@13 b=3333 p=0 d=11175649
-@@19: line 5.0 t=16082979 -> @@13
-yang 
-@ via @@12 b=78 p=0 d=17744
-@ via @@13 b=521 p=0 d=281961
-@ via @@14 b=3525 p=0 d=12506225
-@@20: line 5.0 t=5189291 -> @@13
-men-jem-ba-ta-ni 
-@ via @@14 b=72 p=0 d=6724
-@ via @@15 b=11 p=0 d=10441
-@ via @@16 b=4429 p=0 d=19714721
-@@21: line 5.2 t=2315939 -> @@15
-pa-ra 
-@ via @@16 b=480 p=0 d=250100
-@@22: line 5.0 t=506514 -> @@16
-pe-nyum-bang 
-@ via @@17 b=10 p=0 d=400
-@@23: line 5.2 t=12941 -> @@17
-(do-na-tur) sur-plus ma-kan-an de-ngan 
-@ via @@18 b=628 p=0 d=407044
-@@24: line 6.0 t=82562087 -> @@18
-fa-si-li-tas 
-@ via @@19 b=1400 p=0 d=1988100
-@@25: line 6.0 t=18071079 -> @@19
-so-si-al 
-@ via @@19 b=2 p=0 d=10144
-@ via @@20 b=968 p=0 d=956484
-@@26: line 6.0 t=6145775 -> @@20
-ma-u-pun 
-@ via @@21 b=7238 p=0 d=52543504
-@@27: line 6.0 t=54859443 -> @@21
-ma-sya-ra-kat 
-@ via @@21 b=0 p=0 d=100
-@ via @@22 b=591 p=0 d=361201
-@@28: line 6.0 t=867715 -> @@22
-yang 
-@ via @@22 b=0 p=0 d=10100
-@@29: line 6.2 t=516614 -> @@22
-mem-bu-tuhk-an. Me-la-lui sis-tem oto-ma-ti-sa-si 
-@ via @@24 b=334 p=0 d=118336
-@ via @@25 b=7116 p=0 d=50779876
-@@30: line 7.0 t=68850955 -> @@25
-yang 
-@ via @@24 b=0 p=0 d=10100
-@ via @@25 b=1163 p=0 d=1375929
-@@31: line 7.0 t=19447008 -> @@25
-in-te-rak-tif, 
-@ via @@26 b=162 p=0 d=29584
-@ via @@27 b=5832 p=0 d=34128964
-@@32: line 7.0 t=6175359 -> @@26
-Fo-od 
-@ via @@27 b=703 p=0 d=508369
-@@33: line 7.0 t=55367812 -> @@27
-AI 
-@ via @@27 b=91 p=0 d=10201
-@ via @@28 b=7344 p=0 d=54081316
-@@34: line 7.1 t=54869644 -> @@27
-Re-scue 
-@ via @@28 b=752 p=0 d=580644
-@ via @@29 b=4569 p=0 d=20977241
-@@35: line 7.0 t=1448359 -> @@28
-mem-ba-wa 
-@ via @@29 b=33 p=0 d=1849
-@@36: line 7.1 t=518463 -> @@29
-vi-si 
-@ via @@29 b=89 p=0 d=9801
-@@37: line 7.3 t=526415 -> @@29
-un-tuk me-mfa-si-li-ta-si ma-na-je-men 
-@ via @@30 b=1874 p=0 d=3549456
-@@38: line 8.0 t=72400411 -> @@30
-do-na-si 
-@ via @@30 b=15 p=0 d=625
-@ via @@31 b=1028 p=0 d=1077444
-@@39: line 8.0 t=20524452 -> @@31
-pa-ngan 
-@ via @@31 b=1 p=0 d=10121
-@ via @@32 b=2707 p=0 d=7382089
-@@40: line 8.0 t=13557448 -> @@32
-se-ca-ra 
-@ via @@32 b=66 p=0 d=5776
-@ via @@33 b=1888 p=0 d=3602404
-@ via @@34 b=6808 p=0 d=46485124
-@@41: line 8.1 t=6181135 -> @@32
-am-an 
-@ via @@33 b=48 p=0 d=3364
-@ via @@34 b=624 p=0 d=401956
-@@42: line 8.0 t=55271600 -> @@34
-dan 
-@ via @@33 b=46 p=0 d=13136
-@ via @@34 b=14 p=0 d=576
-@ via @@35 b=2460 p=0 d=6100900
-@@43: line 8.0 t=7549259 -> @@35
-ter-pa-du. 
-@ via @@35 b=2 p=0 d=10144
-@ via @@36 b=4391 p=0 d=19368801
-@@44: line 8.2 t=1458503 -> @@35
-Hal 
-@ via @@36 b=468 p=0 d=228484
-@ via @@37 b=2318 p=0 d=5429584
-@@45: line 8.0 t=746947 -> @@36
-ini 
-@ via @@36 b=66 p=0 d=5776
-@ via @@37 b=674 p=0 d=477856
-@@46: line 8.1 t=524239 -> @@36
-se-jal-an 
-@ via @@37 b=1 p=0 d=121
-@@47: line 8.2 t=526536 -> @@37
-de-ngan ur-gen-si 
-@ via @@38 b=6078 p=0 d=37063744
-@@48: line 9.0 t=109464155 -> @@38
-glo-bal 
-@ via @@38 b=1092 p=0 d=1214404
-@ via @@39 b=6364 p=0 d=40627876
-@@49: line 9.0 t=61152328 -> @@39
-un-tuk 
-@ via @@38 b=63 p=0 d=5329
-@ via @@39 b=1365 p=0 d=1890625
-@ via @@40 b=8113 p=0 d=65983129
-@@50: line 9.0 t=22415077 -> @@39
-me-la-kuk-an 
-@ via @@39 b=0 p=0 d=10100
-@ via @@40 b=425 p=0 d=189225
-@ via @@41 b=3525 p=0 d=12496225
-@@51: line 9.0 t=13746673 -> @@40
-da-ur 
-@ via @@40 b=16 p=0 d=676
-@ via @@41 b=787 p=0 d=635209
-@ via @@42 b=4279 p=0 d=18395521
-@@52: line 9.0 t=6816344 -> @@41
-ulang 
-@ via @@41 b=30 p=0 d=1600
-@ via @@42 b=752 p=0 d=580644
-@ via @@43 b=2875 p=0 d=8323225
-@@53: line 9.1 t=6182735 -> @@41
-dan 
-@ via @@41 b=6 p=0 d=256
-@ via @@42 b=104 p=0 d=12996
-@ via @@43 b=752 p=0 d=580644
-@@54: line 9.2 t=6181391 -> @@41
-pe-man-fa-at-an 
-@ via @@44 b=187 p=0 d=48809
-@ via @@45 b=1533 p=0 d=2380849
-@ via @@46 b=5175 p=0 d=26884225
-@@55: line 9.0 t=1507312 -> @@44
-kem-ba-li 
-@ via @@45 b=0 p=0 d=10100
-@ via @@46 b=115 p=0 d=15625
-@ via @@47 b=3954 p=0 d=15723296
-@@56: line 9.0 t=539864 -> @@46
-lim-bah 
-@ via @@47 b=115 p=0 d=25625
-@@57: line 9.0 t=552161 -> @@47
-ma-kan-an 
-@ via @@48 b=2635 p=0 d=6996025
-@@58: line 10.0 t=116460180 -> @@48
-se-ca-ra 
-@ via @@48 b=61 p=0 d=5041
-@ via @@49 b=2644 p=0 d=7043716
-@@59: line 10.0 t=68196044 -> @@49
-esen-si-al 
-@ via @@49 b=7 p=0 d=10289
-@ via @@50 b=1248 p=0 d=1582564
-@@60: line 10.0 t=23997641 -> @@50
-de-mi 
-@ via @@50 b=20 p=0 d=900
-@ via @@51 b=6842 p=0 d=46949904
-@@61: line 10.1 t=22415977 -> @@50
-men-ja-ga 
-@ via @@51 b=200 p=0 d=44100
-@ via @@52 b=2435 p=0 d=5978025
-@@62: line 10.0 t=12794369 -> @@52
-ke-ber-lan-jut-an 
-@ via @@53 b=14 p=0 d=576
-@ via @@54 b=800 p=0 d=666100
-@@63: line 10.1 t=6183311 -> @@53
-ling-kung-an 
-@ via @@55 b=1565 p=0 d=2480625
-@@64: line 10.0 t=3987937 -> @@55
-[[][]1[][]]. 
-@ via @@55 b=97 p=0 d=11449
-@ via @@56 b=6396 p=0 d=41036836
-@@65: line 10.1 t=1518761 -> @@55
-Meng-u-ra-ngi 
-@ via @@56 b=50 p=0 d=13600
-@ via @@57 b=536 p=0 d=298116
-@@66: line 10.3 t=553464 -> @@56
-pem-bo-ros-an 
-@ via @@58 b=73 p=0 d=6889
-@ via @@59 b=2799 p=0 d=7890481
-@@67: line 11.0 t=76086525 -> @@59
-di 
-@ via @@58 b=1 p=0 d=10121
-@ via @@59 b=857 p=0 d=751689
-@@68: line 11.0 t=68947733 -> @@59
-ting-kat 
-@ via @@59 b=0 p=0 d=10100
-@ via @@60 b=1226 p=0 d=1527696
-@ via @@61 b=7558 p=0 d=57274624
-@@69: line 11.0 t=25525337 -> @@60
-kon-sum-si 
-@ via @@61 b=130 p=0 d=19600
-@ via @@62 b=5939 p=0 d=35390601
-@@70: line 11.0 t=22435577 -> @@61
-ru-mah 
-@ via @@62 b=441 p=0 d=203401
-@@71: line 11.0 t=12997770 -> @@62
-tang-ga 
-@ via @@62 b=71 p=0 d=16561
-@ via @@63 b=4242 p=0 d=18079504
-@@72: line 11.3 t=12810930 -> @@62
-ju-ga 
-@ via @@63 b=776 p=0 d=617796
-@@73: line 11.0 t=6801107 -> @@63
-te-lah 
-@ via @@63 b=21 p=0 d=961
-@ via @@64 b=4378 p=0 d=19254544
-@@74: line 11.1 t=6184272 -> @@63
-ter-buk-ti 
-@ via @@64 b=261 p=0 d=73441
-@ via @@65 b=3019 p=0 d=9174841
-@@75: line 11.0 t=4061378 -> @@64
-se-ca-ra 
-@ via @@64 b=8 p=0 d=10324
-@ via @@65 b=91 p=0 d=10201
-@@76: line 11.1 t=1528962 -> @@65
-il-mi-ah 
-@ via @@66 b=1609 p=0 d=2631161
-@@77: line 11.0 t=3184625 -> @@66
-se-ba-gai 
-@ via @@66 b=4 p=0 d=196
-@ via @@67 b=5431 p=0 d=29604481
-@@78: line 11.2 t=553660 -> @@66
-sa-lah 
-@ via @@67 b=857 p=0 d=751689
-@ via @@68 b=2529 p=0 d=6446521
-@@79: line 12.0 t=75394254 -> @@68
-sa-tu 
-@ via @@67 b=60 p=0 d=4900
-@ via @@68 b=366 p=0 d=141376
-@ via @@69 b=5119 p=0 d=26306641
-@@80: line 12.0 t=51831978 -> @@69
-stra-te-gi 
-@ via @@68 b=68 p=0 d=16084
-@ via @@69 b=305 p=0 d=99225
-@ via @@70 b=8000 p=0 d=64160100
-@@81: line 12.0 t=25624562 -> @@69
-mi-ti-ga-si 
-@ via @@70 b=601 p=0 d=373321
-@ via @@71 b=5787 p=0 d=33605209
-@@82: line 12.0 t=22808898 -> @@70
-yang 
-@ via @@70 b=9 p=0 d=10361
-@ via @@71 b=1048 p=0 d=1119364
-@@83: line 12.0 t=14117134 -> @@71
-pa-ling 
-@ via @@71 b=11 p=0 d=10441
-@ via @@72 b=1194 p=0 d=1459616
-@ via @@73 b=5592 p=0 d=31382404
-@@84: line 12.2 t=13008211 -> @@71
-kru-si-al 
-@ via @@72 b=9 p=0 d=361
-@ via @@73 b=471 p=0 d=231361
-@ via @@74 b=3612 p=0 d=13118884
-@@85: line 12.0 t=7032468 -> @@73
-un-tuk 
-@ via @@73 b=0 p=0 d=10100
-@ via @@74 b=321 p=0 d=109561
-@ via @@75 b=5696 p=0 d=32558436
-@@86: line 12.0 t=6293833 -> @@74
-me-nek-an 
-@ via @@75 b=155 p=0 d=27225
-@ via @@76 b=3000 p=0 d=9060100
-@@87: line 12.0 t=4088603 -> @@75
-je-jak 
-@ via @@75 b=6 p=0 d=10256
-@ via @@76 b=334 p=0 d=118336
-@ via @@77 b=4341 p=0 d=18931201
-@@88: line 12.0 t=1647298 -> @@76
-kar-bon 
-@ via @@76 b=46 p=0 d=13136
-@ via @@77 b=252 p=0 d=68644
-@ via @@78 b=4899 p=0 d=24108281
-@@89: line 12.3 t=1542098 -> @@76
-ope-ra-sio-nal 
-@ via @@78 b=6 p=0 d=256
-@ via @@79 b=748 p=0 d=574564
-@ via @@80 b=4479 p=0 d=20151121
-@@90: line 12.2 t=553916 -> @@78
-[[][]2[][]]. 
-@\par via @@79 b=0 p=-10000 d=10100
-@\par via @@80 b=0 p=-10000 d=10100
-@\par via @@81 b=0 p=-10000 d=10100
-@\par via @@82 b=0 p=-10000 d=10100
-@\par via @@83 b=0 p=-10000 d=10100
-@\par via @@84 b=0 p=-10000 d=100
-@\par via @@85 b=0 p=-10000 d=10100
-@\par via @@86 b=0 p=-10000 d=10100
-@\par via @@87 b=0 p=-10000 d=10100
-@\par via @@88 b=0 p=-10000 d=10100
-@\par via @@89 b=0 p=-10000 d=100
-@\par via @@90 b=0 p=-10000 d=100
-@@91: line 13.2- t=554016 -> @@90
-
-@firstpass
-[]\T1/ptm/m/n/12 Sektor sisa makanan (\T1/ptm/m/it/12 food waste\T1/ptm/m/n/12 ) dipilih sebagai fokus utama dari Food AI Rescue karena 
-@ via @@0 b=43 p=0 d=2809
-@@1: line 1.3 t=2809 -> @@0
-memiliki potensi permasalahan sekaligus peluang yang sangat masif di Indonesia. Secara 
-@ via @@1 b=3 p=0 d=169
-@@2: line 2.2 t=2978 -> @@1
-statistik, Indonesia menghasilkan 23 hingga 48 juta ton sampah makanan setiap tahunnya 
-@ via @@2 b=1 p=0 d=121
-@@3: line 3.2 t=3099 -> @@2
-yang memicu kerugian ekonomi nasional dalam jumlah masif [[][]3[][]]. Ironisnya, pemborosan 
-@ via @@3 b=6 p=0 d=256
-@@4: line 4.2 t=3355 -> @@3
-@secondpass
-[]\T1/ptm/m/n/12 Sektor si-sa ma-kan-an (\T1/ptm/m/it/12 fo-od was-te\T1/ptm/m/n/12 ) di-pi-lih se-ba-gai fo-kus uta-ma da-ri Fo-od AI 
-@ via @@0 b=3623 p=0 d=13208689
-@@1: line 1.0 t=13208689 -> @@0
-Re-scue 
-@ via @@0 b=214 p=0 d=60176
-@@2: line 1.0 t=60176 -> @@0
-ka-re-na 
-@ via @@0 b=43 p=0 d=2809
-@@3: line 1.3 t=2809 -> @@0
-me-mi-li-ki po-ten-si per-ma-sa-lah-an se-ka-li-gus pe-lu-ang yang sa-ngat 
-@ via @@1 b=5787 p=0 d=33605209
-@@4: line 2.0 t=46813898 -> @@1
-ma-sif 
-@ via @@1 b=417 p=0 d=182329
-@@5: line 2.0 t=13391018 -> @@1
-di 
-@ via @@1 b=44 p=0 d=2916
-@ via @@2 b=3189 p=0 d=10233601
-@@6: line 2.0 t=10293777 -> @@2
-In-do-ne-sia. 
-@ via @@2 b=1 p=0 d=10121
-@ via @@3 b=900 p=0 d=838100
-@@7: line 2.2 t=70297 -> @@2
-Se-ca-ra 
-@ via @@3 b=3 p=0 d=169
-@@8: line 2.2 t=2978 -> @@3
-sta-tis-tik, In-do-ne-sia meng-ha-silk-an 23 hing-ga 48 
-@ via @@4 b=4366 p=0 d=19149376
-@@9: line 3.0 t=65963274 -> @@4
-ju-ta 
-@ via @@4 b=1184 p=0 d=1425636
-@ via @@5 b=6157 p=0 d=38031889
-@@10: line 3.0 t=48239534 -> @@4
-ton 
-@ via @@4 b=240 p=0 d=62500
-@ via @@5 b=2181 p=0 d=4800481
-@ via @@6 b=4872 p=0 d=23833924
-@@11: line 3.0 t=18191499 -> @@5
-sam-pah 
-@ via @@4 b=86 p=0 d=19216
-@ via @@5 b=78 p=0 d=7744
-@ via @@6 b=376 p=0 d=148996
-@@12: line 3.0 t=10442773 -> @@6
-ma-kan-an 
-@ via @@7 b=1127 p=0 d=1302769
-@@13: line 3.0 t=1373066 -> @@7
-se-ti-ap 
-@ via @@7 b=13 p=0 d=529
-@ via @@8 b=1484 p=0 d=2242036
-@@14: line 3.1 t=70826 -> @@7
-ta-hun-nya 
-@ via @@8 b=1 p=0 d=121
-@@15: line 3.2 t=3099 -> @@8
-yang me-mi-cu ke-ru-gi-an eko-no-mi 
-@ via @@9 b=7740 p=0 d=60062500
-@@16: line 4.0 t=126025774 -> @@9
-na-sio-nal 
-@ via @@9 b=303 p=0 d=97969
-@ via @@10 b=2452 p=0 d=6061444
-@@17: line 4.0 t=54300978 -> @@10
-da-lam 
-@ via @@9 b=48 p=0 d=13364
-@ via @@10 b=55 p=0 d=4225
-@ via @@11 b=849 p=0 d=737881
-@@18: line 4.0 t=18929380 -> @@11
-jum-lah 
-@ via @@11 b=9 p=0 d=10361
-@ via @@12 b=1132 p=0 d=1304164
-@@19: line 4.0 t=11746937 -> @@12
-ma-sif 
-@ via @@12 b=5 p=0 d=10225
-@ via @@13 b=3514 p=0 d=12418576
-@@20: line 4.2 t=10452998 -> @@12
-[[][]3[][]]. 
-@ via @@13 b=621 p=0 d=398161
-@ via @@14 b=6173 p=0 d=38229489
-@@21: line 4.0 t=1771227 -> @@13
-Iro-nis-nya, 
-@ via @@14 b=18 p=0 d=784
-@ via @@15 b=2644 p=0 d=7053716
-@@22: line 4.1 t=71610 -> @@14
-pem-bo-ros-an 
-@ via @@15 b=6 p=0 d=256
-@@23: line 4.2 t=3355 -> @@15
-ini ter-ja-di ber-dam-ping-an 
-@ via @@16 b=480 p=0 d=240100
-@ via @@17 b=7308 p=0 d=53553124
-@@24: line 5.0 t=107854102 -> @@17
-de-ngan 
-@ via @@16 b=14 p=0 d=10576
-@ via @@17 b=744 p=0 d=568516
-@ via @@18 b=5908 p=0 d=35022724
-@@25: line 5.0 t=53952104 -> @@18
-ting-gi-nya 
-@ via @@18 b=161 p=0 d=29241
-@ via @@19 b=3449 p=0 d=11964681
-@@26: line 5.0 t=18958621 -> @@18
-an-cam-an 
-@ via @@19 b=36 p=0 d=2116
-@ via @@20 b=1365 p=0 d=1900625
-@@27: line 5.1 t=11749053 -> @@19
-kri-sis 
-@ via @@20 b=41 p=0 d=2601
-@ via @@21 b=1400 p=0 d=1988100
-@@28: line 5.0 t=3759327 -> @@21
-ke-ta-han-an 
-@ via @@22 b=1490 p=0 d=2250000
-@@29: line 5.0 t=2321610 -> @@22
-pa-ngan 
-@ via @@22 b=4 p=0 d=196
-@ via @@23 b=7047 p=0 d=49811249
-@@30: line 5.2 t=71806 -> @@22
-dan 
-@ via @@23 b=1412 p=0 d=2032084
-@@31: line 5.0 t=2035439 -> @@23
-pre-va-len-si \T1/ptm/m/it/12 stun-ting \T1/ptm/m/n/12 (gi-zi 
-@ via @@24 b=1701 p=0 d=2927521
-@@32: line 6.0 t=110781623 -> @@24
-bu-ruk) 
-@ via @@24 b=6 p=0 d=10256
-@ via @@25 b=2073 p=0 d=4338889
-@@33: line 6.0 t=58290993 -> @@25
-yang 
-@ via @@25 b=103 p=0 d=12769
-@ via @@26 b=6859 p=0 d=47183161
-@@34: line 6.0 t=53964873 -> @@25
-ma-sih 
-@ via @@26 b=714 p=0 d=524176
-@@35: line 6.0 t=19482797 -> @@26
-me-nyen-tuh 
-@ via @@27 b=242 p=0 d=63504
-@ via @@28 b=3536 p=0 d=12574116
-@@36: line 6.0 t=11812557 -> @@27
-ang-ka 
-@ via @@27 b=83 p=0 d=18649
-@ via @@28 b=171 p=0 d=32761
-@@37: line 6.0 t=3792088 -> @@28
-32,1% 
-@ via @@29 b=1019 p=0 d=1058841
-@@38: line 6.0 t=3380451 -> @@29
-di 
-@ via @@29 b=246 p=0 d=65536
-@ via @@30 b=4556 p=0 d=20858356
-@@39: line 6.0 t=2387146 -> @@29
-ber-ba-gai 
-@ via @@30 b=104 p=0 d=22996
-@ via @@31 b=1127 p=0 d=1292769
-@@40: line 6.0 t=94802 -> @@30
-wi-la-yah 
-@ via @@31 b=0 p=0 d=10100
-@@41: line 6.2 t=2045539 -> @@31
-agra-ris, se-per-ti 
-@ via @@32 b=1371 p=0 d=1907161
-@@42: line 7.0 t=112688784 -> @@32
-di 
-@ via @@32 b=389 p=0 d=159201
-@ via @@33 b=4699 p=0 d=22174681
-@@43: line 7.0 t=80465674 -> @@33
-Bon-do-wo-so 
-@ via @@33 b=3 p=0 d=10169
-@ via @@34 b=571 p=0 d=337561
-@ via @@35 b=5847 p=0 d=34304449
-@@44: line 7.0 t=53787246 -> @@35
-[[][]4[][]]. 
-@ via @@34 b=26 p=0 d=1296
-@ via @@35 b=1418 p=0 d=2039184
-@@45: line 7.0 t=21521981 -> @@35
-Kri-sis 
-@ via @@35 b=14 p=0 d=576
-@ via @@36 b=2980 p=0 d=8940100
-@@46: line 7.1 t=19483373 -> @@35
-ini 
-@ via @@35 b=7 p=0 d=10289
-@ via @@36 b=1082 p=0 d=1192464
-@ via @@37 b=5607 p=0 d=31550689
-@@47: line 7.0 t=13005021 -> @@36
-me-nun-tut 
-@ via @@36 b=1 p=0 d=10121
-@ via @@37 b=345 p=0 d=126025
-@ via @@38 b=3209 p=0 d=10361961
-@ via @@39 b=6725 p=0 d=45360225
-@@48: line 7.0 t=3918113 -> @@37
-ada-nya 
-@ via @@37 b=0 p=0 d=10100
-@ via @@38 b=271 p=0 d=78961
-@ via @@39 b=883 p=0 d=797449
-@@49: line 7.0 t=3184595 -> @@39
-in-te-rven-si 
-@ via @@39 b=24 p=0 d=11156
-@ via @@40 b=584 p=0 d=352836
-@ via @@41 b=6316 p=0 d=40028276
-@@50: line 7.0 t=447638 -> @@40
-stra-te-gi 
-@ via @@40 b=0 p=0 d=10100
-@ via @@41 b=718 p=0 d=539984
-@@51: line 7.2 t=104902 -> @@40
-ke-ta-han-an 
-@ via @@42 b=3482 p=0 d=12194064
-@ via @@43 b=7814 p=0 d=61214976
-@@52: line 8.0 t=124882848 -> @@42
-pa-ngan 
-@ via @@42 b=196 p=0 d=42436
-@ via @@43 b=787 p=0 d=635209
-@@53: line 8.0 t=81100883 -> @@43
-yang 
-@ via @@42 b=0 p=0 d=10100
-@ via @@43 b=22 p=0 d=1024
-@ via @@44 b=5008 p=0 d=25180324
-@@54: line 8.0 t=78967570 -> @@44
-ber-ke-lan-jut-an 
-@ via @@44 b=1 p=0 d=10121
-@ via @@45 b=391 p=0 d=160801
-@ via @@46 b=6252 p=0 d=39212644
-@@55: line 8.0 t=21682782 -> @@45
-dan 
-@ via @@45 b=2 p=0 d=10144
-@ via @@46 b=1173 p=0 d=1399489
-@ via @@47 b=4846 p=0 d=23580736
-@@56: line 8.0 t=20882862 -> @@46
-ber-ba-sis 
-@ via @@46 b=43 p=0 d=12809
-@ via @@47 b=25 p=0 d=1225
-@ via @@48 b=6708 p=0 d=45131524
-@@57: line 8.1 t=13006246 -> @@47
-ma-sya-ra-kat, 
-@ via @@48 b=3 p=0 d=10169
-@ via @@49 b=1394 p=0 d=1971216
-@@58: line 8.2 t=3928282 -> @@48
-se-ba-gai-ma-na 
-@ via @@50 b=240 p=0 d=62500
-@@59: line 8.0 t=510138 -> @@50
-yang 
-@ via @@51 b=977 p=0 d=984169
-@@60: line 8.0 t=1089071 -> @@51
-men-de-sak 
-@ via @@52 b=1024 p=0 d=1069156
-@@61: line 9.0 t=125952004 -> @@52
-un-tuk 
-@ via @@52 b=0 p=0 d=10100
-@ via @@53 b=1888 p=0 d=3602404
-@@62: line 9.0 t=84703287 -> @@53
-di-u-pa-yak-an 
-@ via @@54 b=13 p=0 d=529
-@@63: line 9.1 t=78968099 -> @@54
-di 
-@ via @@54 b=42 p=0 d=12704
-@ via @@55 b=7777 p=0 d=60637369
-@@64: line 9.3 t=78980274 -> @@54
-wi-la-yah 
-@ via @@55 b=244 p=0 d=64516
-@ via @@56 b=2384 p=0 d=5731236
-@@65: line 9.0 t=21747298 -> @@55
-Ja-wa 
-@ via @@55 b=22 p=0 d=11024
-@ via @@56 b=89 p=0 d=9801
-@ via @@57 b=6063 p=0 d=36881329
-@@66: line 9.1 t=20892663 -> @@56
-Te-ngah 
-@ via @@57 b=181 p=0 d=36481
-@@67: line 9.0 t=13042727 -> @@57
-gu-na 
-@ via @@57 b=62 p=0 d=15184
-@ via @@58 b=3826 p=0 d=14724896
-@@68: line 9.3 t=13021430 -> @@57
-me-na-nga-ni 
-@ via @@58 b=0 p=0 d=100
-@ via @@59 b=6141 p=0 d=37834801
-@@69: line 9.2 t=3928382 -> @@58
-ma-sa-lah 
-@ via @@59 b=172 p=0 d=33124
-@ via @@60 b=2591 p=0 d=6765201
-@@70: line 9.0 t=543262 -> @@59
-in-fla-si 
-@ via @@60 b=65 p=0 d=5625
-@ via @@61 b=6944 p=0 d=48358116
-@@71: line 9.1 t=1094696 -> @@60
-har-ga, 
-@ via @@61 b=684 p=0 d=481636
-@ via @@62 b=6316 p=0 d=40018276
-@@72: line 10.0 t=124721563 -> @@62
-ke-mis-kin-an, 
-@ via @@62 b=1 p=0 d=10121
-@ via @@63 b=5077 p=0 d=25877569
-@@73: line 10.2 t=84713408 -> @@62
-ser-ta 
-@ via @@63 b=692 p=0 d=492804
-@ via @@64 b=2253 p=0 d=5131169
-@@74: line 10.0 t=79460903 -> @@63
-ke-ku-rang-an 
-@ via @@65 b=568 p=0 d=334084
-@ via @@66 b=5231 p=0 d=27468081
-@@75: line 10.0 t=22081382 -> @@65
-gi-zi 
-@ via @@65 b=13 p=0 d=529
-@ via @@66 b=949 p=0 d=919681
-@@76: line 10.1 t=21747827 -> @@65
-se-ca-ra 
-@ via @@66 b=1 p=0 d=121
-@ via @@67 b=1412 p=0 d=2022084
-@@77: line 10.0 t=15064811 -> @@67
-komp-re-hen-sif 
-@ via @@68 b=1 p=0 d=121
-@ via @@69 b=4492 p=0 d=20278004
-@@78: line 10.2 t=13021551 -> @@68
-[[][]5[][]]. 
-@ via @@69 b=812 p=0 d=685684
-@@79: line 10.0 t=4614066 -> @@69
-Kom-bi-na-si 
-@ via @@70 b=100 p=0 d=12100
-@ via @@71 b=2213 p=0 d=4941729
-@@80: line 10.0 t=555362 -> @@70
-be-sar-nya 
-@ via @@71 b=5 p=0 d=225
-@ via @@72 b=1019 p=0 d=1058841
-@@81: line 10.2 t=1094921 -> @@71
-vo-lu-me 
-@ via @@72 b=0 p=0 d=10100
-@ via @@73 b=4168 p=0 d=17465684
-@@82: line 11.0 t=102179092 -> @@73
-ma-kan-an 
-@ via @@73 b=54 p=0 d=4096
-@ via @@74 b=1248 p=0 d=1582564
-@@83: line 11.0 t=81043467 -> @@74
-yang 
-@ via @@74 b=48 p=0 d=3364
-@ via @@75 b=7012 p=0 d=49308484
-@@84: line 11.0 t=71389866 -> @@75
-ter-bu-ang 
-@ via @@75 b=329 p=0 d=114921
-@ via @@76 b=2205 p=0 d=4906225
-@@85: line 11.0 t=22196303 -> @@75
-sia-sia 
-@ via @@75 b=23 p=0 d=11089
-@ via @@76 b=62 p=0 d=5184
-@ via @@77 b=2119 p=0 d=4532641
-@@86: line 11.0 t=19597452 -> @@77
-dan 
-@ via @@76 b=13 p=0 d=10529
-@ via @@77 b=329 p=0 d=114921
-@@87: line 11.0 t=15179732 -> @@77
-men-de-sak-nya 
-@ via @@78 b=355 p=0 d=143225
-@ via @@79 b=4429 p=0 d=19704721
-@@88: line 11.0 t=13164776 -> @@78
-ke-bu-tuh-an 
-@ via @@79 b=2 p=0 d=10144
-@ via @@80 b=5133 p=0 d=26450449
-@@89: line 11.2 t=4624210 -> @@79
-nu-tri-si 
-@ via @@80 b=184 p=0 d=37636
-@@90: line 11.0 t=592998 -> @@80
-ini 
-@ via @@80 b=1 p=0 d=10121
-@ via @@81 b=2884 p=0 d=8385236
-@@91: line 11.2 t=565483 -> @@80
-men-ja-dik-an 
-@ via @@82 b=601 p=0 d=373321
-@@92: line 12.0 t=102552413 -> @@82
-pe-nya-lur-an 
-@ via @@83 b=178 p=0 d=35344
-@ via @@84 b=3250 p=0 d=10627600
-@@93: line 12.0 t=81078811 -> @@83
+\T1/ptm/m/n/12 Paradoks pa-ngan glo-bal sa-at ini di-tan-dai oleh kon-tra-dik-si ta-jam an-ta-ra ting-gi-nya 
+@ via @@0 b=1348 p=0 d=1854164
+@@1: line 1.0 t=1854164 -> @@0
 sur-plus 
-@ via @@84 b=13 p=0 d=529
-@ via @@85 b=4995 p=0 d=25050025
-@@94: line 12.0 t=47246328 -> @@85
-pa-ngan 
-@ via @@85 b=86 p=0 d=9216
-@ via @@86 b=3965 p=0 d=15800625
-@@95: line 12.1 t=22205519 -> @@85
-se-ba-gai 
-@ via @@86 b=25 p=0 d=1225
-@ via @@87 b=949 p=0 d=919681
-@@96: line 12.0 t=16099413 -> @@87
-pa-sar 
-@ via @@87 b=0 p=0 d=10100
-@@97: line 12.2 t=15189832 -> @@87
+@ via @@0 b=2 p=0 d=144
+@@2: line 1.2 t=144 -> @@0
+pro-duk-si yang ber-u-jung pa-da lim-bah ma-sif de-ngan kri-sis ke-ta-han-an 
+@ via @@1 b=6608 p=0 d=43797924
+@@3: line 2.0 t=45652088 -> @@1
+pa-ngan. 
+@ via @@1 b=265 p=0 d=75625
+@ via @@2 b=5756 p=0 d=33256756
+@@4: line 2.0 t=1929789 -> @@1
+Hal 
+@ via @@1 b=0 p=0 d=10100
+@ via @@2 b=710 p=0 d=528400
+@@5: line 2.0 t=528544 -> @@2
+ini 
+@ via @@2 b=135 p=0 d=31025
+@@6: line 2.0 t=31169 -> @@2
+se-jal-an de-ngan ur-gen-si glo-bal un-tuk meng-u-ra-ngi dan me-man-fa-atk-an 
+@ via @@3 b=122 p=0 d=17424
+@ via @@4 b=6268 p=0 d=39413284
+@@7: line 3.0 t=41343073 -> @@4
+kem-ba-li 
+@ via @@4 b=204 p=0 d=45796
+@ via @@5 b=1888 p=0 d=3602404
+@ via @@6 b=6825 p=0 d=46717225
+@@8: line 3.0 t=1975585 -> @@4
+lim-bah 
+@ via @@5 b=6 p=0 d=10256
+@ via @@6 b=269 p=0 d=77841
+@@9: line 3.0 t=109010 -> @@6
+ma-kan-an se-ca-ra esen-si-al de-mi men-ja-ga ke-ber-lan-jut-an ling-kung-an 
+@ via @@7 b=1565 p=0 d=2480625
+@@10: line 4.0 t=43823698 -> @@7
+[[][]1[][]]. 
+@ via @@7 b=97 p=0 d=11449
+@ via @@8 b=6396 p=0 d=41036836
+@@11: line 4.1 t=41354522 -> @@7
+Di 
+@ via @@7 b=0 p=0 d=10100
+@ via @@8 b=945 p=0 d=912025
+@ via @@9 b=8189 p=0 d=67223601
+@@12: line 4.0 t=2887610 -> @@8
+In-do-ne-sia, 
+@ via @@9 b=214 p=0 d=50176
+@@13: line 4.0 t=159186 -> @@9
+tim-bul-an sam-pah ma-kan-an (\T1/ptm/m/it/12 fo-od was-te\T1/ptm/m/n/12 ) me-mi-li-ki per-ma-sa-lah-an 
+@ via @@10 b=401 p=0 d=168921
+@ via @@11 b=4518 p=0 d=20502784
+@@14: line 5.0 t=43992619 -> @@10
 yang 
-@ via @@88 b=1997 p=0 d=4028049
-@@98: line 12.0 t=17192825 -> @@88
+@ via @@10 b=2 p=0 d=10144
+@ via @@11 b=406 p=0 d=173056
+@ via @@12 b=2189 p=0 d=4835601
+@@15: line 5.0 t=7723211 -> @@12
 sa-ngat 
-@ via @@88 b=19 p=0 d=841
-@ via @@89 b=5878 p=0 d=34678544
-@@99: line 12.1 t=13165617 -> @@88
-stra-te-gis 
-@ via @@89 b=141 p=0 d=32801
-@ via @@90 b=3679 p=0 d=13608721
-@@100: line 12.0 t=4657011 -> @@89
+@ via @@11 b=98 p=0 d=21664
+@ via @@12 b=11 p=0 d=10441
+@ via @@13 b=7451 p=0 d=55666521
+@@16: line 5.2 t=2898051 -> @@12
+ma-sif, 
+@ via @@13 b=512 p=0 d=272484
+@@17: line 5.0 t=431670 -> @@13
+di-per-ki-rak-an men-ca-pai 23 hing-ga 48 ju-ta ton se-ti-ap ta-hun-nya 
+@ via @@14 b=887 p=0 d=804609
+@ via @@15 b=5064 p=0 d=25745476
+@@18: line 6.0 t=33468687 -> @@15
+yang 
+@ via @@14 b=35 p=0 d=2025
+@ via @@15 b=887 p=0 d=804609
+@ via @@16 b=6859 p=0 d=47193161
+@@19: line 6.0 t=8527820 -> @@15
+tu-rut 
+@ via @@15 b=40 p=0 d=2500
+@ via @@16 b=1496 p=0 d=2278036
+@@20: line 6.0 t=5176087 -> @@16
+me-mi-cu 
+@ via @@16 b=5 p=0 d=225
+@ via @@17 b=879 p=0 d=790321
+@@21: line 6.0 t=1221991 -> @@17
+ke-ru-gi-an 
+@ via @@17 b=9 p=0 d=10361
+@@22: line 6.2 t=442031 -> @@17
+eko-no-mi [[][]2[][]]. Iro-nis-nya, pem-bo-ros-an ini ter-ja-di 
+@ via @@18 b=3108 p=0 d=9721924
+@@23: line 7.0 t=43190611 -> @@18
+ber-dam-ping-an 
+@ via @@19 b=75 p=0 d=7225
+@ via @@20 b=1365 p=0 d=1890625
+@@24: line 7.0 t=7066712 -> @@20
+de-ngan 
+@ via @@20 b=3 p=0 d=10169
+@ via @@21 b=1776 p=0 d=3189796
+@@25: line 7.0 t=4411787 -> @@21
+ting-gi-nya 
+@ via @@21 b=0 p=0 d=10100
+@ via @@22 b=1436 p=0 d=2100916
+@@26: line 7.2 t=1232091 -> @@21
+an-cam-an 
+@ via @@22 b=0 p=0 d=100
+@@27: line 7.2 t=442131 -> @@22
+ke-ra-wan-an pa-ngan dan pre-va-len-si \T1/ptm/m/it/12 stun-ting
+@\kern via @@23 b=312 p=0 d=103684
+@@28: line 8.0 t=43294295 -> @@23
+ \T1/ptm/m/n/12 (gi-zi 
+@ via @@23 b=22 p=0 d=11024
+@@29: line 8.3 t=43201635 -> @@23
+bu-ruk 
+@ via @@24 b=1184 p=0 d=1425636
+@@30: line 8.0 t=8492348 -> @@24
+kro-nis) 
+@ via @@24 b=0 p=0 d=10100
+@ via @@25 b=1242 p=0 d=1567504
+@@31: line 8.0 t=5979291 -> @@25
+yang 
+@ via @@25 b=24 p=0 d=1156
+@ via @@26 b=4913 p=0 d=24245929
+@@32: line 8.1 t=4412943 -> @@25
+ma-sih 
+@ via @@26 b=362 p=0 d=148384
+@@33: line 8.0 t=1380475 -> @@26
+me-nyen-tuh 
+@ via @@27 b=86 p=0 d=9216
+@@34: line 8.1 t=451347 -> @@27
+ang-ka 32,1% di ber-ba-gai wi-la-yah 
+@ via @@28 b=3668 p=0 d=13527684
+@@35: line 9.0 t=56821979 -> @@28
+agra-ris 
+@ via @@28 b=181 p=0 d=36481
+@ via @@29 b=2035 p=0 d=4192025
+@@36: line 9.0 t=43330776 -> @@28
+se-per-ti 
+@ via @@29 b=36 p=0 d=12116
+@ via @@30 b=1552 p=0 d=2439844
+@@37: line 9.0 t=10932192 -> @@30
+di 
+@ via @@29 b=0 p=0 d=100
+@ via @@30 b=443 p=0 d=205209
+@ via @@31 b=5771 p=0 d=33419961
+@@38: line 9.0 t=8697557 -> @@30
+Ka-bu-pa-ten 
+@ via @@31 b=42 p=0 d=2704
+@ via @@32 b=1194 p=0 d=1449616
+@@39: line 9.0 t=5862559 -> @@32
+Bon-do-wo-so 
+@ via @@33 b=37 p=0 d=2209
+@ via @@34 b=7740 p=0 d=60062500
+@@40: line 9.1 t=1382684 -> @@33
+[[][]3[][]]. 
+@ via @@33 b=70 p=0 d=16400
+@ via @@34 b=2020 p=0 d=4120900
+@@41: line 9.3 t=1396875 -> @@33
+Kri-sis 
+@ via @@34 b=36 p=0 d=2116
+@@42: line 9.1 t=453463 -> @@34
+ini 
+@ via @@34 b=0 p=0 d=100
+@@43: line 9.2 t=451447 -> @@34
+me-nun-tut ada-nya 
+@ via @@35 b=6364 p=0 d=40627876
+@@44: line 10.0 t=97449855 -> @@35
+in-te-rven-si 
+@ via @@35 b=240 p=0 d=62500
+@ via @@36 b=3471 p=0 d=12117361
+@@45: line 10.0 t=55448137 -> @@36
+stra-te-gi 
+@ via @@36 b=184 p=0 d=37636
+@ via @@37 b=2990 p=0 d=9000000
+@ via @@38 b=6876 p=0 d=47416996
+@@46: line 10.0 t=19932192 -> @@37
+ke-ta-han-an 
+@ via @@37 b=10 p=0 d=10400
+@ via @@38 b=142 p=0 d=23104
+@ via @@39 b=7814 p=0 d=61214976
+@@47: line 10.0 t=8720661 -> @@38
+pa-ngan 
+@ via @@39 b=787 p=0 d=635209
+@@48: line 10.0 t=6497768 -> @@39
+yang 
+@ via @@39 b=22 p=0 d=1024
+@ via @@40 b=5008 p=0 d=25180324
+@@49: line 10.1 t=5863583 -> @@39
+ber-ke-lan-jut-an, 
+@ via @@40 b=0 p=0 d=100
+@ via @@41 b=269 p=0 d=87841
+@ via @@42 b=5316 p=0 d=28366276
+@@50: line 10.2 t=1382784 -> @@40
+se-ba-gai-ma-na 
+@ via @@43 b=4 p=0 d=196
+@@51: line 10.2 t=451643 -> @@43
+yang men-de-sak 
+@ via @@44 b=63 p=0 d=5329
+@@52: line 11.1 t=97455184 -> @@44
 un-tuk 
-@ via @@90 b=223 p=0 d=54289
-@ via @@91 b=1418 p=0 d=2049184
-@@101: line 12.0 t=647287 -> @@90
-di-se-le-sa-ik-an. 
+@ via @@45 b=1052 p=0 d=1127844
+@@53: line 11.0 t=56575981 -> @@45
+di-u-pa-yak-an 
+@ via @@46 b=58 p=0 d=4624
+@@54: line 11.1 t=19936816 -> @@46
+di 
+@ via @@46 b=0 p=0 d=10100
+@ via @@47 b=4193 p=0 d=17665209
+@@55: line 11.2 t=19942292 -> @@46
+ber-ba-gai 
+@ via @@47 b=9 p=0 d=10361
+@ via @@48 b=2762 p=0 d=7683984
+@@56: line 11.2 t=8731022 -> @@47
+wi-la-yah 
+@ via @@48 b=1 p=0 d=10121
+@ via @@49 b=845 p=0 d=731025
+@@57: line 11.2 t=6507889 -> @@48
+se-per-ti 
+@ via @@49 b=41 p=0 d=12601
+@@58: line 11.3 t=5876184 -> @@49
+Ja-wa 
+@ via @@50 b=1478 p=0 d=2224144
+@@59: line 11.0 t=3606928 -> @@50
+Te-ngah 
+@ via @@50 b=0 p=0 d=100
+@ via @@51 b=6944 p=0 d=48368116
+@@60: line 11.2 t=1382884 -> @@50
+gu-na 
+@ via @@51 b=1117 p=0 d=1280129
+@@61: line 11.0 t=1731772 -> @@51
+me-na-nga-ni 
+@ via @@52 b=5607 p=0 d=31550689
+@@62: line 12.0 t=129005873 -> @@52
+ma-sa-lah 
+@ via @@52 b=131 p=0 d=19881
+@ via @@53 b=2941 p=0 d=8708401
+@@63: line 12.0 t=65284382 -> @@53
+in-fla-si, 
+@ via @@53 b=54 p=0 d=4096
+@@64: line 12.1 t=56580077 -> @@53
+ke-mis-kin-an, 
+@ via @@54 b=26 p=0 d=1296
+@ via @@55 b=303 p=0 d=107969
+@@65: line 12.1 t=19938112 -> @@54
+ser-ta 
+@ via @@55 b=1 p=0 d=121
+@ via @@56 b=1558 p=0 d=2468624
+@@66: line 12.0 t=11199646 -> @@56
+ke-ku-rang-an 
+@ via @@57 b=310 p=0 d=112400
+@ via @@58 b=6001 p=0 d=36142121
+@@67: line 12.0 t=6620289 -> @@57
+gi-zi 
+@ via @@57 b=1 p=0 d=121
+@ via @@58 b=1178 p=0 d=1421344
+@ via @@59 b=7869 p=0 d=62078641
+@@68: line 12.2 t=6508010 -> @@57
+se-ca-ra 
+@ via @@58 b=3 p=0 d=169
+@ via @@59 b=692 p=0 d=492804
+@@69: line 12.0 t=4099732 -> @@59
+komp-re-hen-sif 
+@ via @@60 b=0 p=0 d=100
+@ via @@61 b=624 p=0 d=401956
+@@70: line 12.2 t=1382984 -> @@60
+[[][]4[][]]. 
+@ via @@61 b=11 p=0 d=10441
+@ via @@62 b=7238 p=0 d=52533504
+@@71: line 12.2 t=1742213 -> @@61
+Oleh 
+@ via @@62 b=558 p=0 d=322624
+@ via @@63 b=7308 p=0 d=53553124
+@@72: line 13.0 t=118837506 -> @@63
+ka-re-na 
+@ via @@62 b=0 p=0 d=10100
+@ via @@63 b=963 p=0 d=946729
+@ via @@64 b=7963 p=0 d=63568729
+@@73: line 13.0 t=66231111 -> @@63
+itu, 
+@ via @@63 b=143 p=0 d=23409
+@ via @@64 b=2698 p=0 d=7333264
+@@74: line 13.0 t=63913341 -> @@64
+me-nek-an 
+@ via @@64 b=26 p=0 d=1296
+@ via @@65 b=5203 p=0 d=27175369
+@@75: line 13.0 t=47113481 -> @@65
+ang-ka 
+@ via @@65 b=791 p=0 d=641601
+@ via @@66 b=4060 p=0 d=16564900
+@@76: line 13.0 t=20579713 -> @@65
+pem-bo-ros-an 
+@ via @@66 b=5 p=0 d=10225
+@ via @@67 b=3579 p=0 d=12880921
+@@77: line 13.2 t=11209871 -> @@66
+ma-kan-an 
+@ via @@67 b=79 p=0 d=7921
+@ via @@68 b=857 p=0 d=761689
+@ via @@69 b=6559 p=0 d=43151761
+@@78: line 13.1 t=6628210 -> @@67
+pa-da 
+@ via @@67 b=36 p=0 d=12116
+@ via @@68 b=36 p=0 d=2116
+@ via @@69 b=1394 p=0 d=1971216
+@@79: line 13.0 t=6070948 -> @@69
+ting-kat 
+@ via @@69 b=18 p=0 d=784
+@ via @@70 b=6461 p=0 d=41883841
+@@80: line 13.1 t=4100516 -> @@69
+kon-sum-si, 
+@ via @@70 b=237 p=0 d=71009
+@ via @@71 b=2726 p=0 d=7495696
+@@81: line 13.0 t=1453993 -> @@70
+khu-sus-nya 
+@ via @@71 b=11 p=0 d=441
+@ via @@72 b=242 p=0 d=63504
+@ via @@73 b=5431 p=0 d=29604481
+@@82: line 13.2 t=1742654 -> @@71
+di 
+@ via @@72 b=18 p=0 d=784
+@ via @@73 b=1895 p=0 d=3629025
+@ via @@74 b=8113 p=0 d=65983129
+@@83: line 14.0 t=69860136 -> @@73
+sek-tor 
+@ via @@73 b=35 p=0 d=2025
+@ via @@74 b=706 p=0 d=512656
+@@84: line 14.0 t=64425997 -> @@74
+ru-mah 
+@ via @@74 b=1 p=0 d=10121
+@ via @@75 b=1924 p=0 d=3740356
+@@85: line 14.0 t=50853837 -> @@75
+tang-ga, 
+@ via @@75 b=5 p=0 d=10225
+@ via @@76 b=1221 p=0 d=1515361
+@@86: line 14.0 t=22095074 -> @@76
+men-ja-di 
+@ via @@76 b=11 p=0 d=10441
+@ via @@77 b=3965 p=0 d=15810625
+@@87: line 14.2 t=20590154 -> @@76
+stra-te-gi 
+@ via @@77 b=122 p=0 d=27424
+@ via @@78 b=5878 p=0 d=34668544
+@@88: line 14.0 t=11237295 -> @@77
+mi-ti-ga-si 
+@ via @@78 b=228 p=0 d=56644
+@ via @@79 b=2582 p=0 d=6718464
+@@89: line 14.0 t=6684854 -> @@78
+yang 
+@ via @@78 b=1 p=0 d=121
+@ via @@79 b=209 p=0 d=47961
+@ via @@80 b=4441 p=0 d=19811401
+@@90: line 14.0 t=6118909 -> @@79
+sa-ngat 
+@ via @@80 b=289 p=0 d=89401
+@@91: line 14.0 t=4189917 -> @@80
+kru-si-al 
+@ via @@81 b=1281 p=0 d=1666681
+@@92: line 14.0 t=3120674 -> @@81
+un-tuk 
+@ via @@81 b=25 p=0 d=1225
+@ via @@82 b=4634 p=0 d=21576736
+@@93: line 14.1 t=1455218 -> @@81
+men-ja-ga 
+@ via @@82 b=141 p=0 d=32801
+@ via @@83 b=684 p=0 d=481636
+@ via @@84 b=6625 p=0 d=44023225
+@@94: line 14.0 t=1775455 -> @@82
+ke-les-ta-ri-an 
+@ via @@84 b=31 p=0 d=1681
+@ via @@85 b=2134 p=0 d=4596736
+@@95: line 15.0 t=55450573 -> @@85
+ling-kung-an 
+@ via @@86 b=471 p=0 d=231361
+@@96: line 15.0 t=22326435 -> @@86
+dan 
+@ via @@86 b=6 p=0 d=10256
+@ via @@87 b=2680 p=0 d=7246100
+@@97: line 15.2 t=22105330 -> @@86
+me-nek-an 
+@ via @@87 b=0 p=0 d=100
+@ via @@88 b=1540 p=0 d=2402500
+@@98: line 15.0 t=13639795 -> @@88
+je-jak 
+@ via @@88 b=47 p=0 d=3249
+@ via @@89 b=4048 p=0 d=16467364
+@@99: line 15.1 t=11240544 -> @@88
+kar-bon 
+@ via @@89 b=123 p=0 d=17689
+@ via @@90 b=2237 p=0 d=5049009
+@@100: line 15.0 t=6702543 -> @@89
+[[][]5[][]]. 
+@\par via @@89 b=0 p=-10000 d=10100
+@\par via @@90 b=0 p=-10000 d=10100
+@\par via @@91 b=0 p=-10000 d=10100
 @\par via @@92 b=0 p=-10000 d=10100
-@\par via @@93 b=0 p=-10000 d=10100
+@\par via @@93 b=0 p=-10000 d=100
 @\par via @@94 b=0 p=-10000 d=10100
-@\par via @@95 b=0 p=-10000 d=100
+@\par via @@95 b=0 p=-10000 d=10100
 @\par via @@96 b=0 p=-10000 d=10100
 @\par via @@97 b=0 p=-10000 d=100
 @\par via @@98 b=0 p=-10000 d=10100
 @\par via @@99 b=0 p=-10000 d=100
 @\par via @@100 b=0 p=-10000 d=10100
-@\par via @@101 b=0 p=-10000 d=10100
-@@102: line 13.2- t=657387 -> @@101
+@@101: line 15.2- t=1455318 -> @@93
 
 @firstpass
+[]\T1/ptm/m/n/12 Meskipun inisiatif pembagian surplus makanan memiliki potensi besar, pelaksanaannya 
+@ via @@0 b=6 p=0 d=256
+@@1: line 1.2 t=256 -> @@0
+di lapangan masih terhambat oleh inefisiensi logistik dan kendala operasional. Makanan 
+@ via @@1 b=1 p=0 d=121
+@@2: line 2.2 t=377 -> @@1
+sisa yang gagal disalurkan dan dibiarkan membusuk di Tempat Pembuangan Akhir (TPA) 
+@ via @@2 b=4 p=0 d=196
+@@3: line 3.2 t=573 -> @@2
 @secondpass
-[]\T1/ptm/m/n/12 Meskipun ini-si-a-tif pem-ba-gi-an sur-plus ma-kan-an me-mi-li-ki po-ten-si yang be-sar, 
-@ via @@0 b=6675 p=0 d=44699225
-@@1: line 1.0 t=44699225 -> @@0
-pe-lak-sa-na-an-nya di la-pang-an ma-sih meng-ha-da-pi ken-da-la ope-ra-sio-nal, lo-gis-tik, 
-@ via @@1 b=7759 p=0 d=60357361
-@@2: line 2.0 t=105056586 -> @@1
-dan 
-@ via @@1 b=1231 p=0 d=1540081
-@@3: line 2.0 t=46239306 -> @@1
-an-cam-an ke-a-man-an ling-kung-an. Ma-kan-an yang ga-gal di-sa-lurk-an dan 
-@ via @@2 b=7397 p=0 d=54863649
-@@4: line 3.0 t=159920235 -> @@2
-di-bi-ark-an 
-@ via @@2 b=261 p=0 d=73441
-@ via @@3 b=1845 p=0 d=3441025
-@@5: line 3.0 t=49680331 -> @@3
-mem-bu-suk di Tem-pat Pem-bu-ang-an Akhir (TPA) ter-buk-ti me-le-pask-an 
-@ via @@4 b=3482 p=0 d=12194064
-@@6: line 4.0 t=172114299 -> @@4
-emi-si 
-@ via @@4 b=138 p=0 d=21904
-@@7: line 4.0 t=159942139 -> @@4
-gas 
-@ via @@4 b=0 p=0 d=10100
-@ via @@5 b=2503 p=0 d=6315169
-@@8: line 4.0 t=55995500 -> @@5
-me-ta-na 
-@ via @@5 b=16 p=0 d=676
-@@9: line 4.1 t=49681007 -> @@5
-(CH$[]$) yang me-mi-li-ki po-ten-si pe-ma-nas-an glo-bal berkali-lipat 
-@ via @@6 b=3000 p=0 d=9060100
-@@10: line 5.0 t=181174399 -> @@6
-le-bih 
-@ via @@6 b=218 p=0 d=51984
-@ via @@7 b=3375 p=0 d=11458225
-@@11: line 5.0 t=171400364 -> @@7
-ting-gi 
-@ via @@6 b=88 p=0 d=19604
-@ via @@7 b=166 p=0 d=30976
-@ via @@8 b=1540 p=0 d=2402500
-@@12: line 5.0 t=58398000 -> @@8
-di-ban-dingk-an 
-@ via @@9 b=21 p=0 d=961
-@@13: line 5.1 t=49681968 -> @@9
-kar-bon di-ok-si-da [[][]6[][]]. Fak-ta ini ju-ga di-va-li-da-si 
-@ via @@10 b=7925 p=0 d=62964225
-@@14: line 6.0 t=244138624 -> @@10
-oleh 
-@ via @@10 b=2293 p=0 d=5303809
-@@15: line 6.0 t=186478208 -> @@10
-ana-li-sis 
-@ via @@10 b=87 p=0 d=9409
-@ via @@11 b=1194 p=0 d=1449616
-@ via @@12 b=6691 p=0 d=44903401
-@@16: line 6.0 t=103301401 -> @@12
+[]\T1/ptm/m/n/12 Meskipun ini-si-a-tif pem-ba-gi-an sur-plus ma-kan-an me-mi-li-ki po-ten-si be-sar, pe-lak-sa-na-an-nya 
+@ via @@0 b=6 p=0 d=256
+@@1: line 1.2 t=256 -> @@0
+di la-pang-an ma-sih ter-ham-bat oleh ine-fi-si-en-si lo-gis-tik dan ken-da-la ope-ra-sio-nal. 
+@ via @@1 b=3396 p=0 d=11610836
+@@2: line 2.0 t=11611092 -> @@1
+Ma-kan-an 
+@ via @@1 b=1 p=0 d=121
+@@3: line 2.2 t=377 -> @@1
+si-sa yang ga-gal di-sa-lurk-an dan di-bi-ark-an mem-bu-suk di Tem-pat Pem-bu-ang-an 
+@ via @@2 b=39 p=0 d=2401
+@ via @@3 b=5288 p=0 d=28078804
+@@4: line 3.1 t=11613493 -> @@2
+Akhir 
+@ via @@3 b=454 p=0 d=225296
+@@5: line 3.0 t=225673 -> @@3
+(TPA) 
+@ via @@3 b=4 p=0 d=196
+@@6: line 3.2 t=573 -> @@3
+ter-buk-ti me-le-pask-an emi-si gas me-ta-na (CH$[]$) yang ber-po-ten-si 
+@ via @@4 b=7740 p=0 d=60062500
+@@7: line 4.0 t=71675993 -> @@4
+mem-per-ce-pat 
+@ via @@4 b=0 p=0 d=100
+@ via @@5 b=800 p=0 d=656100
+@@8: line 4.0 t=881773 -> @@5
+la-ju 
+@ via @@5 b=25 p=0 d=1225
+@ via @@6 b=1997 p=0 d=4038049
+@@9: line 4.1 t=226898 -> @@5
+pe-ma-nas-an glo-bal berkali-lipat le-bih ting-gi di-ban-dingk-an kar-bon 
+@ via @@7 b=706 p=0 d=512656
+@@10: line 5.0 t=72188649 -> @@7
+di-ok-si-da 
+@ via @@8 b=4608 p=0 d=21325924
+@@11: line 5.0 t=22207697 -> @@8
+[[][]6[][]]. 
+@ via @@8 b=744 p=0 d=568516
+@ via @@9 b=4886 p=0 d=23970816
+@@12: line 5.0 t=1450289 -> @@8
+Fak-ta 
+@ via @@8 b=0 p=0 d=10100
+@ via @@9 b=145 p=0 d=24025
+@@13: line 5.0 t=250923 -> @@9
+ini 
+@ via @@9 b=3 p=0 d=169
+@@14: line 5.2 t=227067 -> @@9
+ju-ga di-va-li-da-si oleh ana-li-sis pa-da sek-tor ru-mah 
+@ via @@10 b=8075 p=0 d=65367225
+@@15: line 6.0 t=137555874 -> @@10
+mak-an 
+@ via @@10 b=1552 p=0 d=2439844
+@@16: line 6.0 t=74628493 -> @@10
 di 
-@ via @@10 b=6 p=0 d=10256
-@ via @@11 b=396 p=0 d=164836
-@ via @@12 b=3128 p=0 d=9847044
-@@17: line 6.0 t=68245044 -> @@12
-sek-tor 
-@ via @@11 b=1 p=0 d=10121
-@ via @@12 b=355 p=0 d=133225
-@@18: line 6.0 t=58531225 -> @@12
-ru-mah 
-@ via @@12 b=0 p=0 d=10100
-@ via @@13 b=2717 p=0 d=7436529
-@@19: line 6.0 t=57118497 -> @@13
-mak-an, 
-@ via @@13 b=213 p=0 d=49729
-@@20: line 6.0 t=49731697 -> @@13
-se-per-ti 
-@ via @@13 b=2 p=0 d=144
-@@21: line 6.2 t=49682112 -> @@13
-di Ko-ta Bo-gor, di ma-na ting-gi-nya 
-@ via @@14 b=1286 p=0 d=1679616
-@ via @@15 b=5022 p=0 d=25321024
-@@22: line 7.0 t=211799232 -> @@15
-vo-lu-me 
-@ via @@14 b=19 p=0 d=841
-@ via @@15 b=465 p=0 d=225625
-@ via @@16 b=5064 p=0 d=25745476
-@@23: line 7.0 t=129046877 -> @@16
-si-sa 
-@ via @@14 b=37 p=0 d=12209
-@ via @@15 b=32 p=0 d=1764
-@ via @@16 b=1509 p=0 d=2307361
-@ via @@17 b=3536 p=0 d=12574116
-@@24: line 7.0 t=80819160 -> @@17
-ma-kan-an 
-@ via @@16 b=6 p=0 d=10256
-@ via @@17 b=88 p=0 d=9604
-@ via @@18 b=1769 p=0 d=3164841
-@@25: line 7.0 t=61696066 -> @@18
-ko-mer-si-al 
-@ via @@18 b=0 p=0 d=10100
-@ via @@19 b=591 p=0 d=361201
-@ via @@20 b=6825 p=0 d=46717225
-@@26: line 7.0 t=57479698 -> @@19
+@ via @@10 b=611 p=0 d=385641
+@ via @@11 b=5637 p=0 d=31888609
+@@17: line 6.0 t=54096306 -> @@11
+Ko-ta 
+@ via @@10 b=42 p=0 d=2704
+@ via @@11 b=1622 p=0 d=2663424
+@ via @@12 b=7777 p=0 d=60637369
+@@18: line 6.0 t=24871121 -> @@11
+Bo-gor, 
+@ via @@11 b=115 p=0 d=15625
+@ via @@12 b=1168 p=0 d=1387684
+@ via @@13 b=6236 p=0 d=39012516
+@@19: line 6.0 t=2837973 -> @@12
+di 
+@ via @@11 b=16 p=0 d=676
+@ via @@12 b=364 p=0 d=139876
+@ via @@13 b=2698 p=0 d=7333264
+@ via @@14 b=6592 p=0 d=43596404
+@@20: line 6.0 t=1590165 -> @@12
+ma-na 
+@ via @@12 b=3 p=0 d=10169
+@ via @@13 b=379 p=0 d=151321
+@ via @@14 b=1377 p=0 d=1933769
+@@21: line 6.0 t=402244 -> @@13
+ting-gi-nya 
+@ via @@14 b=1 p=0 d=121
+@@22: line 6.2 t=227188 -> @@14
+vo-lu-me si-sa ma-kan-an ko-mer-si-al 
+@ via @@15 b=6825 p=0 d=46717225
+@@23: line 7.0 t=184273099 -> @@15
 ber-ban-ding 
-@ via @@20 b=75 p=0 d=7225
-@ via @@21 b=2426 p=0 d=5944096
-@@27: line 7.1 t=49738922 -> @@20
+@ via @@15 b=75 p=0 d=7225
+@ via @@16 b=2426 p=0 d=5934096
+@ via @@17 b=6157 p=0 d=38031889
+@@24: line 7.0 t=80562589 -> @@16
 lu-rus 
-@ via @@21 b=221 p=0 d=63361
-@@28: line 7.0 t=49745473 -> @@21
-de-ngan be-sar-nya pe-le-pas-an 
-@ via @@22 b=5970 p=0 d=35760400
-@@29: line 8.0 t=247559632 -> @@22
+@ via @@16 b=221 p=0 d=53361
+@ via @@17 b=927 p=0 d=877969
+@ via @@18 b=5847 p=0 d=34304449
+@@25: line 7.0 t=54974275 -> @@17
+de-ngan 
+@ via @@17 b=0 p=0 d=10100
+@ via @@18 b=314 p=0 d=104976
+@ via @@19 b=5756 p=0 d=33246756
+@@26: line 7.0 t=24976097 -> @@18
+be-sar-nya 
+@ via @@19 b=86 p=0 d=9216
+@ via @@20 b=601 p=0 d=373321
+@ via @@21 b=6675 p=0 d=44689225
+@@27: line 7.0 t=1963486 -> @@20
+pe-le-pas-an 
+@ via @@21 b=13 p=0 d=529
+@ via @@22 b=5970 p=0 d=35770400
+@@28: line 7.1 t=402773 -> @@21
 je-jak 
-@ via @@22 b=631 p=0 d=410881
-@@30: line 8.0 t=212210113 -> @@22
+@ via @@22 b=631 p=0 d=420881
+@@29: line 7.0 t=648069 -> @@22
 emi-si 
-@ via @@22 b=0 p=0 d=10100
-@ via @@23 b=1472 p=0 d=2196324
-@ via @@24 b=7486 p=0 d=56190016
-@@31: line 8.0 t=131243201 -> @@23
-gas 
-@ via @@23 b=154 p=0 d=26896
-@ via @@24 b=1715 p=0 d=2975625
-@@32: line 8.0 t=83794785 -> @@24
-bu-ang 
-@ via @@24 b=16 p=0 d=676
-@ via @@25 b=4132 p=0 d=17156164
-@@33: line 8.0 t=78852230 -> @@25
-[[][]7[][]]. 
-@ via @@25 b=800 p=0 d=656100
-@@34: line 8.0 t=62352166 -> @@25
-Se-la-in 
-@ via @@25 b=0 p=0 d=10100
-@ via @@26 b=1436 p=0 d=2090916
-@@35: line 8.0 t=59570614 -> @@26
-itu, 
-@ via @@26 b=301 p=0 d=96721
-@ via @@27 b=7415 p=0 d=55130625
-@@36: line 8.0 t=57576419 -> @@26
-ke-bi-jak-an 
-@ via @@27 b=518 p=0 d=278784
-@ via @@28 b=2961 p=0 d=8826841
-@@37: line 8.0 t=50017706 -> @@27
-pe-nge-lo-la-an 
-@ via @@28 b=3 p=0 d=10169
-@@38: line 8.2 t=49755642 -> @@28
-sam-pah na-sio-nal 
-@ via @@29 b=1817 p=0 d=3337929
-@ via @@30 b=7221 p=0 d=52287361
-@@39: line 9.0 t=250897561 -> @@29
-ke-rap 
-@ via @@29 b=171 p=0 d=32761
-@ via @@30 b=1533 p=0 d=2380849
-@ via @@31 b=7081 p=0 d=50282281
-@@40: line 9.0 t=181525482 -> @@31
-ter-ham-bat 
-@ via @@30 b=0 p=0 d=10100
-@ via @@31 b=329 p=0 d=114921
-@ via @@32 b=1668 p=0 d=2815684
-@@41: line 9.0 t=86610469 -> @@32
-oleh 
-@ via @@31 b=6 p=0 d=10256
-@ via @@32 b=206 p=0 d=46656
-@ via @@33 b=2626 p=0 d=6948496
-@@42: line 9.0 t=83841441 -> @@32
-mi-nim-nya 
-@ via @@33 b=6 p=0 d=10256
-@ via @@34 b=552 p=0 d=315844
-@ via @@35 b=7415 p=0 d=55130625
-@@43: line 9.0 t=62668010 -> @@34
-ke-sa-dar-an 
-@ via @@35 b=33 p=0 d=1849
-@ via @@36 b=922 p=0 d=868624
-@@44: line 9.0 t=58445043 -> @@36
-kon-su-men 
-@ via @@37 b=699 p=0 d=502681
-@@45: line 9.0 t=50520387 -> @@37
-yang 
-@ via @@37 b=0 p=0 d=10100
-@ via @@38 b=8056 p=0 d=65070356
-@@46: line 9.2 t=50027806 -> @@37
-men-ja-di 
-@ via @@38 b=203 p=0 d=55369
-@@47: line 9.0 t=49811011 -> @@38
-pen-do-rong 
-@ via @@39 b=3907 p=0 d=15342889
-@@48: line 10.0 t=266240450 -> @@39
-uta-ma 
-@ via @@39 b=106 p=0 d=13456
-@ via @@40 b=3271 p=0 d=10764961
-@@49: line 10.0 t=192290443 -> @@40
-\T1/ptm/m/it/12 fo-od 
-@ via @@40 b=240 p=0 d=62500
-@@50: line 10.0 t=181587982 -> @@40
-was-te
-@\kern via @@41 b=1789 p=0 d=3236401
-@@51: line 10.0 t=89846870 -> @@41
- \T1/ptm/m/n/12 di 
-@ via @@41 b=465 p=0 d=225625
-@ via @@42 b=3646 p=0 d=13366336
-@@52: line 10.0 t=86836094 -> @@41
-ting-kat 
-@ via @@41 b=49 p=0 d=13481
-@ via @@42 b=90 p=0 d=10000
-@ via @@43 b=7685 p=0 d=59213025
-@@53: line 10.1 t=83851441 -> @@42
-ru-mah 
-@ via @@43 b=748 p=0 d=574564
-@@54: line 10.0 t=63242574 -> @@43
-tang-ga 
-@ via @@43 b=0 p=0 d=10100
-@ via @@44 b=2293 p=0 d=5303809
-@@55: line 10.2 t=62678110 -> @@43
-[[][]8[][]]. 
-@ via @@44 b=389 p=0 d=159201
-@@56: line 10.0 t=58604244 -> @@44
-Di 
-@ via @@44 b=23 p=0 d=1089
-@ via @@45 b=2409 p=0 d=5851561
-@@57: line 10.0 t=56371948 -> @@45
+@ via @@22 b=0 p=0 d=100
+@@30: line 7.2 t=227288 -> @@22
+gas bu-ang [[][]7[][]]. Di 
+@ via @@23 b=3471 p=0 d=12117361
+@@31: line 8.0 t=196390460 -> @@23
 si-si 
-@ via @@44 b=6 p=0 d=10256
-@ via @@45 b=718 p=0 d=529984
-@ via @@46 b=3281 p=0 d=10840681
-@@58: line 10.0 t=51050371 -> @@45
+@ via @@23 b=1062 p=0 d=1149184
+@@32: line 8.0 t=185422283 -> @@23
 la-in, 
-@ via @@45 b=76 p=0 d=7396
-@ via @@46 b=824 p=0 d=705556
-@ via @@47 b=6188 p=0 d=38415204
-@@59: line 10.1 t=50527783 -> @@45
-ke-si-ap-an 
-@ via @@46 b=1 p=0 d=121
-@ via @@47 b=645 p=0 d=429025
-@ via @@48 b=7832 p=0 d=61496964
-@@60: line 10.2 t=50027927 -> @@46
-eko-sis-tem 
-@ via @@47 b=4 p=0 d=10196
-@ via @@48 b=795 p=0 d=648025
-@ via @@49 b=4291 p=0 d=18498601
-@@61: line 10.2 t=49821207 -> @@47
-da-lam 
-@ via @@48 b=32 p=0 d=1764
-@ via @@49 b=795 p=0 d=648025
-@ via @@50 b=3168 p=0 d=10099684
-@@62: line 11.0 t=191687666 -> @@50
-me-la-kuk-an 
-@ via @@49 b=13 p=0 d=10529
-@ via @@50 b=46 p=0 d=3136
-@ via @@51 b=931 p=0 d=885481
-@ via @@52 b=2277 p=0 d=5230369
-@@63: line 11.0 t=90732351 -> @@51
-\T1/ptm/m/it/12 va-lo-ri-za-tion
-@\kern via @@52 b=0 p=0 d=10100
-@\kern via @@53 b=506 p=0 d=266256
-@\kern via @@54 b=4403 p=0 d=19474569
-@@64: line 11.0 t=82717143 -> @@54
- \T1/ptm/m/n/12 (pe-man-fa-at-an/daur 
-@ via @@55 b=31 p=0 d=1681
-@ via @@56 b=1237 p=0 d=1555009
-@ via @@57 b=5403 p=0 d=29300569
-@@65: line 11.0 t=60159253 -> @@56
-ulang 
-@ via @@56 b=2 p=0 d=10144
-@ via @@57 b=233 p=0 d=59049
-@ via @@58 b=2600 p=0 d=6812100
-@@66: line 11.0 t=56430997 -> @@57
-kem-ba-li) 
-@ via @@59 b=252 p=0 d=68644
-@@67: line 11.0 t=50596427 -> @@59
-lim-bah 
-@ via @@60 b=845 p=0 d=741025
-@@68: line 11.0 t=50768952 -> @@60
-pa-ngan 
-@ via @@61 b=2951 p=0 d=8777521
-@@69: line 11.0 t=58598728 -> @@61
-di 
-@ via @@61 b=631 p=0 d=420881
-@@70: line 11.0 t=50242088 -> @@61
-In-do-ne-sia 
-@ via @@62 b=27 p=0 d=1369
-@@71: line 12.1 t=191689035 -> @@62
-ju-ga 
-@ via @@63 b=2368 p=0 d=5654884
-@@72: line 12.0 t=96387235 -> @@63
-ma-sih 
-@ via @@63 b=21 p=0 d=961
-@@73: line 12.1 t=90733312 -> @@63
-me-mer-luk-an 
-@ via @@64 b=11 p=0 d=10441
-@@74: line 12.2 t=82727584 -> @@64
-eva-lu-a-si 
-@ via @@65 b=4779 p=0 d=22934521
-@@75: line 12.0 t=83093774 -> @@65
-in-fras-truk-tur 
-@ via @@65 b=19 p=0 d=10841
-@ via @@66 b=389 p=0 d=159201
-@@76: line 12.0 t=56590198 -> @@66
-[[][]9[][]]. 
-@ via @@66 b=3 p=0 d=10169
-@ via @@67 b=3128 p=0 d=9847044
-@@77: line 12.2 t=56441166 -> @@66
-Pa-da-hal, 
-@ via @@67 b=3 p=0 d=10169
-@ via @@68 b=1014 p=0 d=1048576
-@@78: line 12.2 t=50606596 -> @@67
-in-te-rven-si 
-@ via @@69 b=334 p=0 d=118336
-@ via @@70 b=1231 p=0 d=1540081
-@@79: line 12.0 t=51782169 -> @@70
-ke-sa-dar-an 
-@ via @@71 b=1132 p=0 d=1304164
-@ via @@72 b=5954 p=0 d=35569296
-@@80: line 13.0 t=131956531 -> @@72
-ling-kung-an, 
-@ via @@72 b=2 p=0 d=10144
-@ via @@73 b=1077 p=0 d=1181569
-@@81: line 13.0 t=91914881 -> @@73
-se-ba-gai-ma-na 
-@ via @@74 b=845 p=0 d=741025
-@@82: line 13.0 t=83468609 -> @@74
-di-buk-tik-an 
-@ via @@75 b=226 p=0 d=55696
-@@83: line 13.0 t=83149470 -> @@75
+@ via @@23 b=130 p=0 d=19600
+@ via @@24 b=4699 p=0 d=22174681
+@@33: line 8.0 t=102737270 -> @@24
+ke-bi-jak-an 
+@ via @@24 b=252 p=0 d=68644
+@ via @@25 b=1748 p=0 d=3090564
+@@34: line 8.0 t=58064839 -> @@25
+pe-nge-lo-la-an 
+@ via @@25 b=0 p=0 d=10100
+@ via @@26 b=422 p=0 d=186624
+@ via @@27 b=5533 p=0 d=30724849
+@@35: line 8.0 t=25162721 -> @@26
+sam-pah 
+@ via @@26 b=0 p=0 d=10100
+@ via @@27 b=642 p=0 d=425104
+@ via @@28 b=7907 p=0 d=62678889
+@@36: line 8.0 t=2388590 -> @@27
+na-sio-nal 
+@ via @@27 b=0 p=0 d=10100
+@ via @@28 b=1014 p=0 d=1048576
+@ via @@29 b=4429 p=0 d=19704721
+@@37: line 8.0 t=1451349 -> @@28
+se-ring 
+@ via @@28 b=43 p=0 d=2809
+@ via @@29 b=703 p=0 d=508369
+@ via @@30 b=3884 p=0 d=15173236
+@@38: line 8.1 t=405582 -> @@28
+ka-li 
+@ via @@28 b=1 p=0 d=121
+@ via @@29 b=89 p=0 d=9801
+@ via @@30 b=1137 p=0 d=1325609
+@@39: line 8.2 t=402894 -> @@28
+ter-ken-da-la 
+@ via @@30 b=0 p=0 d=100
+@@40: line 8.2 t=227388 -> @@30
 oleh 
-@ via @@75 b=1 p=0 d=10121
-@ via @@76 b=4713 p=0 d=22306729
-@@84: line 13.0 t=78896927 -> @@76
-stu-di 
-@ via @@76 b=659 p=0 d=447561
-@ via @@77 b=7186 p=0 d=51792416
-@@85: line 13.0 t=57037759 -> @@76
-pa-da 
-@ via @@76 b=10 p=0 d=10400
-@ via @@77 b=791 p=0 d=651601
-@@86: line 13.2 t=56600598 -> @@76
-universitas-universitas 
-@ via @@79 b=135 p=0 d=21025
-@@87: line 13.0 t=51803194 -> @@79
+@ via @@31 b=5652 p=0 d=32058244
+@@41: line 9.0 t=228448704 -> @@31
+per-i-la-ku 
+@ via @@31 b=159 p=0 d=28561
+@ via @@32 b=1448 p=0 d=2125764
+@@42: line 9.0 t=187548047 -> @@32
+dan 
+@ via @@31 b=0 p=0 d=10100
+@ via @@32 b=132 p=0 d=20164
+@ via @@33 b=2035 p=0 d=4182025
+@@43: line 9.0 t=106919295 -> @@33
+mi-nim-nya 
+@ via @@34 b=1776 p=0 d=3189796
+@@44: line 9.0 t=61254635 -> @@34
+ke-sa-dar-an 
+@ via @@35 b=3386 p=0 d=11532816
+@@45: line 9.0 t=36695537 -> @@35
+kon-su-men 
+@ via @@35 b=0 p=0 d=10100
+@ via @@36 b=1490 p=0 d=2250000
+@@46: line 9.0 t=4638590 -> @@36
+yang 
+@ via @@36 b=42 p=0 d=2704
+@ via @@37 b=4242 p=0 d=18079504
+@@47: line 9.1 t=2391294 -> @@36
+jus-tru 
+@ via @@37 b=308 p=0 d=101124
+@ via @@38 b=4713 p=0 d=22306729
+@@48: line 9.0 t=1552473 -> @@37
+men-ja-di 
+@ via @@38 b=82 p=0 d=8464
+@ via @@39 b=1275 p=0 d=1661225
+@@49: line 9.1 t=414046 -> @@38
+pen-do-rong 
+@ via @@40 b=1132 p=0 d=1314164
+@ via @@41 b=7256 p=0 d=52794756
+@@50: line 9.0 t=1541552 -> @@40
+uta-ma 
+@ via @@40 b=1 p=0 d=121
+@ via @@41 b=500 p=0 d=260100
+@@51: line 9.2 t=227509 -> @@40
+\T1/ptm/m/it/12 fo-od 
+@ via @@41 b=1 p=0 d=10121
+@ via @@42 b=2245 p=0 d=5085025
+@@52: line 10.0 t=192633072 -> @@42
+was-te
+@\kern via @@42 b=63 p=0 d=5329
+@\kern via @@43 b=1072 p=0 d=1170724
+@@53: line 10.0 t=108090019 -> @@43
+ \T1/ptm/m/n/12 di 
+@ via @@42 b=0 p=0 d=10100
+@ via @@43 b=219 p=0 d=52441
+@@54: line 10.0 t=106971736 -> @@43
+ting-kat 
+@ via @@44 b=981 p=0 d=982081
+@@55: line 10.0 t=62236716 -> @@44
+ru-mah 
+@ via @@44 b=1 p=0 d=10121
+@ via @@45 b=2970 p=0 d=8880400
+@@56: line 10.0 t=45575937 -> @@45
+tang-ga 
+@ via @@45 b=116 p=0 d=15876
+@ via @@46 b=6675 p=0 d=44689225
+@@57: line 10.0 t=36711413 -> @@45
+[[][]8[][]]. 
+@ via @@45 b=0 p=0 d=10100
+@ via @@46 b=1917 p=0 d=3713329
+@@58: line 10.0 t=8351919 -> @@46
+Ke-si-ap-an 
+@ via @@46 b=1 p=0 d=10121
+@ via @@47 b=239 p=0 d=62001
+@ via @@48 b=2318 p=0 d=5419584
+@@59: line 10.0 t=2453295 -> @@47
+eko-sis-tem 
+@ via @@48 b=10 p=0 d=10400
+@ via @@49 b=1424 p=0 d=2056356
+@@60: line 10.2 t=1562873 -> @@48
 di 
-@ via @@79 b=0 p=0 d=10100
-@ via @@80 b=6675 p=0 d=44689225
-@@88: line 13.2 t=51792269 -> @@79
-Tiong-kok, 
-@ via @@80 b=0 p=0 d=10100
-@@89: line 14.2 t=131966631 -> @@80
-sa-ngat-lah 
-@ via @@81 b=60 p=0 d=4900
-@@90: line 14.1 t=91919781 -> @@81
+@ via @@48 b=1 p=0 d=10121
+@ via @@49 b=500 p=0 d=260100
+@@61: line 10.0 t=674146 -> @@49
+In-do-ne-sia 
+@ via @@50 b=699 p=0 d=502681
+@ via @@51 b=4531 p=0 d=20630681
+@@62: line 10.0 t=2044233 -> @@50
+da-lam 
+@ via @@50 b=12 p=0 d=10484
+@ via @@51 b=699 p=0 d=512681
+@ via @@52 b=3271 p=0 d=10764961
+@@63: line 10.0 t=740190 -> @@51
+me-la-kuk-an 
+@ via @@52 b=19 p=0 d=841
+@ via @@53 b=828 p=0 d=702244
+@ via @@54 b=2269 p=0 d=5193841
+@@64: line 11.0 t=108792263 -> @@53
+pe-man-fa-at-an 
+@ via @@55 b=289 p=0 d=89401
+@ via @@56 b=4060 p=0 d=16564900
+@@65: line 11.0 t=62140837 -> @@56
+kem-ba-li 
+@ via @@56 b=108 p=0 d=13924
+@ via @@57 b=2894 p=0 d=8433216
+@@66: line 11.0 t=45144629 -> @@57
+(\T1/ptm/m/it/12 va-lo-ri-za-tion\T1/ptm/m/n/12 ) 
+@ via @@58 b=11 p=0 d=10441
+@ via @@59 b=8019 p=0 d=64464841
+@@67: line 11.2 t=8362360 -> @@58
+lim-bah 
+@ via @@59 b=195 p=0 d=42025
+@@68: line 11.0 t=2495320 -> @@59
+pa-ngan 
+@ via @@60 b=1024 p=0 d=1079156
+@ via @@61 b=4144 p=0 d=17255716
+@@69: line 11.0 t=2642029 -> @@60
+pun 
+@ via @@60 b=26 p=0 d=1296
+@ via @@61 b=389 p=0 d=159201
+@@70: line 11.0 t=833347 -> @@61
+ma-sih 
+@ via @@62 b=2245 p=0 d=5085025
+@@71: line 11.0 t=7129258 -> @@62
+ter-ham-bat 
+@ via @@63 b=355 p=0 d=133225
+@@72: line 11.0 t=873415 -> @@63
+oleh 
+@ via @@63 b=2 p=0 d=10144
+@ via @@64 b=5260 p=0 d=27772900
+@@73: line 11.2 t=750334 -> @@63
+ke-ter-ba-tas-an 
+@ via @@65 b=5652 p=0 d=32058244
+@@74: line 12.0 t=94199081 -> @@65
+tek-no-lo-gi, 
+@ via @@65 b=1 p=0 d=10121
+@ via @@66 b=3148 p=0 d=9972964
+@@75: line 12.0 t=55117593 -> @@66
+ting-gi-nya 
+@ via @@66 b=7 p=0 d=10289
+@@76: line 12.2 t=45154918 -> @@66
+bi-a-ya, 
+@ via @@67 b=874 p=0 d=791456
+@@77: line 12.0 t=9153816 -> @@67
+dan 
+@ via @@67 b=41 p=0 d=2601
+@ via @@68 b=2547 p=0 d=6538249
+@@78: line 12.1 t=8364961 -> @@67
+ke-ce-mas-an 
+@ via @@68 b=41 p=0 d=12601
+@ via @@69 b=681 p=0 d=477481
+@ via @@70 b=4254 p=0 d=18181696
+@@79: line 12.3 t=2507921 -> @@68
+ma-sya-ra-kat 
+@ via @@70 b=31 p=0 d=11681
+@ via @@71 b=578 p=0 d=345744
+@@80: line 12.3 t=845028 -> @@70
+ter-ha-dap 
+@ via @@72 b=1107 p=0 d=1247689
+@ via @@73 b=7832 p=0 d=61506964
+@@81: line 12.0 t=2121104 -> @@72
+ja-min-an 
+@ via @@73 b=117 p=0 d=26129
+@@82: line 12.0 t=776463 -> @@73
+stan-dar 
+@ via @@74 b=1968 p=0 d=3912484
+@@83: line 13.0 t=98111565 -> @@74
+ke-a-man-an 
+@ via @@75 b=2119 p=0 d=4532641
+@@84: line 13.0 t=59650234 -> @@75
+pro-duk 
+@ via @@75 b=1 p=0 d=10121
+@ via @@76 b=4366 p=0 d=19159376
+@@85: line 13.2 t=55127714 -> @@75
+tu-ru-nan-nya 
+@ via @@76 b=36 p=0 d=2116
+@ via @@77 b=692 p=0 d=492804
+@ via @@78 b=5460 p=0 d=29920900
+@@86: line 13.0 t=9646620 -> @@77
+[[][]9[][]]. 
+@ via @@77 b=10 p=0 d=10400
+@ via @@78 b=718 p=0 d=529984
+@@87: line 13.0 t=8894945 -> @@78
+Pa-da-hal, 
+@ via @@79 b=1000 p=0 d=1030100
+@@88: line 13.0 t=3538021 -> @@79
+edu-ka-si 
+@ via @@79 b=0 p=0 d=100
+@ via @@80 b=2913 p=0 d=8553929
+@@89: line 13.2 t=2508021 -> @@79
+dan 
+@ via @@80 b=581 p=0 d=359281
+@@90: line 13.0 t=1204309 -> @@80
+in-te-rven-si 
+@ via @@81 b=345 p=0 d=126025
+@ via @@82 b=6001 p=0 d=36132121
+@@91: line 13.0 t=2247129 -> @@81
+ke-sa-dar-an 
+@ via @@82 b=118 p=0 d=16384
+@ via @@83 b=3281 p=0 d=10830681
+@@92: line 13.0 t=792847 -> @@82
+ling-kung-an 
+@ via @@83 b=0 p=0 d=10100
+@ via @@84 b=2460 p=0 d=6100900
+@@93: line 14.0 t=65751134 -> @@84
+ter-buk-ti 
+@ via @@84 b=30 p=0 d=1600
+@ via @@85 b=2057 p=0 d=4282489
+@@94: line 14.0 t=59410203 -> @@85
+sa-ngat 
+@ via @@85 b=59 p=0 d=4761
+@ via @@86 b=6396 p=0 d=41036836
+@@95: line 14.0 t=50683456 -> @@86
 efek-tif 
-@ via @@82 b=2443 p=0 d=6017209
-@@91: line 14.0 t=89485818 -> @@82
-and 
-@ via @@82 b=255 p=0 d=70225
-@@92: line 14.0 t=83538834 -> @@82
-di-bu-tuhk-an 
-@ via @@83 b=176 p=0 d=34596
-@ via @@84 b=2556 p=0 d=6584356
-@@93: line 14.0 t=83184066 -> @@83
+@ via @@86 b=740 p=0 d=562500
+@ via @@87 b=6641 p=0 d=44235801
+@@96: line 14.0 t=10209120 -> @@86
 un-tuk 
-@ via @@84 b=53 p=0 d=3969
-@ via @@85 b=1917 p=0 d=3713329
-@@94: line 14.0 t=60751088 -> @@85
+@ via @@86 b=7 p=0 d=10289
+@ via @@87 b=574 p=0 d=341056
+@@97: line 14.0 t=9236001 -> @@87
 me-mi-ti-ga-si 
-@ via @@86 b=23 p=0 d=1089
-@@95: line 14.1 t=56601687 -> @@86
-je-jak kar-bon 
-@ via @@87 b=3907 p=0 d=15342889
-@@96: line 14.0 t=67146083 -> @@87
-ter-se-but 
-@ via @@87 b=63 p=0 d=5329
-@ via @@88 b=480 p=0 d=250100
-@@97: line 14.1 t=51808523 -> @@87
+@ via @@88 b=123 p=0 d=17689
+@ via @@89 b=6204 p=0 d=38623796
+@@98: line 14.0 t=3555710 -> @@88
+je-jak 
+@ via @@89 b=681 p=0 d=487481
+@ via @@90 b=4454 p=0 d=19927296
+@@99: line 14.0 t=2995502 -> @@89
+kar-bon 
+@ via @@89 b=46 p=0 d=3136
+@ via @@90 b=75 p=0 d=7225
+@@100: line 14.1 t=1211534 -> @@90
 se-ca-ra 
-@ via @@88 b=32 p=0 d=1764
-@ via @@89 b=2478 p=0 d=6200144
-@@98: line 14.3 t=51794033 -> @@88
-sig-ni-fik-an 
-@ via @@89 b=7 p=0 d=289
-@ via @@90 b=2165 p=0 d=4730625
-@@99: line 15.0 t=96650406 -> @@90
+@ via @@91 b=760 p=0 d=592900
+@@101: line 14.0 t=2840029 -> @@91
+sig-ni-fik-an, 
+@ via @@92 b=597 p=0 d=368449
+@@102: line 14.0 t=1161296 -> @@92
+se-ba-gai-ma-na 
+@ via @@93 b=213 p=0 d=49729
+@ via @@94 b=7099 p=0 d=50537881
+@@103: line 15.0 t=65800863 -> @@93
+yang 
+@ via @@93 b=33 p=0 d=11849
+@ via @@94 b=940 p=0 d=902500
+@@104: line 15.0 t=60312703 -> @@94
+di-tun-jukk-an 
+@ via @@95 b=13 p=0 d=529
+@ via @@96 b=2384 p=0 d=5731236
+@@105: line 15.0 t=15940356 -> @@96
+me-la-lui 
+@ via @@96 b=1 p=0 d=10121
+@ via @@97 b=1210 p=0 d=1488400
+@@106: line 15.2 t=10219241 -> @@96
+stu-di 
+@ via @@97 b=10 p=0 d=10400
+@ via @@98 b=8019 p=0 d=64464841
+@@107: line 15.2 t=9246401 -> @@97
+eva-lu-a-si 
+@ via @@98 b=240 p=0 d=62500
+@ via @@99 b=3514 p=0 d=12418576
+@@108: line 15.0 t=3618210 -> @@98
+pa-da 
+@ via @@98 b=10 p=0 d=10400
+@ via @@99 b=263 p=0 d=74529
+@ via @@100 b=6364 p=0 d=40627876
+@@109: line 15.0 t=3070031 -> @@99
+ke-lom-pok 
+@ via @@100 b=13 p=0 d=529
+@ via @@101 b=2165 p=0 d=4730625
+@@110: line 15.1 t=1212063 -> @@100
+in-sti-tu-si 
+@ via @@101 b=0 p=0 d=10100
+@ via @@102 b=5189 p=0 d=27029601
+@@111: line 15.2 t=2850129 -> @@101
+pen-di-dik-an 
+@ via @@102 b=6 p=0 d=10256
+@ via @@103 b=8094 p=0 d=65674816
+@@112: line 15.2 t=1171552 -> @@102
 [[][]10[][]]. 
-@\par via @@90 b=0 p=-10000 d=100
-@\par via @@91 b=0 p=-10000 d=10100
-@\par via @@92 b=0 p=-10000 d=10100
-@\par via @@93 b=0 p=-10000 d=10100
-@\par via @@94 b=0 p=-10000 d=10100
-@\par via @@95 b=0 p=-10000 d=100
-@\par via @@96 b=0 p=-10000 d=10100
-@\par via @@97 b=0 p=-10000 d=100
-@\par via @@98 b=0 p=-10000 d=100
-@\par via @@99 b=0 p=-10000 d=10100
-@@100: line 15.2- t=51794133 -> @@98
-
-
-Underfull \hbox (badness 6675) in paragraph at lines 12--13
-[]\T1/ptm/m/n/12 Meskipun ini-si-a-tif pem-ba-gi-an sur-plus ma-kan-an me-mi-li-ki po-ten-si yang be-sar,
- []
-
-
-Underfull \hbox (badness 1231) in paragraph at lines 12--13
-\T1/ptm/m/n/12 pe-lak-sa-na-an-nya di la-pang-an ma-sih meng-ha-da-pi ken-da-la ope-ra-sio-nal, lo-gis-tik, dan
- []
-
-
-Underfull \hbox (badness 1845) in paragraph at lines 12--13
-\T1/ptm/m/n/12 an-cam-an ke-a-man-an ling-kung-an. Ma-kan-an yang ga-gal di-sa-lurk-an dan di-bi-ark-an
- []
-
-
-Underfull \hbox (badness 1231) in paragraph at lines 12--13
-\T1/ptm/m/n/12 In-do-ne-sia ju-ga ma-sih me-mer-luk-an eva-lu-a-si in-fras-truk-tur [[][]9[][]]. Pa-da-hal, in-te-rven-si
- []
+@\par via @@103 b=0 p=-10000 d=10100
+@\par via @@104 b=0 p=-10000 d=10100
+@\par via @@105 b=0 p=-10000 d=10100
+@\par via @@106 b=0 p=-10000 d=100
+@\par via @@107 b=0 p=-10000 d=100
+@\par via @@108 b=0 p=-10000 d=10100
+@\par via @@109 b=0 p=-10000 d=10100
+@\par via @@110 b=0 p=-10000 d=100
+@\par via @@111 b=0 p=-10000 d=100
+@\par via @@112 b=0 p=-10000 d=100
+@@113: line 16.2- t=1171652 -> @@112
 
 @firstpass
 [] 
@@ -4775,7 +4424,7 @@ Underfull \hbox (badness 1231) in paragraph at lines 12--13
 
 File: image/Logo_Universitas_Telkom_Horizontal.png Graphic file (type png)
 <use image/Logo_Universitas_Telkom_Horizontal.png>
-Package pdftex.def Info: image/Logo_Universitas_Telkom_Horizontal.png  used on input line 13.
+Package pdftex.def Info: image/Logo_Universitas_Telkom_Horizontal.png  used on input line 11.
 (pdftex.def)             Requested size: 77.11923pt x 34.14322pt.
 @firstpass
 [][] 
@@ -4818,559 +4467,733 @@ Package pdftex.def Info: image/Logo_Universitas_Telkom_Horizontal.png  used on i
 pa-ngan 
 @ via @@0 b=239 p=0 d=72001
 @@2: line 1.0 t=72001 -> @@0
-ter-se-but, pe-ne-rap-an tek-no-lo-gi ke-ce-rdas-an bu-at-an (AI) da-ri eko-sis-tem 
-@ via @@1 b=6859 p=0 d=47183161
-@@3: line 2.0 t=96025305 -> @@1
-Ja-go-AI 
-@ via @@1 b=269 p=0 d=77841
-@ via @@2 b=6842 p=0 d=46949904
-@@4: line 2.0 t=47021905 -> @@2
-me-na-wark-an 
-@ via @@2 b=13 p=0 d=10529
-@@5: line 2.3 t=82530 -> @@2
-oto-ma-ti-sa-si de-ngan ting-kat pre-si-si ting-gi. Tin-ja-u-an li-te-ra-tur 
-@ via @@3 b=1215 p=0 d=1500625
-@@6: line 3.0 t=97525930 -> @@3
-di 
-@ via @@3 b=314 p=0 d=104976
-@ via @@4 b=5077 p=0 d=25877569
-@@7: line 3.0 t=72899474 -> @@4
-bi-dang 
-@ via @@3 b=94 p=0 d=20816
-@ via @@4 b=384 p=0 d=155236
-@@8: line 3.0 t=47177141 -> @@4
-vi-si 
-@ via @@4 b=12 p=0 d=10484
-@ via @@5 b=5359 p=0 d=28836161
-@@9: line 3.0 t=28918691 -> @@5
-kom-pu-ter 
-@ via @@5 b=171 p=0 d=42761
-@@10: line 3.0 t=125291 -> @@5
-(\T1/ptm/m/it/12 Com-pu-ter Vi-sion\T1/ptm/m/n/12 ) mem-buk-tik-an bah-wa AI mo-dern 
-@ via @@6 b=5787 p=0 d=33605209
-@@11: line 4.0 t=131131139 -> @@6
-mam-pu 
-@ via @@6 b=226 p=0 d=55696
-@ via @@7 b=1097 p=0 d=1225449
-@@12: line 4.0 t=74124923 -> @@7
-meng-e-va-lu-a-si 
-@ via @@8 b=1 p=0 d=10121
-@ via @@9 b=441 p=0 d=203401
-@@13: line 4.0 t=29122092 -> @@9
-kon-teks 
-@ via @@10 b=1127 p=0 d=1292769
-@@14: line 4.0 t=1418060 -> @@10
-vi-su-al 
-@ via @@10 b=0 p=0 d=10100
-@@15: line 4.2 t=135391 -> @@10
-di se-ki-tar ben-da gu-na me-mi-ni-malk-an mis-kla-si-fi-ka-si 
+ter-se-but, \T1/ptm/m/it/12 star-tup \T1/ptm/m/n/12 Ja-go-AI ha-dir me-na-wark-an pla-tform agre-ga-tor lo-gis-tik 
+@ via @@1 b=4013 p=0 d=16184529
+@@3: line 2.0 t=65026673 -> @@1
+di-gi-tal 
+@ via @@1 b=109 p=0 d=14161
+@ via @@2 b=5008 p=0 d=25180324
+@@4: line 2.0 t=25252325 -> @@2
+ber-na-ma 
+@ via @@2 b=25 p=0 d=1225
+@@5: line 2.1 t=73226 -> @@2
+Fo-od AI Re-scue. Apli-ka-si ini di-ran-cang se-ca-ra khu-sus un-tuk 
+@ via @@3 b=1946 p=0 d=3825936
+@@6: line 3.0 t=68852609 -> @@3
+men-jem-ba-ta-ni 
+@ via @@4 b=89 p=0 d=9801
+@ via @@5 b=3557 p=0 d=12723489
+@@7: line 3.0 t=12796715 -> @@5
+pa-ra 
+@ via @@4 b=6 p=0 d=10256
+@ via @@5 b=706 p=0 d=512656
+@@8: line 3.0 t=585882 -> @@5
+pe-nyum-bang ma-kan-an ber-le-bih de-ngan fa-si-li-tas so-si-al se-ca-ra 
+@ via @@6 b=2261 p=0 d=5157441
+@@9: line 4.0 t=74010050 -> @@6
+\T1/ptm/m/it/12 real-time
+@\kern via @@6 b=72 p=0 d=16724
+@@10: line 4.3 t=68869333 -> @@6
+ \T1/ptm/m/n/12 me-la-lui 
+@ via @@7 b=419 p=0 d=184041
+@ via @@8 b=4132 p=0 d=17156164
+@@11: line 4.0 t=12980756 -> @@7
+pe-man-fa-at-an Ke-ce-rdas-an Bu-at-an (AI). Da-lam sis-tem pe-nge-nal-an 
+@ via @@9 b=1052 p=0 d=1127844
+@@12: line 5.0 t=75137894 -> @@9
+vi-su-al-nya, 
+@ via @@10 b=607 p=0 d=390689
+@@13: line 5.0 t=69260022 -> @@10
+pe-man-fa-at-an 
 @ via @@11 b=0 p=0 d=10100
-@ via @@12 b=2197 p=0 d=4870849
-@@16: line 5.0 t=78995772 -> @@12
+@@14: line 5.2 t=12990856 -> @@11
+fi-tur kon-teks-tu-al pa-da \T1/ptm/m/it/12 Com-pu-ter Vi-sion \T1/ptm/m/n/12 ter-buk-ti sa-ngat 
+@ via @@12 b=3724 p=0 d=13942756
+@@15: line 6.0 t=89080650 -> @@12
+efek-tif 
+@ via @@12 b=77 p=0 d=7569
+@@16: line 6.1 t=75145463 -> @@12
+un-tuk 
+@ via @@13 b=1168 p=0 d=1387684
+@@17: line 6.0 t=70647706 -> @@13
+meng-a-na-li-sis 
+@ via @@14 b=1038 p=0 d=1108304
+@@18: line 6.0 t=14099160 -> @@14
+da-ta 
+@ via @@14 b=32 p=0 d=1764
+@@19: line 6.1 t=12992620 -> @@14
+vi-su-al dan me-mi-ni-malk-an mis-kla-si-fi-ka-si sa-at 
+@ via @@15 b=6876 p=0 d=47416996
+@@20: line 7.0 t=136497646 -> @@15
+men-de-tek-si 
+@ via @@15 b=0 p=0 d=10100
+@ via @@16 b=1521 p=0 d=2343961
+@@21: line 7.0 t=77489424 -> @@16
 ob-jek 
-@ via @@12 b=29 p=0 d=1521
-@@17: line 5.1 t=74126444 -> @@12
-yang 
-@ via @@13 b=3449 p=0 d=11964681
-@@18: line 5.0 t=41086773 -> @@13
-di-de-tek-si 
-@ via @@13 b=5 p=0 d=10225
-@ via @@14 b=2384 p=0 d=5731236
-@@19: line 5.0 t=7149296 -> @@14
+@ via @@16 b=5 p=0 d=225
+@ via @@17 b=1609 p=0 d=2621161
+@@22: line 7.0 t=73268867 -> @@17
 [[][]11[][]]. 
-@ via @@14 b=150 p=0 d=25600
-@ via @@15 b=3364 p=0 d=11393876
-@@20: line 5.0 t=1443660 -> @@14
-Mes-ki 
-@ via @@15 b=63 p=0 d=5329
-@@21: line 5.1 t=140720 -> @@15
-de-mi-ki-an, ke-an-dal-an sis-tem kla-si-fi-ka-si AI 
-@ via @@16 b=3260 p=0 d=10692900
-@@22: line 6.0 t=89688672 -> @@16
-ini 
-@ via @@16 b=1097 p=0 d=1225449
-@ via @@17 b=5862 p=0 d=34480384
-@@23: line 6.0 t=80221221 -> @@16
-ha-rus 
-@ via @@16 b=59 p=0 d=4761
-@ via @@17 b=1142 p=0 d=1327104
-@ via @@18 b=5288 p=0 d=28068804
-@@24: line 6.0 t=69155577 -> @@18
-di-ran-cang 
-@ via @@17 b=0 p=0 d=100
-@ via @@18 b=158 p=0 d=28224
-@ via @@19 b=4505 p=0 d=20385225
-@@25: line 6.0 t=27534521 -> @@19
-se-ca-ra 
-@ via @@18 b=97 p=0 d=21449
-@ via @@19 b=555 p=0 d=319225
-@ via @@20 b=6157 p=0 d=38031889
-@@26: line 6.0 t=7468521 -> @@19
-tang-guh 
-@ via @@19 b=4 p=0 d=10196
-@ via @@20 b=223 p=0 d=54289
-@ via @@21 b=4036 p=0 d=16370116
-@@27: line 6.0 t=1497949 -> @@20
-un-tuk 
-@ via @@20 b=50 p=0 d=13600
-@ via @@21 b=305 p=0 d=99225
-@@28: line 6.0 t=239945 -> @@21
-meng-hin-da-ri fe-no-me-na \T1/ptm/m/it/12 Cle-ver Hans 
-@ via @@22 b=3471 p=0 d=12117361
-@@29: line 7.0 t=101806033 -> @@22
-effe-ct\T1/ptm/m/n/12 , 
-@ via @@22 b=161 p=0 d=29241
-@ via @@23 b=1168 p=0 d=1387684
-@@30: line 7.0 t=81608905 -> @@23
-yak-ni 
-@ via @@23 b=6 p=0 d=10256
-@ via @@24 b=1019 p=0 d=1058841
-@@31: line 7.0 t=70214418 -> @@24
-jal-an 
-@ via @@24 b=15 p=0 d=625
-@ via @@25 b=4686 p=0 d=22052416
-@@32: line 7.0 t=49586937 -> @@25
-pin-tas 
-@ via @@25 b=364 p=0 d=139876
-@ via @@26 b=5008 p=0 d=25180324
-@@33: line 7.0 t=27674397 -> @@25
-pem-be-la-jar-an 
-@ via @@26 b=69 p=0 d=16241
-@ via @@27 b=958 p=0 d=937024
-@@34: line 7.0 t=2434973 -> @@27
-(\T1/ptm/m/it/12 shor-tcut 
-@ via @@28 b=158 p=0 d=28224
-@@35: line 7.0 t=268169 -> @@28
-le-ar-ning\T1/ptm/m/n/12 ) di ma-na AI se-ring 
-@ via @@29 b=3354 p=0 d=11316496
-@@36: line 8.0 t=113122529 -> @@29
-ka-li 
-@ via @@29 b=688 p=0 d=487204
-@ via @@30 b=5954 p=0 d=35569296
-@@37: line 8.0 t=102293237 -> @@29
-sa-lah 
-@ via @@29 b=12 p=0 d=10484
-@ via @@30 b=1000 p=0 d=1020100
-@ via @@31 b=6477 p=0 d=42081169
-@@38: line 8.0 t=82629005 -> @@30
-me-nyim-pulk-an 
-@ via @@31 b=3 p=0 d=10169
-@ via @@32 b=232 p=0 d=58564
-@ via @@33 b=4013 p=0 d=16184529
-@@39: line 8.0 t=43858926 -> @@33
-sta-tus 
-@ via @@32 b=55 p=0 d=14225
-@ via @@33 b=273 p=0 d=80089
-@@40: line 8.0 t=27754486 -> @@33
-su-a-tu 
-@ via @@33 b=6 p=0 d=10256
-@ via @@34 b=4595 p=0 d=21206025
-@@41: line 8.0 t=23640998 -> @@34
-ob-jek 
-@ via @@34 b=543 p=0 d=305809
-@@42: line 8.0 t=2740782 -> @@34
-ka-re-na 
-@ via @@34 b=0 p=0 d=10100
-@ via @@35 b=1264 p=0 d=1623076
-@@43: line 8.0 t=1891245 -> @@35
-ha-nya 
-@ via @@35 b=31 p=0 d=1681
-@@44: line 8.1 t=269850 -> @@35
-me-li-hat ko-re-la-si pal-su 
-@ via @@36 b=1406 p=0 d=2005056
-@ via @@37 b=6300 p=0 d=39816100
-@@45: line 9.0 t=115127585 -> @@36
-pa-da 
-@ via @@36 b=73 p=0 d=6889
-@ via @@37 b=1000 p=0 d=1020100
-@ via @@38 b=6893 p=0 d=47651409
-@@46: line 9.0 t=103313337 -> @@37
-la-tar 
-@ via @@36 b=42 p=0 d=12704
-@ via @@37 b=39 p=0 d=2401
-@ via @@38 b=1281 p=0 d=1666681
-@@47: line 9.0 t=84295686 -> @@38
-be-la-kang 
-@ via @@38 b=14 p=0 d=10576
-@ via @@39 b=6032 p=0 d=36505764
-@@48: line 9.0 t=80364690 -> @@39
-gam-bar-nya 
-@ via @@39 b=40 p=0 d=2500
-@ via @@40 b=1552 p=0 d=2439844
-@@49: line 9.0 t=30194330 -> @@40
-[[][]12[][]]. 
-@ via @@40 b=86 p=0 d=9216
-@ via @@41 b=1803 p=0 d=3286969
-@@50: line 9.0 t=26927967 -> @@41
-Mo-del 
-@ via @@41 b=14 p=0 d=576
-@ via @@42 b=725 p=0 d=540225
-@ via @@43 b=5832 p=0 d=34128964
-@@51: line 9.0 t=3281007 -> @@42
-de-tek-si 
-@ via @@42 b=1 p=0 d=10121
-@ via @@43 b=628 p=0 d=407044
-@ via @@44 b=4673 p=0 d=21930489
-@@52: line 9.0 t=2298289 -> @@43
-ob-jek 
-@ via @@43 b=8 p=0 d=10324
-@ via @@44 b=714 p=0 d=524176
-@@53: line 9.0 t=794026 -> @@44
-se-per-ti 
-@ via @@44 b=2 p=0 d=144
-@@54: line 9.2 t=269994 -> @@44
-YO-LO 
-@ via @@45 b=6316 p=0 d=40018276
-@@55: line 10.0 t=155145861 -> @@45
-ju-ga 
-@ via @@45 b=1675 p=0 d=2839225
-@ via @@46 b=6825 p=0 d=46717225
-@@56: line 10.0 t=117966810 -> @@45
-ter-buk-ti 
-@ via @@45 b=27 p=0 d=1369
-@ via @@46 b=677 p=0 d=471969
-@ via @@47 b=3568 p=0 d=12802084
-@@57: line 10.0 t=97097770 -> @@47
-rent-an 
-@ via @@46 b=4 p=0 d=10196
-@ via @@47 b=329 p=0 d=114921
-@ via @@48 b=6236 p=0 d=39012516
-@@58: line 10.0 t=84410607 -> @@47
-ter-ha-dap 
-@ via @@48 b=396 p=0 d=164836
-@@59: line 10.0 t=80529526 -> @@48
-ma-ni-pu-la-si 
-@ via @@49 b=411 p=0 d=177241
-@ via @@50 b=5417 p=0 d=29452329
-@@60: line 10.0 t=30371571 -> @@49
-vi-su-al 
-@ via @@49 b=0 p=0 d=10100
-@ via @@50 b=446 p=0 d=207936
-@ via @@51 b=6157 p=0 d=38031889
-@@61: line 10.0 t=27135903 -> @@50
-ke-cil 
-@ via @@50 b=1 p=0 d=10121
-@ via @@51 b=922 p=0 d=868624
-@@62: line 10.0 t=4149631 -> @@51
-(\T1/ptm/m/it/12 adver-sa-ri-al 
-@ via @@52 b=34 p=0 d=1936
-@ via @@53 b=1769 p=0 d=3164841
-@@63: line 10.1 t=2300225 -> @@52
-pa-tches\T1/ptm/m/n/12 ) 
-@ via @@53 b=0 p=0 d=10100
-@ via @@54 b=905 p=0 d=847225
-@@64: line 10.2 t=804126 -> @@53
-yang 
-@ via @@54 b=7 p=0 d=289
-@ via @@55 b=1917 p=0 d=3713329
-@@65: line 10.2 t=270283 -> @@54
-da-pat 
-@ via @@55 b=51 p=0 d=3721
-@ via @@56 b=1286 p=0 d=1679616
-@@66: line 11.0 t=119646426 -> @@56
-meng-e-coh 
-@ via @@57 b=401 p=0 d=168921
-@ via @@58 b=6792 p=0 d=46267204
-@@67: line 11.0 t=97266691 -> @@57
-pe-nge-nal-an 
-@ via @@58 b=0 p=0 d=10100
-@ via @@59 b=3138 p=0 d=9909904
-@@68: line 11.2 t=84420707 -> @@58
-AI 
-@ via @@59 b=618 p=0 d=394384
-@@69: line 11.0 t=80923910 -> @@59
-ter-ha-dap 
-@ via @@60 b=1635 p=0 d=2706025
-@@70: line 11.0 t=33077596 -> @@60
-wu-jud 
-@ via @@60 b=9 p=0 d=10361
-@ via @@61 b=1478 p=0 d=2214144
-@@71: line 11.0 t=29350047 -> @@61
-he-w-an 
-@ via @@61 b=3 p=0 d=10169
-@ via @@62 b=776 p=0 d=617796
-@@72: line 11.0 t=4767427 -> @@62
-ma-u-pun 
-@ via @@63 b=3428 p=0 d=11819844
-@@73: line 11.0 t=14120069 -> @@63
-ben-da 
-@ via @@63 b=158 p=0 d=28224
-@ via @@64 b=6300 p=0 d=39826100
-@@74: line 11.0 t=2328449 -> @@63
-fi-sik 
-@ via @@63 b=4 p=0 d=196
-@ via @@64 b=1163 p=0 d=1385929
-@ via @@65 b=7099 p=0 d=50547881
-@@75: line 11.0 t=2190055 -> @@64
-la-in-nya 
-@ via @@64 b=0 p=0 d=100
-@ via @@65 b=417 p=0 d=192329
-@ via @@66 b=4569 p=0 d=20967241
-@@76: line 11.0 t=462612 -> @@65
-[[][]13[][]]. 
-@ via @@65 b=0 p=0 d=100
-@ via @@66 b=558 p=0 d=322624
-@@77: line 11.2 t=270383 -> @@65
-Me-la-lui 
-@ via @@67 b=800 p=0 d=656100
-@@78: line 12.0 t=97922791 -> @@67
-mi-ti-ga-si 
-@ via @@67 b=0 p=0 d=10100
-@ via @@68 b=2065 p=0 d=4315625
-@ via @@69 b=5417 p=0 d=29452329
-@@79: line 12.0 t=88736332 -> @@68
-pem-ro-gram-an 
-@ via @@69 b=1 p=0 d=10121
-@ via @@70 b=1571 p=0 d=2499561
-@@80: line 12.0 t=35577157 -> @@70
-\T1/ptm/m/it/12 prompt
-@\kern via @@70 b=19 p=0 d=841
-@\kern via @@71 b=1210 p=0 d=1488400
-@@81: line 12.0 t=30838447 -> @@71
- \T1/ptm/m/n/12 dan 
-@ via @@71 b=153 p=0 d=26569
-@ via @@72 b=2617 p=0 d=6901129
-@@82: line 12.0 t=11668556 -> @@72
-in-fras-truk-tur 
-@ via @@72 b=23 p=0 d=11089
-@ via @@73 b=677 p=0 d=471969
-@ via @@74 b=5667 p=0 d=32228329
-@@83: line 12.3 t=4778516 -> @@72
-yang 
-@ via @@73 b=14 p=0 d=576
-@ via @@74 b=1009 p=0 d=1038361
-@ via @@75 b=5036 p=0 d=25462116
-@@84: line 12.0 t=3366810 -> @@74
-te-pat, 
-@ via @@74 b=24 p=0 d=1156
-@ via @@75 b=659 p=0 d=447561
-@ via @@76 b=7308 p=0 d=53553124
-@@85: line 12.1 t=2329605 -> @@74
-ke-mam-pu-an 
-@ via @@76 b=31 p=0 d=1681
-@ via @@77 b=2027 p=0 d=4159369
-@@86: line 12.1 t=464293 -> @@76
-in-te-li-jen-si 
-@ via @@78 b=866 p=0 d=767376
-@@87: line 13.0 t=98690167 -> @@78
-vi-su-al 
-@ via @@78 b=1 p=0 d=10121
-@ via @@79 b=2012 p=0 d=4088484
-@@88: line 13.0 t=92824816 -> @@79
-ini 
-@ via @@79 b=327 p=0 d=113569
-@@89: line 13.0 t=88849901 -> @@79
-men-ja-di 
-@ via @@80 b=3179 p=0 d=10169721
-@@90: line 13.0 t=45746878 -> @@80
-in-stru-men 
-@ via @@80 b=0 p=0 d=10100
-@ via @@81 b=1292 p=0 d=1695204
-@ via @@82 b=6396 p=0 d=41036836
-@@91: line 13.0 t=32533651 -> @@81
-oto-nom 
-@ via @@81 b=0 p=0 d=10100
-@ via @@82 b=166 p=0 d=30976
-@@92: line 13.0 t=11699532 -> @@82
-yang 
-@ via @@82 b=80 p=0 d=18100
-@ via @@83 b=3884 p=0 d=15173236
-@@93: line 13.3 t=11686656 -> @@82
+@ via @@17 b=26 p=0 d=1296
+@@23: line 7.1 t=70649002 -> @@17
+Mes-ki-pun 
+@ via @@18 b=182 p=0 d=36864
+@ via @@19 b=1803 p=0 d=3286969
+@@24: line 7.0 t=14136024 -> @@18
+de-mi-ki-an, 
+@ via @@19 b=18 p=0 d=10784
+@@25: line 7.3 t=13003404 -> @@19
+mo-del AI ini di-ran-cang de-ngan 
+@ via @@20 b=2865 p=0 d=8265625
+@@26: line 8.0 t=144763271 -> @@20
 sa-ngat 
-@ via @@83 b=189 p=0 d=49601
-@ via @@84 b=2564 p=0 d=6625476
-@@94: line 13.0 t=4828117 -> @@83
-ide-al 
-@ via @@83 b=9 p=0 d=361
-@ via @@84 b=189 p=0 d=39601
-@ via @@85 b=3333 p=0 d=11175649
-@@95: line 13.0 t=3406411 -> @@84
-un-tuk 
-@ via @@84 b=90 p=0 d=20000
-@ via @@85 b=176 p=0 d=34596
-@@96: line 13.0 t=2364201 -> @@85
-me-mva-li-da-si 
-@ via @@86 b=123 p=0 d=17689
-@ via @@87 b=7944 p=0 d=63266116
-@@97: line 13.0 t=481982 -> @@86
-ke-la-yak-an 
-@ via @@87 b=102 p=0 d=12544
-@ via @@88 b=2894 p=0 d=8433216
-@@98: line 14.0 t=98702711 -> @@87
-kon-sum-si 
-@ via @@88 b=0 p=0 d=10100
-@ via @@89 b=106 p=0 d=13456
-@ via @@90 b=6608 p=0 d=43797924
-@@99: line 14.0 t=88863357 -> @@89
-dan 
-@ via @@89 b=14 p=0 d=10576
-@ via @@90 b=1281 p=0 d=1666681
-@@100: line 14.0 t=47413559 -> @@90
-ke-hi-gi-e-nis-an 
-@ via @@91 b=384 p=0 d=155236
-@@101: line 14.0 t=32688887 -> @@91
-su-a-tu 
-@ via @@91 b=7 p=0 d=10289
-@ via @@92 b=1163 p=0 d=1375929
-@@102: line 14.0 t=13075461 -> @@92
-ma-kan-an 
-@ via @@93 b=109 p=0 d=24161
-@ via @@94 b=4254 p=0 d=18181696
-@@103: line 14.0 t=11710817 -> @@93
-do-na-si 
-@ via @@94 b=96 p=0 d=11236
-@ via @@95 b=2529 p=0 d=6446521
-@@104: line 14.1 t=4839353 -> @@94
+@ via @@20 b=213 p=0 d=49729
+@ via @@21 b=7667 p=0 d=58936329
+@@27: line 8.0 t=136425753 -> @@21
+tang-guh 
+@ via @@21 b=816 p=0 d=682276
+@ via @@22 b=4886 p=0 d=23970816
+@@28: line 8.0 t=78171700 -> @@21
+gu-na 
+@ via @@21 b=43 p=0 d=2809
+@ via @@22 b=1014 p=0 d=1048576
+@@29: line 8.0 t=74317443 -> @@22
+meng-hin-da-ri 
+@ via @@23 b=20 p=0 d=900
+@ via @@24 b=5105 p=0 d=26163225
+@@30: line 8.0 t=40299249 -> @@24
+fe-no-me-na 
+@ via @@24 b=24 p=0 d=1156
+@ via @@25 b=5637 p=0 d=31898609
+@@31: line 8.1 t=14137180 -> @@24
+bi-as 
+@ via @@25 b=1077 p=0 d=1191569
+@@32: line 8.0 t=14194973 -> @@25
+\T1/ptm/m/it/12 Cle-ver 
+@ via @@25 b=2 p=0 d=144
+@@33: line 8.2 t=13003548 -> @@25
+Hans effe-ct\T1/ptm/m/n/12 , ya-i-tu 
+@ via @@26 b=7468 p=0 d=55920484
+@@34: line 9.0 t=200683755 -> @@26
+``jal-an 
+@ via @@26 b=905 p=0 d=837225
+@ via @@27 b=8094 p=0 d=65674816
+@@35: line 9.0 t=145600496 -> @@26
+pin-tas'' 
+@ via @@26 b=0 p=0 d=10100
+@ via @@27 b=684 p=0 d=481636
+@@36: line 9.0 t=136907389 -> @@27
+pem-be-la-jar-an 
+@ via @@28 b=12 p=0 d=10484
+@ via @@29 b=963 p=0 d=946729
+@@37: line 9.0 t=75264172 -> @@29
+(\T1/ptm/m/it/12 shor-tcut 
+@ via @@30 b=3179 p=0 d=10169721
+@@38: line 9.0 t=50468970 -> @@30
+le-ar-ning\T1/ptm/m/n/12 ) 
+@ via @@30 b=2 p=0 d=10144
+@ via @@31 b=3679 p=0 d=13608721
+@@39: line 9.0 t=27745901 -> @@31
+di 
+@ via @@30 b=80 p=0 d=18100
+@ via @@31 b=1270 p=0 d=1638400
+@ via @@32 b=6047 p=0 d=36687249
+@@40: line 9.0 t=15775580 -> @@31
+ma-na 
+@ via @@31 b=33 p=0 d=1849
+@ via @@32 b=768 p=0 d=605284
+@ via @@33 b=7814 p=0 d=61224976
+@@41: line 9.1 t=14139029 -> @@31
+AI 
+@ via @@31 b=1 p=0 d=121
+@ via @@32 b=107 p=0 d=13689
+@ via @@33 b=2726 p=0 d=7495696
+@@42: line 9.2 t=14137301 -> @@31
+da-pat 
+@ via @@32 b=90 p=0 d=20000
+@ via @@33 b=225 p=0 d=65225
+@@43: line 9.0 t=13068773 -> @@33
+ke-li-ru 
+@ via @@33 b=13 p=0 d=529
+@@44: line 9.3 t=13004077 -> @@33
+meng-am-bil 
+@ via @@34 b=295 p=0 d=93025
+@ via @@35 b=4467 p=0 d=20043529
+@@45: line 10.0 t=165644025 -> @@35
+ke-pu-tus-an 
+@ via @@35 b=4 p=0 d=10196
+@ via @@36 b=1867 p=0 d=3523129
+@@46: line 10.0 t=140430518 -> @@36
+aki-bat 
+@ via @@36 b=20 p=0 d=900
+@@47: line 10.1 t=136908289 -> @@36
+ko-re-la-si 
+@ via @@37 b=896 p=0 d=820836
+@@48: line 10.0 t=76085008 -> @@37
+pal-su 
+@ via @@37 b=10 p=0 d=10400
+@ via @@38 b=2913 p=0 d=8543929
+@@49: line 10.0 t=59012899 -> @@38
+pa-da 
+@ via @@38 b=338 p=0 d=121104
+@ via @@39 b=7944 p=0 d=63266116
+@@50: line 10.0 t=50590074 -> @@38
+la-tar 
+@ via @@38 b=2 p=0 d=10144
+@ via @@39 b=1924 p=0 d=3740356
+@ via @@40 b=4792 p=0 d=23059204
+@@51: line 10.0 t=31486257 -> @@39
+be-la-kang 
+@ via @@39 b=3 p=0 d=10169
+@ via @@40 b=89 p=0 d=9801
+@ via @@41 b=1902 p=0 d=3655744
+@ via @@42 b=6094 p=0 d=37268816
+@@52: line 10.1 t=15785381 -> @@40
+gam-bar-nya 
+@ via @@42 b=8 p=0 d=324
+@ via @@43 b=1158 p=0 d=1364224
+@@53: line 10.2 t=14137625 -> @@42
+[[][]12[][]]. 
+@ via @@43 b=21 p=0 d=961
+@ via @@44 b=1688 p=0 d=2893204
+@@54: line 10.1 t=13069734 -> @@43
+Se-la-in 
+@ via @@44 b=5 p=0 d=225
+@ via @@45 b=3492 p=0 d=12264004
+@@55: line 10.2 t=13004302 -> @@44
+itu, 
+@ via @@45 b=972 p=0 d=964324
+@@56: line 11.0 t=166608349 -> @@45
+ar-si-tek-tur 
+@ via @@45 b=3 p=0 d=10169
+@ via @@46 b=1117 p=0 d=1270129
+@ via @@47 b=6542 p=0 d=42928704
+@@57: line 11.0 t=141700647 -> @@46
+\T1/ptm/m/it/12 prompt
+@\kern via @@46 b=13 p=0 d=529
+@\kern via @@47 b=820 p=0 d=688900
+@\kern via @@48 b=7486 p=0 d=56190016
+@@58: line 11.0 t=132275024 -> @@48
+ \T1/ptm/m/n/12 pa-da 
+@ via @@47 b=48 p=0 d=3364
+@ via @@48 b=1960 p=0 d=3880900
+@ via @@49 b=8151 p=0 d=66601921
+@@59: line 11.0 t=79965908 -> @@48
+sis-tem 
+@ via @@48 b=127 p=0 d=18769
+@ via @@49 b=1484 p=0 d=2232036
+@ via @@50 b=6125 p=0 d=37638225
+@@60: line 11.0 t=61244935 -> @@49
+pen-de-tek-si 
+@ via @@49 b=0 p=0 d=10100
+@ via @@50 b=154 p=0 d=26896
+@ via @@51 b=1490 p=0 d=2250000
+@@61: line 11.0 t=33736257 -> @@51
+ob-jek 
+@ via @@50 b=18 p=0 d=10784
+@ via @@51 b=76 p=0 d=7396
+@ via @@52 b=3536 p=0 d=12574116
+@@62: line 11.0 t=28359497 -> @@52
+ini 
+@ via @@51 b=1 p=0 d=10121
+@ via @@52 b=1221 p=0 d=1515361
+@@63: line 11.0 t=17300742 -> @@52
+ju-ga 
+@ via @@52 b=149 p=0 d=25281
+@ via @@53 b=5388 p=0 d=29148404
+@@64: line 11.0 t=15810662 -> @@52
+di-mi-ti-ga-si 
+@ via @@53 b=248 p=0 d=76564
+@ via @@54 b=3271 p=0 d=10764961
+@@65: line 11.0 t=14214189 -> @@53
 se-ca-ra 
-@ via @@95 b=19 p=0 d=841
-@ via @@96 b=2088 p=0 d=4401604
-@@105: line 14.1 t=3407252 -> @@95
-\T1/ptm/m/it/12 real-time\T1/ptm/m/n/12 . 
+@ via @@53 b=0 p=0 d=100
+@ via @@54 b=213 p=0 d=49729
+@ via @@55 b=3281 p=0 d=10840681
+@@66: line 11.0 t=13119463 -> @@54
+pre-si-si 
+@ via @@54 b=90 p=0 d=20000
+@ via @@55 b=182 p=0 d=46864
+@ via @@56 b=1400 p=0 d=1988100
+@@67: line 11.0 t=13051166 -> @@55
+agar 
+@ via @@55 b=0 p=0 d=100
+@ via @@56 b=100 p=0 d=12100
+@ via @@57 b=5417 p=0 d=29452329
+@@68: line 11.2 t=13004402 -> @@55
+ti-dak 
+@ via @@56 b=56 p=0 d=14356
+@ via @@57 b=896 p=0 d=820836
+@@69: line 12.0 t=142521483 -> @@57
+mu-dah 
+@ via @@57 b=2 p=0 d=10144
+@ via @@58 b=1009 p=0 d=1038361
+@ via @@59 b=5504 p=0 d=30404196
+@@70: line 12.0 t=110370104 -> @@59
+di-ke-coh 
+@ via @@58 b=0 p=0 d=10100
+@ via @@59 b=271 p=0 d=78961
+@ via @@60 b=3942 p=0 d=15618304
+@@71: line 12.0 t=76863239 -> @@60
+oleh 
+@ via @@59 b=1 p=0 d=10121
+@ via @@60 b=684 p=0 d=481636
+@@72: line 12.0 t=61726571 -> @@60
+ma-ni-pu-la-si 
+@ via @@61 b=614 p=0 d=389376
+@ via @@62 b=4913 p=0 d=24235929
+@@73: line 12.0 t=34125633 -> @@61
+vi-su-al 
+@ via @@61 b=1 p=0 d=10121
+@ via @@62 b=518 p=0 d=278784
+@ via @@63 b=2134 p=0 d=4596736
+@@74: line 12.0 t=21897478 -> @@63
+ke-cil 
+@ via @@62 b=5 p=0 d=10225
+@ via @@63 b=172 p=0 d=33124
+@ via @@64 b=1817 p=0 d=3337929
+@@75: line 12.0 t=17333866 -> @@63
+atau 
+@ via @@63 b=0 p=0 d=10100
+@ via @@64 b=185 p=0 d=38025
+@ via @@65 b=7308 p=0 d=53553124
+@@76: line 12.0 t=15848687 -> @@64
+\T1/ptm/m/it/12 adver-sa-ri-al 
+@ via @@65 b=64 p=0 d=5476
+@ via @@66 b=2150 p=0 d=4665600
+@@77: line 12.1 t=14219665 -> @@65
+pa-tches
+@\kern via @@66 b=15 p=0 d=625
+@\kern via @@67 b=1552 p=0 d=2439844
+@\kern via @@68 b=7558 p=0 d=57284624
+@@78: line 12.1 t=13120088 -> @@66
+ \T1/ptm/m/n/12 [[][]13[][]]. 
+@ via @@67 b=87 p=0 d=9409
+@ via @@68 b=1314 p=0 d=1762976
+@ via @@69 b=7888 p=0 d=62378404
+@@79: line 12.1 t=13060575 -> @@67
+De-ngan 
+@ via @@68 b=0 p=0 d=100
+@ via @@69 b=230 p=0 d=57600
+@ via @@70 b=3407 p=0 d=11675889
+@@80: line 12.2 t=13004502 -> @@68
+pon-da-si 
+@ via @@70 b=135 p=0 d=21025
+@ via @@71 b=3492 p=0 d=12264004
+@@81: line 13.0 t=89127243 -> @@71
+in-te-li-jen-si 
+@ via @@71 b=30 p=0 d=1600
+@ via @@72 b=710 p=0 d=518400
+@@82: line 13.0 t=62244971 -> @@72
+yang 
+@ via @@72 b=16 p=0 d=676
+@ via @@73 b=3942 p=0 d=15618304
+@@83: line 13.0 t=49743937 -> @@73
+tang-guh, 
+@ via @@73 b=116 p=0 d=15876
+@ via @@74 b=2073 p=0 d=4338889
+@@84: line 13.0 t=26236367 -> @@74
+fi-tur 
+@ via @@73 b=0 p=0 d=10100
+@ via @@74 b=289 p=0 d=89401
+@ via @@75 b=2302 p=0 d=5345344
+@@85: line 13.0 t=21986879 -> @@74
+AI 
+@ via @@74 b=29 p=0 d=1521
+@ via @@75 b=688 p=0 d=487204
+@ via @@76 b=3291 p=0 d=10896601
+@@86: line 13.0 t=17821070 -> @@75
+pa-da 
+@ via @@75 b=32 p=0 d=1764
+@ via @@76 b=565 p=0 d=330625
+@@87: line 13.0 t=16179312 -> @@76
+pla-tform 
+@ via @@76 b=32 p=0 d=11764
+@ via @@77 b=1400 p=0 d=1988100
+@@88: line 13.3 t=15860451 -> @@76
+Fo-od 
+@ via @@77 b=125 p=0 d=18225
+@ via @@78 b=2573 p=0 d=6671889
+@@89: line 13.0 t=14237890 -> @@77
+AI 
+@ via @@77 b=6 p=0 d=256
+@ via @@78 b=892 p=0 d=813604
+@ via @@79 b=7047 p=0 d=49801249
+@@90: line 13.0 t=13933692 -> @@78
+Re-scue 
+@ via @@78 b=10 p=0 d=400
+@ via @@79 b=688 p=0 d=487204
+@ via @@80 b=7796 p=0 d=60943636
+@@91: line 13.2 t=13120488 -> @@78
+men-ja-di 
+@ via @@79 b=5 p=0 d=225
+@ via @@80 b=618 p=0 d=404384
+@ via @@81 b=7397 p=0 d=54863649
+@@92: line 13.2 t=13060800 -> @@79
+in-stru-men 
+@ via @@81 b=223 p=0 d=54289
+@ via @@82 b=7221 p=0 d=52287361
+@@93: line 14.0 t=89181532 -> @@81
+oto-nom 
+@ via @@82 b=618 p=0 d=394384
+@ via @@83 b=4072 p=0 d=16662724
+@@94: line 14.0 t=62639355 -> @@82
+yang 
+@ via @@82 b=12 p=0 d=10484
+@ via @@83 b=618 p=0 d=394384
+@@95: line 14.0 t=50138321 -> @@83
+sa-ngat 
+@ via @@83 b=0 p=0 d=10100
+@ via @@84 b=1442 p=0 d=2108304
+@ via @@85 b=6188 p=0 d=38415204
+@@96: line 14.0 t=28344671 -> @@84
+ide-al 
+@ via @@84 b=104 p=0 d=12996
+@ via @@85 b=1163 p=0 d=1375929
+@ via @@86 b=3803 p=0 d=14538969
+@@97: line 14.0 t=23362808 -> @@85
+un-tuk 
+@ via @@84 b=73 p=0 d=16889
+@ via @@85 b=31 p=0 d=1681
+@ via @@86 b=355 p=0 d=133225
+@ via @@87 b=2990 p=0 d=9000000
+@@98: line 14.0 t=17954295 -> @@86
+me-mva-li-da-si 
+@ via @@88 b=812 p=0 d=685684
+@ via @@89 b=6063 p=0 d=36881329
+@@99: line 14.0 t=16546135 -> @@88
+ke-la-yak-an 
+@ via @@89 b=31 p=0 d=1681
+@ via @@90 b=503 p=0 d=263169
+@@100: line 14.0 t=14196861 -> @@90
+ma-kan-an 
+@ via @@91 b=165 p=0 d=40625
+@ via @@92 b=7522 p=0 d=56741024
+@@101: line 14.0 t=13161113 -> @@91
+se-ca-ra 
+@ via @@92 b=506 p=0 d=276256
+@@102: line 14.0 t=13337056 -> @@92
+man-di-ri. 
+@\par via @@93 b=0 p=-10000 d=10100
+@\par via @@94 b=0 p=-10000 d=10100
+@\par via @@95 b=0 p=-10000 d=10100
+@\par via @@96 b=0 p=-10000 d=10100
 @\par via @@97 b=0 p=-10000 d=10100
 @\par via @@98 b=0 p=-10000 d=10100
 @\par via @@99 b=0 p=-10000 d=10100
 @\par via @@100 b=0 p=-10000 d=10100
 @\par via @@101 b=0 p=-10000 d=10100
 @\par via @@102 b=0 p=-10000 d=10100
-@\par via @@103 b=0 p=-10000 d=10100
-@\par via @@104 b=0 p=-10000 d=100
-@\par via @@105 b=0 p=-10000 d=100
-@@106: line 14.2- t=492082 -> @@97
+@@103: line 15.2- t=13171213 -> @@101
+
+
+Underfull \hbox (badness 3557) in paragraph at lines 12--13
+\T1/ptm/m/n/12 Fo-od AI Re-scue. Apli-ka-si ini di-ran-cang se-ca-ra khu-sus un-tuk men-jem-ba-ta-ni
+ []
+
+@firstpass
+[]\T1/ptm/m/n/12 Guna memastikan seluruh proses distribusi berjalan aman dan transparan, aplikasi Food 
+@ via @@0 b=3 p=0 d=169
+@@1: line 1.2 t=169 -> @@0
+@secondpass
+[]\T1/ptm/m/n/12 Guna me-mas-tik-an se-lu-ruh pro-ses dis-tri-bu-si ber-jal-an am-an dan trans-par-an, apli-ka-si 
+@ via @@0 b=795 p=0 d=658025
+@@1: line 1.0 t=658025 -> @@0
+Fo-od 
+@ via @@0 b=3 p=0 d=169
+@@2: line 1.2 t=169 -> @@0
+AI Re-scue di-be-ka-li de-ngan ber-ba-gai fi-tur ce-rdas yang ter-in-te-gra-si. Pla-tform 
+@ via @@1 b=506 p=0 d=266256
+@ via @@2 b=3471 p=0 d=12127361
+@@3: line 2.0 t=924281 -> @@1
+ini 
+@ via @@1 b=77 p=0 d=7569
+@ via @@2 b=1163 p=0 d=1385929
+@@4: line 2.1 t=665594 -> @@1
+meng-gu-nak-an la-yan-an \T1/ptm/m/it/12 Go-o-gle Ge-mi-ni Vi-sion API \T1/ptm/m/n/12 se-ba-gai ``Po-li-si Pa-ngan'' 
+@ via @@3 b=3701 p=0 d=13771521
+@@5: line 3.0 t=14695802 -> @@3
+un-tuk 
+@ via @@3 b=228 p=0 d=56644
+@ via @@4 b=1430 p=0 d=2073600
+@@6: line 3.0 t=980925 -> @@3
+me-mve-ri-fi-ka-si ke-a-man-an, hi-gi-e-ni-tas vi-su-al, dan ke-ha-lal-an ma-kan-an do-na-si 
+@ via @@5 b=1708 p=0 d=2951524
+@@7: line 4.0 t=17647326 -> @@5
+se-ca-ra 
+@ via @@5 b=5 p=0 d=10225
+@ via @@6 b=1389 p=0 d=1957201
+@@8: line 4.0 t=2938126 -> @@6
+oto-ma-tis se-be-lum di-pu-bli-ka-sik-an ke-pa-da pu-blik. Khu-sus ba-gi peng-gu-na 
+@ via @@7 b=2065 p=0 d=4305625
+@@9: line 5.0 t=21952951 -> @@7
+do-na-tur 
+@ via @@7 b=12 p=0 d=10484
+@ via @@8 b=1331 p=0 d=1798281
+@@10: line 5.0 t=4736407 -> @@8
+kor-po-rat, 
+@ via @@8 b=26 p=0 d=11296
+@@11: line 5.3 t=2949422 -> @@8
+ter-se-dia pu-la fi-tur AI ge-ne-ra-tif eks-klu-sif se-per-ti \T1/ptm/m/it/12 Eco Pac-ka-ging 
+@ via @@9 b=977 p=0 d=974169
+@@12: line 6.0 t=22927120 -> @@9
+Edi-tor
+@\kern via @@9 b=2 p=0 d=10144
+@\kern via @@10 b=1490 p=0 d=2250000
+@@13: line 6.0 t=6986407 -> @@10
+ \T1/ptm/m/n/12 un-tuk 
+@ via @@10 b=39 p=0 d=2401
+@ via @@11 b=3965 p=0 d=15810625
+@@14: line 6.1 t=4738808 -> @@10
+me-ran-cang 
+@ via @@11 b=2 p=0 d=144
+@@15: line 6.2 t=2949566 -> @@11
+de-sa-in ke-mas-an ra-mah ling-kung-an, ser-ta \T1/ptm/m/it/12 CSR Co-pywri-ter
+@\kern via @@12 b=638 p=0 d=419904
+@@16: line 7.0 t=23347024 -> @@12
+ \T1/ptm/m/n/12 un-tuk 
+@ via @@12 b=0 p=0 d=10100
+@ via @@13 b=866 p=0 d=767376
+@@17: line 7.0 t=7753783 -> @@13
+oto-ma-ti-sa-si 
+@ via @@14 b=7 p=0 d=289
+@ via @@15 b=7468 p=0 d=55930484
+@@18: line 7.2 t=4739097 -> @@14
+pem-bu-at-an 
+@ via @@15 b=8 p=0 d=324
+@@19: line 7.2 t=2949890 -> @@15
+nas-kah kam-pa-nye so-si-al. Di la-pang-an, pro-ses 
+@ via @@16 b=4582 p=0 d=21086464
+@@20: line 8.0 t=44433488 -> @@16
+pen-jem-put-an 
+@ via @@16 b=0 p=0 d=10100
+@ via @@17 b=494 p=0 d=254016
+@@21: line 8.0 t=8007799 -> @@17
+ma-kan-an 
+@ via @@18 b=1242 p=0 d=1577504
+@@22: line 8.0 t=6316601 -> @@18
+di-ge-rakk-an 
+@ via @@19 b=1168 p=0 d=1397684
+@@23: line 8.0 t=4347574 -> @@19
+oleh 
+@ via @@19 b=73 p=0 d=6889
+@@24: line 8.1 t=2956779 -> @@19
+ar-ma-da re-la-w-an ku-rir yang di-mo-ti-va-si 
+@ via @@20 b=5245 p=0 d=27615025
+@@25: line 9.0 t=72048513 -> @@20
+oleh 
+@ via @@20 b=649 p=0 d=434281
+@@26: line 9.0 t=44867769 -> @@20
+sis-tem 
+@ via @@20 b=10 p=0 d=10400
+@ via @@21 b=5490 p=0 d=30250000
+@@27: line 9.0 t=38257799 -> @@21
+ga-mi-fi-ka-si 
+@ via @@21 b=11 p=0 d=10441
+@ via @@22 b=3895 p=0 d=15249025
+@@28: line 9.2 t=8018240 -> @@21
+ber-ba-sis 
+@ via @@22 b=34 p=0 d=1936
+@ via @@23 b=7704 p=0 d=59505796
+@@29: line 9.1 t=6318537 -> @@22
+pap-an 
+@ via @@23 b=887 p=0 d=804609
+@ via @@24 b=5316 p=0 d=28366276
+@@30: line 9.0 t=5152183 -> @@23
+per-ing-kat 
+@ via @@24 b=34 p=0 d=1936
+@@31: line 9.1 t=2958715 -> @@24
+(\T1/ptm/m/it/12 le-a-der-bo-a-rd\T1/ptm/m/n/12 ). Se-lu-ruh pro-ses 
+@ via @@25 b=2073 p=0 d=4338889
+@@32: line 10.0 t=76387402 -> @@25
+se-rah 
+@ via @@25 b=122 p=0 d=17424
+@ via @@26 b=1540 p=0 d=2402500
+@@33: line 10.0 t=47270269 -> @@26
+te-ri-ma 
+@ via @@26 b=18 p=0 d=784
+@ via @@27 b=1540 p=0 d=2402500
+@@34: line 10.0 t=40660299 -> @@27
+ini 
+@ via @@26 b=31 p=0 d=11681
+@ via @@27 b=318 p=0 d=107584
+@@35: line 10.0 t=38365383 -> @@27
+di-wa-jibk-an 
+@ via @@28 b=223 p=0 d=64289
+@ via @@29 b=5431 p=0 d=29604481
+@@36: line 10.0 t=8082529 -> @@28
+meng-gu-nak-an 
+@ via @@29 b=4 p=0 d=196
+@ via @@30 b=441 p=0 d=203401
+@@37: line 10.0 t=5355584 -> @@30
+pe-min-da-i-an 
+@ via @@31 b=115 p=0 d=15625
+@@38: line 10.0 t=2974340 -> @@31
+ko-de QR se-ca-ra nir-kon-tak 
+@ via @@32 b=1400 p=0 d=1988100
+@@39: line 11.0 t=78375502 -> @@32
+(\T1/ptm/m/it/12 con-ta-ct-less\T1/ptm/m/n/12 ) 
+@ via @@33 b=1 p=0 d=10121
+@ via @@34 b=1655 p=0 d=2772225
+@ via @@35 b=7186 p=0 d=51782416
+@@40: line 11.0 t=43432524 -> @@34
+gu-na 
+@ via @@34 b=26 p=0 d=1296
+@ via @@35 b=591 p=0 d=361201
+@@41: line 11.0 t=38726584 -> @@35
+men-ce-gah 
+@ via @@36 b=981 p=0 d=982081
+@@42: line 11.0 t=9064610 -> @@36
+ter-ja-di-nya 
+@ via @@37 b=4279 p=0 d=18395521
+@@43: line 11.0 t=23751105 -> @@37
+kla-im 
+@ via @@37 b=189 p=0 d=39601
+@@44: line 11.0 t=5395185 -> @@37
+gan-da. 
+@ via @@38 b=2057 p=0 d=4272489
+@@45: line 11.0 t=7246829 -> @@38
+Akhir-nya, se-ti-ap ak-ti-vi-tas 
+@ via @@39 b=1540 p=0 d=2402500
+@@46: line 12.0 t=80778002 -> @@39
+do-na-si 
+@ via @@39 b=19 p=0 d=841
+@ via @@40 b=6961 p=0 d=48594841
+@@47: line 12.1 t=78376343 -> @@39
+yang 
+@ via @@40 b=1466 p=0 d=2178576
+@ via @@41 b=6961 p=0 d=48594841
+@@48: line 12.0 t=45611100 -> @@40
+ber-ha-sil 
+@ via @@40 b=6 p=0 d=10256
+@ via @@41 b=512 p=0 d=272484
+@@49: line 12.0 t=38999068 -> @@41
+di-sa-lurk-an 
+@ via @@42 b=446 p=0 d=207936
+@@50: line 12.0 t=9272546 -> @@42
+ak-an 
+@ via @@42 b=4 p=0 d=10196
+@ via @@43 b=2401 p=0 d=5812921
+@@51: line 12.2 t=9074806 -> @@42
+di-re-ka-pi-tu-la-si 
+@ via @@44 b=103 p=0 d=12769
+@ via @@45 b=5302 p=0 d=28217344
+@@52: line 12.0 t=5407954 -> @@44
+se-ca-ra 
+@ via @@45 b=257 p=0 d=71289
+@@53: line 12.0 t=7318118 -> @@45
+komp-re-hen-sif ke da-lam 
+@ via @@46 b=841 p=0 d=724201
+@@54: line 13.0 t=81502203 -> @@46
+Das-bor 
+@ via @@46 b=28 p=0 d=11444
+@ via @@47 b=611 p=0 d=385641
+@ via @@48 b=5862 p=0 d=34480384
+@@55: line 13.0 t=78761984 -> @@47
+Dam-pak 
+@ via @@48 b=43 p=0 d=2809
+@ via @@49 b=5064 p=0 d=25745476
+@@56: line 13.1 t=45613909 -> @@48
+So-si-al 
+@ via @@49 b=216 p=0 d=51076
+@@57: line 13.0 t=39050144 -> @@49
+(SROI), 
+@ via @@50 b=849 p=0 d=737881
+@ via @@51 b=6775 p=0 d=46046225
+@@58: line 13.0 t=10010427 -> @@50
+yang 
+@ via @@50 b=5 p=0 d=10225
+@ via @@51 b=800 p=0 d=666100
+@@59: line 13.2 t=9282771 -> @@50
+se-ca-ra 
+@ via @@51 b=0 p=0 d=100
+@ via @@52 b=7308 p=0 d=53553124
+@@60: line 13.2 t=9074906 -> @@51
+wak-tu 
+@ via @@52 b=768 p=0 d=605284
+@ via @@53 b=7558 p=0 d=57274624
+@@61: line 13.0 t=6013238 -> @@52
+nya-ta 
+@ via @@52 b=4 p=0 d=10196
+@ via @@53 b=1072 p=0 d=1170724
+@@62: line 13.2 t=5418150 -> @@52
+me-la-cak 
+@ via @@53 b=7 p=0 d=10289
+@@63: line 13.2 t=7328407 -> @@53
+ku-an-ti-tas 
+@ via @@54 b=6691 p=0 d=44903401
+@@64: line 14.0 t=126405604 -> @@54
+por-si 
+@ via @@54 b=1000 p=0 d=1020100
+@@65: line 14.0 t=82522303 -> @@54
+ma-kan-an 
+@ via @@54 b=85 p=0 d=19025
+@ via @@55 b=468 p=0 d=228484
+@@66: line 14.0 t=78990468 -> @@55
+ter-se-la-matk-an 
+@ via @@56 b=1 p=0 d=121
+@ via @@57 b=1142 p=0 d=1327104
+@@67: line 14.0 t=40377248 -> @@57
+se-ka-li-gus 
+@ via @@58 b=614 p=0 d=389376
+@ via @@59 b=5878 p=0 d=34678544
+@@68: line 14.0 t=10399803 -> @@58
+meng-al-ku-la-si 
+@ via @@60 b=357 p=0 d=144689
+@ via @@61 b=7963 p=0 d=63568729
+@@69: line 14.0 t=9219595 -> @@60
+pen-ca-pa-i-an 
+@ via @@61 b=10 p=0 d=10400
+@ via @@62 b=887 p=0 d=814609
+@@70: line 14.2 t=6023638 -> @@61
+pe-ngu-rang-an 
+@ via @@63 b=4 p=0 d=196
+@@71: line 14.2 t=7328603 -> @@63
+emi-si 
+@ via @@64 b=494 p=0 d=254016
+@@72: line 15.0 t=126659620 -> @@64
+je-jak 
+@ via @@64 b=59 p=0 d=14761
+@ via @@65 b=543 p=0 d=305809
+@@73: line 15.0 t=82828112 -> @@65
+kar-bon 
+@ via @@66 b=1655 p=0 d=2772225
+@@74: line 15.0 t=81762693 -> @@66
+bu-mi. 
+@\par via @@66 b=0 p=-10000 d=10100
+@\par via @@67 b=0 p=-10000 d=10100
+@\par via @@68 b=0 p=-10000 d=10100
+@\par via @@69 b=0 p=-10000 d=10100
+@\par via @@70 b=0 p=-10000 d=100
+@\par via @@71 b=0 p=-10000 d=100
+@\par via @@72 b=0 p=-10000 d=10100
+@\par via @@73 b=0 p=-10000 d=10100
+@\par via @@74 b=0 p=-10000 d=10100
+@@75: line 15.2- t=6023738 -> @@70
+
+
+Underfull \hbox (badness 1389) in paragraph at lines 14--15
+\T1/ptm/m/n/12 me-mve-ri-fi-ka-si ke-a-man-an, hi-gi-e-ni-tas vi-su-al, dan ke-ha-lal-an ma-kan-an do-na-si se-ca-ra
+ []
+
+
+Underfull \hbox (badness 1168) in paragraph at lines 14--15
+\T1/ptm/m/n/12 nas-kah kam-pa-nye so-si-al. Di la-pang-an, pro-ses pen-jem-put-an ma-kan-an di-ge-rakk-an
+ []
+
+@firstpass
+|[]\T1/ptm/b/n/17.28 Rumusan Masalah| 
+@\par via @@0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @@0
 
 @firstpass
 @secondpass
-[]\T1/ptm/m/n/12 Berdasarkan se-lu-ruh per-ma-sa-lah-an yang di-i-den-ti-fi-ka-si, di-per-luk-an se-bu-ah sis-tem 
-@ via @@0 b=3000 p=0 d=9070100
-@@1: line 1.0 t=9070100 -> @@0
-ter-in-te-gra-si yang meng-ga-bungk-an ins-pek-si ce-rdas ke-a-man-an pa-ngan, re-kam je-jak 
-@ via @@1 b=1590 p=0 d=2560000
-@@2: line 2.0 t=11630100 -> @@1
-ling-kung-an, dan pen-do-rong mo-ti-va-si re-la-w-an ku-rir. Oleh ka-re-na itu, pe-ne-li-ti-an 
-@ via @@2 b=1515 p=0 d=2325625
-@@3: line 3.0 t=13955725 -> @@2
-dan 
-@ via @@2 b=259 p=0 d=72361
-@@4: line 3.0 t=11702461 -> @@2
-pe-ngem-bang-an ini men-cip-tak-an pla-tform Fo-od AI Re-scue yang meng-in-te-gra-sik-an 
-@ via @@3 b=70 p=0 d=6400
-@ via @@4 b=1406 p=0 d=2005056
-@@5: line 4.0 t=13707517 -> @@4
-la-yan-an 
-@ via @@4 b=63 p=0 d=15329
-@@6: line 4.3 t=11717790 -> @@4
-\T1/ptm/m/it/12 Go-o-gle Ge-mi-ni Vi-sion API \T1/ptm/m/n/12 se-ba-gai "Po-li-si Pa-ngan" un-tuk me-mve-ri-fi-ka-si 
-@ via @@5 b=1400 p=0 d=1988100
-@@7: line 5.0 t=15695617 -> @@5
-ke-a-man-an 
-@ via @@6 b=506 p=0 d=276256
-@@8: line 5.0 t=11994046 -> @@6
-dan 
-@ via @@6 b=7 p=0 d=289
-@@9: line 5.2 t=11718079 -> @@6
-ke-ha-lal-an ma-kan-an do-na-si se-ca-ra oto-ma-tis, fi-tur Kal-ku-la-tor \T1/ptm/m/it/12 Sus-ta-i-na-bi-li-ty 
-@ via @@7 b=0 p=0 d=10100
-@ via @@8 b=4660 p=0 d=21808900
-@@10: line 6.2 t=15705717 -> @@7
-Im-pa-ct
-@\kern via @@8 b=108 p=0 d=13924
-@\kern via @@9 b=1603 p=0 d=2611769
-@@11: line 6.0 t=12007970 -> @@8
- \T1/ptm/m/n/12 un-tuk 
-@ via @@9 b=7 p=0 d=289
-@@12: line 6.2 t=11718368 -> @@9
-me-la-cak efi-si-en-si emi-si je-jak kar-bon, ser-ta al-go-ri-tma ga-mi-fi-ka-si 
-@ via @@10 b=3701 p=0 d=13781521
-@@13: line 7.0 t=29487238 -> @@10
-\T1/ptm/m/it/12 Le-a-der-bo-a-rd 
-@ via @@11 b=417 p=0 d=182329
-@ via @@12 b=5696 p=0 d=32568436
-@@14: line 7.0 t=12190299 -> @@11
-Ran-king
-@\kern via @@12 b=61 p=0 d=5041
-@@15: line 7.1 t=11723409 -> @@12
- \T1/ptm/m/n/12 yang di-tan-demk-an de-ngan \T1/ptm/m/it/12 QR Co-de Va-li-da-tion \T1/ptm/m/n/12 gu-na me-mas-tik-an 
-@ via @@13 b=5 p=0 d=10225
-@@16: line 8.2 t=29497463 -> @@13
-se-rah 
-@ via @@14 b=1831 p=0 d=3389281
-@@17: line 8.0 t=15579580 -> @@14
-te-ri-ma 
-@ via @@14 b=13 p=0 d=529
-@ via @@15 b=3312 p=0 d=11035684
-@@18: line 8.1 t=12190828 -> @@14
-lo-gis-tik 
-@ via @@15 b=38 p=0 d=2304
-@@19: line 8.1 t=11725713 -> @@15
-se-ca-ra nir-kon-tak (\T1/ptm/m/it/12 con-ta-ct-less\T1/ptm/m/n/12 ) dan aku-rat. Sis-tem komp-re-hen-sif 
-@ via @@16 b=123 p=0 d=27689
-@ via @@17 b=2080 p=0 d=4368100
-@@20: line 9.0 t=19947680 -> @@17
-ini 
-@ via @@16 b=2 p=0 d=144
-@ via @@17 b=497 p=0 d=257049
-@ via @@18 b=5274 p=0 d=27920656
-@@21: line 9.0 t=15836629 -> @@17
-di-ran-cang 
-@ via @@18 b=66 p=0 d=5776
-@ via @@19 b=3039 p=0 d=9296401
-@@22: line 9.1 t=12196604 -> @@18
-un-tuk 
-@ via @@19 b=223 p=0 d=54289
-@@23: line 9.0 t=11780002 -> @@19
-men-cip-tak-an ma-na-je-men sur-plus pa-ngan yang am-an, trans-par-an, 
-@ via @@20 b=213 p=0 d=49729
-@ via @@21 b=1552 p=0 d=2439844
-@@24: line 10.0 t=18276473 -> @@21
-dan 
-@ via @@20 b=0 p=0 d=10100
-@ via @@21 b=94 p=0 d=10816
-@@25: line 10.1 t=15847445 -> @@21
-ber-dam-pak 
-@ via @@22 b=25 p=0 d=1225
-@ via @@23 b=1931 p=0 d=3767481
-@@26: line 10.1 t=12197829 -> @@22
-lu-as 
-@ via @@23 b=132 p=0 d=20164
-@@27: line 10.0 t=11800166 -> @@23
-ter-ha-dap ling-kung-an, se-su-ai de-ngan ju-dul Tu-gas Akhir: 
-@ via @@24 b=5417 p=0 d=29452329
-@@28: line 11.0 t=47728802 -> @@24
-"Im-ple-men-ta-si 
-@ via @@25 b=13 p=0 d=529
-@ via @@26 b=6157 p=0 d=38031889
-@@29: line 11.1 t=15847974 -> @@25
-Pla-tform 
-@ via @@26 b=142 p=0 d=23104
-@ via @@27 b=1728 p=0 d=3020644
-@@30: line 11.0 t=12220933 -> @@26
-Ma-na-je-men Do-na-si Ma-kan-an Ber-ba-sis \T1/ptm/m/it/12 Ar-ti-fi-ci-al In-te-lli-gen-ce
-@\kern via @@28 b=285 p=0 d=87025
-@@31: line 12.0 t=47815827 -> @@28
- \T1/ptm/m/n/12 dan 
-@ via @@28 b=7 p=0 d=10289
-@@32: line 12.2 t=47739091 -> @@28
-Ga-mi-fi-ka-si 
-@ via @@29 b=116 p=0 d=15876
-@@33: line 12.0 t=15863850 -> @@29
-un-tuk 
-@ via @@30 b=883 p=0 d=797449
-@@34: line 12.0 t=13018382 -> @@30
-Op-ti-ma-li-sa-si Ke-ta-han-an Pa-ngan dan Mi-ti-ga-si Je-jak Kar-bon". 
-@\par via @@31 b=0 p=-10000 d=10100
-@\par via @@32 b=0 p=-10000 d=100
-@\par via @@33 b=0 p=-10000 d=10100
-@\par via @@34 b=0 p=-10000 d=10100
-@@35: line 13.2- t=13028482 -> @@34
-
-
-Underfull \hbox (badness 3000) in paragraph at lines 16--17
-[]\T1/ptm/m/n/12 Berdasarkan se-lu-ruh per-ma-sa-lah-an yang di-i-den-ti-fi-ka-si, di-per-luk-an se-bu-ah sis-tem
- []
-
-
-Underfull \hbox (badness 1590) in paragraph at lines 16--17
-\T1/ptm/m/n/12 ter-in-te-gra-si yang meng-ga-bungk-an ins-pek-si ce-rdas ke-a-man-an pa-ngan, re-kam je-jak
- []
+\T1/ptm/m/n/12 Berdasarkan la-tar be-la-kang se-ba-gai-ma-na di-u-ra-ik-an di atas, ma-ka da-pat di-i-den-ti-fi-ka-si 
+@ via @@0 b=244 p=0 d=74516
+@@1: line 1.0 t=74516 -> @@0
+per-ma-sa-lah-an se-ba-gai ber-i-kut: 
+@\par via @@1 b=0 p=-10000 d=10100
+@@2: line 2.2- t=84616 -> @@1
 
 @firstpass
 [] 
@@ -5379,7 +5202,7 @@ Underfull \hbox (badness 1590) in paragraph at lines 16--17
 
 File: image/Logo_Universitas_Telkom_Horizontal.png Graphic file (type png)
 <use image/Logo_Universitas_Telkom_Horizontal.png>
-Package pdftex.def Info: image/Logo_Universitas_Telkom_Horizontal.png  used on input line 17.
+Package pdftex.def Info: image/Logo_Universitas_Telkom_Horizontal.png  used on input line 20.
 (pdftex.def)             Requested size: 77.11923pt x 34.14322pt.
 @firstpass
 [][] 
@@ -5412,65 +5235,29 @@ Package pdftex.def Info: image/Logo_Universitas_Telkom_Horizontal.png  used on i
 
 [2]
 @firstpass
-|[]\T1/ptm/b/n/17.28 Rumusan Masalah| 
-@\par via @@0 b=0 p=-10000 d=100
-@@1: line 1.2- t=100 -> @@0
+[]\T1/ptm/m/n/12 Bagaimana cara membangun platform logistik digital untuk menyalurkan surplus 
+@ via @@0 b=84 p=0 d=8836
+@@1: line 1.3 t=8836 -> @@0
+pangan dari penyedia kepada masyarakat rentan? 
+@\par via @@1 b=0 p=-10000 d=100
+@@2: line 2.2- t=8936 -> @@1
 
 @firstpass
-@secondpass
-\T1/ptm/m/n/12 Berdasarkan la-tar be-la-kang se-ba-gai-ma-na di-u-ra-ik-an di atas, ma-ka da-pat di-i-den-ti-fi-ka-si 
-@ via @@0 b=244 p=0 d=74516
-@@1: line 1.0 t=74516 -> @@0
-per-ma-sa-lah-an se-ba-gai ber-i-kut: 
-@\par via @@1 b=0 p=-10000 d=10100
-@@2: line 2.2- t=84616 -> @@1
-
-@firstpass
-@secondpass
-[]\T1/ptm/m/n/12 Bagaimana me-ran-cang pla-tform agre-ga-tor lo-gis-tik di-gi-tal (Fo-od AI Re-scue) 
-@ via @@0 b=301 p=0 d=106721
-@@1: line 1.0 t=106721 -> @@0
-un-tuk meng-in-te-gra-sik-an dan me-nya-lurk-an do-na-si sur-plus pa-ngan da-ri 
-@ via @@1 b=6910 p=0 d=47886400
-@@2: line 2.0 t=47993121 -> @@1
-pe-nye-dia 
-@ via @@1 b=6 p=0 d=10256
-@@3: line 2.2 t=116977 -> @@1
-ke-pa-da ma-sya-ra-kat rent-an se-ca-ra \T1/ptm/m/it/12 real-time\T1/ptm/m/n/12 ? 
-@\par via @@2 b=0 p=-10000 d=10100
-@\par via @@3 b=0 p=-10000 d=100
-@@4: line 3.2- t=117077 -> @@3
-
-@firstpass
-[]\T1/ptm/m/n/12 Bagaimana mengimplementasikan teknologi \T1/ptm/m/it/12 Computer Vision \T1/ptm/m/n/12 dan AI Generatif 
-@ via @@0 b=1 p=0 d=121
-@@1: line 1.2 t=121 -> @@0
-@secondpass
-[]\T1/ptm/m/n/12 Bagaimana meng-im-ple-men-ta-sik-an tek-no-lo-gi \T1/ptm/m/it/12 Com-pu-ter Vi-sion \T1/ptm/m/n/12 dan AI Ge-ne-ra-tif 
-@ via @@0 b=1 p=0 d=121
-@@1: line 1.2 t=121 -> @@0
-gu-na me-mva-li-da-si ke-la-yak-an ma-kan-an se-ca-ra vi-su-al, se-ka-li-gus me-mfa-si-li-ta-si 
-@ via @@1 b=190 p=0 d=50000
-@@2: line 2.0 t=50121 -> @@1
-ke-bu-tuh-an kon-ten pro-mo-si CSR ba-gi do-na-tur kor-po-rat? 
-@\par via @@2 b=0 p=-10000 d=10100
-@@3: line 3.2- t=60221 -> @@2
+[]\T1/ptm/m/n/12 Bagaimana mengimplementasikan teknologi yang dapat memvalidasi kelayakan 
+@ via @@0 b=0 p=0 d=100
+@@1: line 1.2 t=100 -> @@0
+makanan secara visual? 
+@\par via @@1 b=0 p=-10000 d=100
+@@2: line 2.2- t=200 -> @@1
 
 @firstpass
 @secondpass
 []\T1/ptm/m/n/12 Bagaimana mem-ba-ngun sis-tem ma-na-je-men pe-la-por-an dan va-li-da-si dis-tri-bu-si 
 @ via @@0 b=287 p=0 d=98209
 @@1: line 1.0 t=98209 -> @@0
-(me-la-lui wa-jib pin-dai Ko-de QR dan Das-bor Ana-li-tik) yang trans-par-an 
-@ via @@1 b=2913 p=0 d=8543929
-@@2: line 2.0 t=8642138 -> @@1
-un-tuk 
-@ via @@1 b=127 p=0 d=18769
-@@3: line 2.0 t=116978 -> @@1
-men-ce-gah pe-nya-la-hgu-na-an do-na-si? 
-@\par via @@2 b=0 p=-10000 d=10100
-@\par via @@3 b=0 p=-10000 d=10100
-@@4: line 3.2- t=127078 -> @@3
+yang trans-par-an un-tuk men-ce-gah pe-nya-la-hgu-na-an do-na-si? 
+@\par via @@1 b=0 p=-10000 d=10100
+@@2: line 2.2- t=108309 -> @@1
 
 @firstpass
 |[]\T1/ptm/b/n/17.28 Tujuan| 
@@ -5500,23 +5287,9 @@ dengan 6 peran pengguna untuk memfasilitasi distribusi donasi pangan secara
 []\T1/ptm/m/n/12 Mengimplementasikan 4 fungsi AI (\T1/ptm/m/it/12 Computer Vision \T1/ptm/m/n/12 dan AI Generatif) guna 
 @ via @@0 b=67 p=0 d=5929
 @@1: line 1.1 t=5929 -> @@0
-@secondpass
-[]\T1/ptm/m/n/12 Mengimplementasikan 4 fung-si AI (\T1/ptm/m/it/12 Com-pu-ter Vi-sion \T1/ptm/m/n/12 dan AI Ge-ne-ra-tif) 
-@ via @@0 b=2229 p=0 d=5023121
-@@1: line 1.0 t=5023121 -> @@0
-gu-na 
-@ via @@0 b=67 p=0 d=5929
-@@2: line 1.1 t=5929 -> @@0
-me-mve-ri-fi-ka-si ke-la-yak-an vi-su-al ma-kan-an ser-ta men-du-kung ke-bu-tuh-an 
-@ via @@1 b=530 p=0 d=291600
-@@3: line 2.0 t=5314721 -> @@1
-kon-ten 
-@ via @@2 b=104 p=0 d=12996
-@@4: line 2.0 t=18925 -> @@2
-kam-pa-nye CSR do-na-tur kor-po-rat. 
-@\par via @@3 b=0 p=-10000 d=10100
-@\par via @@4 b=0 p=-10000 d=10100
-@@5: line 3.2- t=29025 -> @@4
+memverifikasi kelayakan visual makanan. 
+@\par via @@1 b=0 p=-10000 d=100
+@@2: line 2.2- t=6029 -> @@1
 
 @firstpass
 []\T1/ptm/m/n/12 Membangun dasbor analitik dampak yang transparan untuk melacak distribusi, 
@@ -5681,45 +5454,6 @@ ber-ta-hap.
 @@35: line 7.2- t=126945 -> @@29
 
 @firstpass
-[] 
-@\par via @@0 b=0 p=-10000 d=100
-@@1: line 1.2- t=100 -> @@0
-
-File: image/Logo_Universitas_Telkom_Horizontal.png Graphic file (type png)
-<use image/Logo_Universitas_Telkom_Horizontal.png>
-Package pdftex.def Info: image/Logo_Universitas_Telkom_Horizontal.png  used on input line 58.
-(pdftex.def)             Requested size: 77.11923pt x 34.14322pt.
-@firstpass
-[][] 
-@ via @@0 b=0 p=0 d=100
-@@1: line 1.2 t=100 -> @@0
-|
-@\par via @@0 b=0 p=-10000 d=100
-@\par via @@1 b=0 p=-10000 d=100
-@@2: line 1.2- t=100 -> @@0
-
-@firstpass
-[]
-@\par via @@0 b=0 p=-10000 d=100
-@@1: line 1.2- t=100 -> @@0
-
-@firstpass
-[] 
-@\par via @@0 b=0 p=-10000 d=100
-@@1: line 1.2- t=100 -> @@0
-
-@firstpass
-[]
-@\par via @@0 b=0 p=-10000 d=100
-@@1: line 1.2- t=100 -> @@0
-
-@firstpass
-[]\T1/ptm/m/n/12 3|
-@\par via @@0 b=0 p=-10000 d=100
-@@1: line 1.2- t=100 -> @@0
-
- [3]
-@firstpass
 |[]\T1/ptm/b/n/14.4 Produk Backlog| 
 @\par via @@0 b=0 p=-10000 d=100
 @@1: line 1.2- t=100 -> @@0
@@ -5794,6 +5528,45 @@ me-li-pu-ti:
 @\par via @@15 b=0 p=-10000 d=10100
 @@16: line 4.2- t=155015 -> @@10
 
+@firstpass
+[] 
+@\par via @@0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @@0
+
+File: image/Logo_Universitas_Telkom_Horizontal.png Graphic file (type png)
+<use image/Logo_Universitas_Telkom_Horizontal.png>
+Package pdftex.def Info: image/Logo_Universitas_Telkom_Horizontal.png  used on input line 62.
+(pdftex.def)             Requested size: 77.11923pt x 34.14322pt.
+@firstpass
+[][] 
+@ via @@0 b=0 p=0 d=100
+@@1: line 1.2 t=100 -> @@0
+|
+@\par via @@0 b=0 p=-10000 d=100
+@\par via @@1 b=0 p=-10000 d=100
+@@2: line 1.2- t=100 -> @@0
+
+@firstpass
+[]
+@\par via @@0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @@0
+
+@firstpass
+[] 
+@\par via @@0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @@0
+
+@firstpass
+[]
+@\par via @@0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @@0
+
+@firstpass
+[]\T1/ptm/m/n/12 3|
+@\par via @@0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @@0
+
+ [3]
 @firstpass
 @secondpass
 []\T1/ptm/b/n/12 Rancang ulang da-ta-ba-se: \T1/ptm/m/n/12 Bac-klog ini ber-fo-kus pa-da pem-ba-ru-an struk-tur 
@@ -6295,46 +6068,47 @@ dan
 tam-pil-an 
 @ via @@9 b=111 p=0 d=24641
 @@14: line 5.0 t=5889266 -> @@9
-ba-ru agar pla-tform Fo-o-dAI Re-scue ter-li-hat 
-@ via @@10 b=7468 p=0 d=55920484
-@@15: line 6.0 t=97766343 -> @@10
+ba-ru agar pla-tform Fo-od AI Re-scue ter-li-hat 
+@ via @@10 b=4752 p=0 d=22676644
+@@15: line 6.0 t=64522503 -> @@10
 le-bih 
-@ via @@10 b=1199 p=0 d=1461681
-@ via @@11 b=5475 p=0 d=30085225
-@@16: line 6.0 t=43307540 -> @@10
+@ via @@10 b=718 p=0 d=529984
+@ via @@11 b=3439 p=0 d=11895601
+@@16: line 6.0 t=42375843 -> @@10
 ra-pi, 
-@ via @@10 b=58 p=0 d=4624
-@ via @@11 b=862 p=0 d=760384
-@ via @@12 b=5939 p=0 d=35390601
-@@17: line 6.0 t=33422390 -> @@11
+@ via @@10 b=25 p=0 d=1225
+@ via @@11 b=500 p=0 d=260100
+@ via @@12 b=3746 p=0 d=14107536
+@@17: line 6.0 t=20834801 -> @@12
 in-te-rak-tif, 
-@ via @@12 b=37 p=0 d=2209
-@ via @@13 b=820 p=0 d=698900
-@@18: line 6.1 t=6729474 -> @@12
+@ via @@12 b=13 p=0 d=529
+@ via @@13 b=454 p=0 d=225296
+@@18: line 6.0 t=6734302 -> @@13
+@@19: line 6.1 t=6727794 -> @@12
 dan 
-@ via @@12 b=79 p=0 d=17921
-@ via @@13 b=34 p=0 d=1936
-@ via @@14 b=3942 p=0 d=15618304
-@@19: line 6.1 t=6510942 -> @@13
+@ via @@13 b=12 p=0 d=484
+@ via @@14 b=2495 p=0 d=6275025
+@@20: line 6.2 t=6509490 -> @@13
 mu-dah 
-@ via @@14 b=169 p=0 d=32041
-@@20: line 6.0 t=5921307 -> @@14
+@ via @@14 b=85 p=0 d=9025
+@@21: line 6.1 t=5898291 -> @@14
 di-gu-nak-an oleh pa-ra do-na-tur, re-la-w-an, 
 @ via @@15 b=1515 p=0 d=2325625
-@@21: line 7.0 t=100091968 -> @@15
+@@22: line 7.0 t=66848128 -> @@15
 ma-u-pun 
 @ via @@15 b=0 p=0 d=10100
 @ via @@16 b=409 p=0 d=175561
 @ via @@17 b=3907 p=0 d=15342889
-@@22: line 7.0 t=43483101 -> @@16
+@@23: line 7.0 t=36177690 -> @@17
 pe-ne-ri-ma. 
 @\par via @@17 b=0 p=-10000 d=10100
-@\par via @@18 b=0 p=-10000 d=100
+@\par via @@18 b=0 p=-10000 d=10100
 @\par via @@19 b=0 p=-10000 d=100
-@\par via @@20 b=0 p=-10000 d=10100
-@\par via @@21 b=0 p=-10000 d=10100
+@\par via @@20 b=0 p=-10000 d=100
+@\par via @@21 b=0 p=-10000 d=100
 @\par via @@22 b=0 p=-10000 d=10100
-@@23: line 7.2- t=5931407 -> @@20
+@\par via @@23 b=0 p=-10000 d=10100
+@@24: line 7.2- t=5898391 -> @@21
 
 
 Underfull \hbox (badness 2134) in paragraph at lines 63--64
@@ -6370,13 +6144,141 @@ testing) untuk menjamin stabilitas aplikasi secara keseluruhan.
 @@7: line 7.2- t=8901 -> @@6
 
 @firstpass
+@secondpass
+[]\T1/ptm/b/n/12 Implementasi API KEY AI: \T1/ptm/m/n/12 Bac-klog ter-a-khir ini me-ru-pak-an ta-hap 
+@ via @@0 b=6188 p=0 d=38425204
+@@1: line 1.0 t=38425204 -> @@0
+kru-si-al 
+@ via @@0 b=228 p=0 d=66644
+@@2: line 1.0 t=66644 -> @@0
+un-tuk meng-ak-tifk-an fi-tur Ke-ce-rdas-an Bu-at-an (Go-o-gle Ge-mi-ni 
+@ via @@1 b=7168 p=0 d=51523684
+@@3: line 2.0 t=89948888 -> @@1
+API) 
+@ via @@1 b=587 p=0 d=356409
+@@4: line 2.0 t=38781613 -> @@1
+yang 
+@ via @@1 b=0 p=0 d=10100
+@ via @@2 b=1478 p=0 d=2214144
+@@5: line 2.0 t=2280788 -> @@2
+men-ja-di 
+@ via @@2 b=91 p=0 d=20201
+@@6: line 2.3 t=86845 -> @@2
+in-ti ino-va-si Fo-od AI Re-scue. Tu-gas-nya me-li-pu-ti 
+@ via @@3 b=2828 p=0 d=8054244
+@@7: line 3.0 t=98003132 -> @@3
+pe-ma-sang-an 
+@ via @@3 b=2 p=0 d=10144
+@ via @@4 b=187 p=0 d=38809
+@ via @@5 b=2237 p=0 d=5049009
+@@8: line 3.0 t=7329797 -> @@5
+atau 
+@ via @@4 b=0 p=0 d=10100
+@ via @@5 b=275 p=0 d=81225
+@ via @@6 b=5726 p=0 d=32911696
+@@9: line 3.0 t=2362013 -> @@5
+im-ple-men-ta-si 
+@ via @@6 b=0 p=0 d=100
+@@10: line 3.2 t=86945 -> @@6
+API Key ke da-lam sis-tem, me-re-vi-si 
+@ via @@7 b=7362 p=0 d=54346384
+@@11: line 4.0 t=152349516 -> @@7
+kon-fi-gu-ra-si 
+@ via @@7 b=3 p=0 d=10169
+@@12: line 4.2 t=98013301 -> @@7
+en-vi-ro-nment 
+@ via @@8 b=2 p=0 d=10144
+@ via @@9 b=631 p=0 d=410881
+@@13: line 4.0 t=2772894 -> @@9
+(se-per-ti 
+@ via @@10 b=5403 p=0 d=29310569
+@@14: line 4.0 t=29397514 -> @@10
+fi-le 
+@ via @@10 b=1168 p=0 d=1397684
+@@15: line 4.0 t=1484629 -> @@10
+.env) 
+@ via @@10 b=21 p=0 d=961
+@@16: line 4.1 t=87906 -> @@10
+un-tuk me-mas-tik-an kun-ci ra-ha-sia 
+@ via @@11 b=527 p=0 d=288369
+@@17: line 5.0 t=152637885 -> @@11
+ter-lin-du-ngi 
+@ via @@12 b=607 p=0 d=390689
+@@18: line 5.0 t=98403990 -> @@12
+de-ngan 
+@ via @@13 b=4660 p=0 d=21808900
+@@19: line 5.0 t=24581794 -> @@13
+am-an, 
+@ via @@13 b=184 p=0 d=37636
+@ via @@14 b=6808 p=0 d=46485124
+@@20: line 5.0 t=2810530 -> @@13
+ser-ta 
+@ via @@13 b=55 p=0 d=14225
+@ via @@14 b=791 p=0 d=641601
+@ via @@15 b=4168 p=0 d=17455684
+@@21: line 5.3 t=2787119 -> @@13
+me-la-kuk-an 
+@ via @@15 b=27 p=0 d=11369
+@ via @@16 b=357 p=0 d=134689
+@@22: line 5.0 t=222595 -> @@16
+pe-ngu-ji-an (tes-ting AI) gu-na 
+@ via @@17 b=2856 p=0 d=8213956
+@@23: line 6.0 t=160851841 -> @@17
+me-mas-tik-an 
+@ via @@18 b=1960 p=0 d=3880900
+@@24: line 6.0 t=102284890 -> @@18
+fi-tur 
+@ via @@18 b=107 p=0 d=13689
+@ via @@19 b=4981 p=0 d=24910081
+@@25: line 6.0 t=49491875 -> @@19
+in-te-li-jen-si 
+@ via @@19 b=2 p=0 d=10144
+@ via @@20 b=1603 p=0 d=2601769
+@@26: line 6.0 t=5412299 -> @@20
+vi-su-al 
+@ via @@20 b=2 p=0 d=10144
+@ via @@21 b=931 p=0 d=895481
+@@27: line 6.2 t=2820674 -> @@20
+dan 
+@ via @@21 b=23 p=0 d=11089
+@@28: line 6.1 t=2798208 -> @@21
+ge-ne-ra-tif^^Vseperti "Po-li-si Pa-ngan" 
+@ via @@23 b=1803 p=0 d=3286969
+@@29: line 7.0 t=164138810 -> @@23
+un-tuk 
+@ via @@23 b=1 p=0 d=10121
+@@30: line 7.2 t=160861962 -> @@23
+ve-ri-fi-ka-si 
+@ via @@24 b=143 p=0 d=23409
+@ via @@25 b=3019 p=0 d=9174841
+@@31: line 7.0 t=58666716 -> @@25
+ma-kan-an^^Vberjalan 
+@ via @@27 b=1132 p=0 d=1314164
+@@32: line 7.0 t=4134838 -> @@27
+de-ngan 
+@ via @@28 b=27 p=0 d=1369
+@@33: line 7.1 t=2799577 -> @@28
+aku-rat. 
+@\par via @@29 b=0 p=-10000 d=10100
+@\par via @@30 b=0 p=-10000 d=100
+@\par via @@31 b=0 p=-10000 d=10100
+@\par via @@32 b=0 p=-10000 d=10100
+@\par via @@33 b=0 p=-10000 d=100
+@@34: line 8.2- t=2799677 -> @@33
+
+
+Underfull \hbox (badness 1478) in paragraph at lines 65--66
+\T1/ptm/m/n/12 un-tuk meng-ak-tifk-an fi-tur Ke-ce-rdas-an Bu-at-an (Go-o-gle Ge-mi-ni API) yang
+ []
+
+@firstpass
 [] 
 @\par via @@0 b=0 p=-10000 d=100
 @@1: line 1.2- t=100 -> @@0
 
 File: image/Logo_Universitas_Telkom_Horizontal.png Graphic file (type png)
 <use image/Logo_Universitas_Telkom_Horizontal.png>
-Package pdftex.def Info: image/Logo_Universitas_Telkom_Horizontal.png  used on input line 65.
+Package pdftex.def Info: image/Logo_Universitas_Telkom_Horizontal.png  used on input line 67.
 (pdftex.def)             Requested size: 77.11923pt x 34.14322pt.
 @firstpass
 [][] 
@@ -6409,133 +6311,6 @@ Package pdftex.def Info: image/Logo_Universitas_Telkom_Horizontal.png  used on i
 
 [4]
 @firstpass
-@secondpass
-[]\T1/ptm/b/n/12 Implementasi API KEY AI: \T1/ptm/m/n/12 Bac-klog ter-a-khir ini me-ru-pak-an ta-hap 
-@ via @@0 b=6188 p=0 d=38425204
-@@1: line 1.0 t=38425204 -> @@0
-kru-si-al 
-@ via @@0 b=228 p=0 d=66644
-@@2: line 1.0 t=66644 -> @@0
-un-tuk meng-ak-tifk-an fi-tur Ke-ce-rdas-an Bu-at-an (Go-o-gle Ge-mi-ni 
-@ via @@1 b=7168 p=0 d=51523684
-@@3: line 2.0 t=89948888 -> @@1
-API) 
-@ via @@1 b=587 p=0 d=356409
-@@4: line 2.0 t=38781613 -> @@1
-yang 
-@ via @@1 b=0 p=0 d=10100
-@ via @@2 b=1478 p=0 d=2214144
-@@5: line 2.0 t=2280788 -> @@2
-men-ja-di 
-@ via @@2 b=91 p=0 d=20201
-@@6: line 2.3 t=86845 -> @@2
-in-ti ino-va-si Fo-o-dAI Re-scue. Tu-gas-nya me-li-pu-ti 
-@ via @@3 b=4353 p=0 d=19035769
-@@7: line 3.0 t=108984657 -> @@3
-pe-ma-sang-an 
-@ via @@3 b=0 p=0 d=10100
-@ via @@4 b=352 p=0 d=131044
-@ via @@5 b=3646 p=0 d=13366336
-@@8: line 3.0 t=15647124 -> @@5
-atau 
-@ via @@4 b=1 p=0 d=10121
-@ via @@5 b=497 p=0 d=257049
-@@9: line 3.0 t=2537837 -> @@5
-im-ple-men-ta-si 
-@ via @@6 b=2 p=0 d=144
-@@10: line 3.2 t=86989 -> @@6
-API Key ke da-lam sis-tem, me-re-vi-si 
-@ via @@7 b=7362 p=0 d=54346384
-@@11: line 4.0 t=163331041 -> @@7
-kon-fi-gu-ra-si 
-@ via @@7 b=3 p=0 d=10169
-@@12: line 4.2 t=108994826 -> @@7
-en-vi-ro-nment 
-@ via @@8 b=2 p=0 d=10144
-@ via @@9 b=631 p=0 d=410881
-@@13: line 4.0 t=2948718 -> @@9
-(se-per-ti 
-@ via @@10 b=5403 p=0 d=29310569
-@@14: line 4.0 t=29397558 -> @@10
-fi-le 
-@ via @@10 b=1168 p=0 d=1397684
-@@15: line 4.0 t=1484673 -> @@10
-.env) 
-@ via @@10 b=21 p=0 d=961
-@@16: line 4.1 t=87950 -> @@10
-un-tuk me-mas-tik-an kun-ci ra-ha-sia 
-@ via @@11 b=527 p=0 d=288369
-@@17: line 5.0 t=163619410 -> @@11
-ter-lin-du-ngi 
-@ via @@12 b=607 p=0 d=390689
-@@18: line 5.0 t=109385515 -> @@12
-de-ngan 
-@ via @@13 b=4660 p=0 d=21808900
-@@19: line 5.0 t=24757618 -> @@13
-am-an, 
-@ via @@13 b=184 p=0 d=37636
-@ via @@14 b=6808 p=0 d=46485124
-@@20: line 5.0 t=2986354 -> @@13
-ser-ta 
-@ via @@13 b=55 p=0 d=14225
-@ via @@14 b=791 p=0 d=641601
-@ via @@15 b=4168 p=0 d=17455684
-@@21: line 5.3 t=2962943 -> @@13
-me-la-kuk-an 
-@ via @@15 b=27 p=0 d=11369
-@ via @@16 b=357 p=0 d=134689
-@@22: line 5.0 t=222639 -> @@16
-pe-ngu-ji-an (tes-ting AI) gu-na 
-@ via @@17 b=2856 p=0 d=8213956
-@@23: line 6.0 t=171833366 -> @@17
-me-mas-tik-an 
-@ via @@18 b=1960 p=0 d=3880900
-@@24: line 6.0 t=113266415 -> @@18
-fi-tur 
-@ via @@18 b=107 p=0 d=13689
-@ via @@19 b=4981 p=0 d=24910081
-@@25: line 6.0 t=49667699 -> @@19
-in-te-li-jen-si 
-@ via @@19 b=2 p=0 d=10144
-@ via @@20 b=1603 p=0 d=2601769
-@@26: line 6.0 t=5588123 -> @@20
-vi-su-al 
-@ via @@20 b=2 p=0 d=10144
-@ via @@21 b=931 p=0 d=895481
-@@27: line 6.2 t=2996498 -> @@20
-dan 
-@ via @@21 b=23 p=0 d=11089
-@@28: line 6.1 t=2974032 -> @@21
-ge-ne-ra-tif^^Vseperti "Po-li-si Pa-ngan" 
-@ via @@23 b=1803 p=0 d=3286969
-@@29: line 7.0 t=175120335 -> @@23
-un-tuk 
-@ via @@23 b=1 p=0 d=10121
-@@30: line 7.2 t=171843487 -> @@23
-ve-ri-fi-ka-si 
-@ via @@24 b=143 p=0 d=23409
-@ via @@25 b=3019 p=0 d=9174841
-@@31: line 7.0 t=58842540 -> @@25
-ma-kan-an^^Vberjalan 
-@ via @@27 b=1132 p=0 d=1314164
-@@32: line 7.0 t=4310662 -> @@27
-de-ngan 
-@ via @@28 b=27 p=0 d=1369
-@@33: line 7.1 t=2975401 -> @@28
-aku-rat. 
-@\par via @@29 b=0 p=-10000 d=10100
-@\par via @@30 b=0 p=-10000 d=100
-@\par via @@31 b=0 p=-10000 d=10100
-@\par via @@32 b=0 p=-10000 d=10100
-@\par via @@33 b=0 p=-10000 d=100
-@@34: line 8.2- t=2975501 -> @@33
-
-
-Underfull \hbox (badness 1478) in paragraph at lines 65--66
-\T1/ptm/m/n/12 un-tuk meng-ak-tifk-an fi-tur Ke-ce-rdas-an Bu-at-an (Go-o-gle Ge-mi-ni API) yang
- []
-
-@firstpass
 |[]\T1/ptm/b/n/14.4 Pelaksanaan Sprint| 
 @\par via @@0 b=0 p=-10000 d=100
 @@1: line 1.2- t=100 -> @@0
@@ -6566,7 +6341,7 @@ un-tuk masing-masing bac-klog ada-lah se-ba-gai ber-i-kut:
 @@1: line 1.2- t=100 -> @@0
 
 LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 73.
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
 @firstpass
@@ -6660,45 +6435,6 @@ File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 @@1: line 1.2- t=100 -> @@0
 
 @firstpass
-[] 
-@\par via @@0 b=0 p=-10000 d=100
-@@1: line 1.2- t=100 -> @@0
-
-File: image/Logo_Universitas_Telkom_Horizontal.png Graphic file (type png)
-<use image/Logo_Universitas_Telkom_Horizontal.png>
-Package pdftex.def Info: image/Logo_Universitas_Telkom_Horizontal.png  used on input line 100.
-(pdftex.def)             Requested size: 77.11923pt x 34.14322pt.
-@firstpass
-[][] 
-@ via @@0 b=0 p=0 d=100
-@@1: line 1.2 t=100 -> @@0
-|
-@\par via @@0 b=0 p=-10000 d=100
-@\par via @@1 b=0 p=-10000 d=100
-@@2: line 1.2- t=100 -> @@0
-
-@firstpass
-[]
-@\par via @@0 b=0 p=-10000 d=100
-@@1: line 1.2- t=100 -> @@0
-
-@firstpass
-[] 
-@\par via @@0 b=0 p=-10000 d=100
-@@1: line 1.2- t=100 -> @@0
-
-@firstpass
-[]
-@\par via @@0 b=0 p=-10000 d=100
-@@1: line 1.2- t=100 -> @@0
-
-@firstpass
-[]\T1/ptm/m/n/12 5|
-@\par via @@0 b=0 p=-10000 d=100
-@@1: line 1.2- t=100 -> @@0
-
- [5]
-@firstpass
 []\T1/ptm/m/n/12 Testing AI 
 @\par via @@0 b=0 p=-10000 d=100
 @@1: line 1.2- t=100 -> @@0
@@ -6782,6 +6518,45 @@ per-an-cang-an ar-si-tek-tur per-ang-kat lu-nak.
 @\par via @@18 b=0 p=-10000 d=100
 @@19: line 7.2- t=91286 -> @@18
 
+@firstpass
+[] 
+@\par via @@0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @@0
+
+File: image/Logo_Universitas_Telkom_Horizontal.png Graphic file (type png)
+<use image/Logo_Universitas_Telkom_Horizontal.png>
+Package pdftex.def Info: image/Logo_Universitas_Telkom_Horizontal.png  used on input line 106.
+(pdftex.def)             Requested size: 77.11923pt x 34.14322pt.
+@firstpass
+[][] 
+@ via @@0 b=0 p=0 d=100
+@@1: line 1.2 t=100 -> @@0
+|
+@\par via @@0 b=0 p=-10000 d=100
+@\par via @@1 b=0 p=-10000 d=100
+@@2: line 1.2- t=100 -> @@0
+
+@firstpass
+[]
+@\par via @@0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @@0
+
+@firstpass
+[] 
+@\par via @@0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @@0
+
+@firstpass
+[]
+@\par via @@0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @@0
+
+@firstpass
+[]\T1/ptm/m/n/12 5|
+@\par via @@0 b=0 p=-10000 d=100
+@@1: line 1.2- t=100 -> @@0
+
+ [5]
 @firstpass
 |[]\T1/ptm/b/n/14.4 Scrum Events| 
 @\par via @@0 b=0 p=-10000 d=100
@@ -8807,74 +8582,74 @@ Package pdftex.def Info: image/Logo_Universitas_Telkom_Horizontal.png  used on i
 
 @firstpass
 @secondpass
-\T1/ptm/m/n/12 Guna me-mas-tik-an bah-wa pla-tform Fo-o-dAI Re-scue yang di-kem-bangk-an da-pat 
-@ via @@0 b=5490 p=0 d=30260000
-@@1: line 1.0 t=30260000 -> @@0
+\T1/ptm/m/n/12 Guna me-mas-tik-an bah-wa pla-tform Fo-od AI Re-scue yang di-kem-bangk-an da-pat 
+@ via @@0 b=3260 p=0 d=10702900
+@@1: line 1.0 t=10702900 -> @@0
 me-nye-le-sa-ik-an per-ma-sa-lah-an se-ca-ra aku-rat dan te-pat sa-sar-an, pe-ne-li-ti-an ini me-ne-rapk-an 
 @ via @@1 b=3 p=0 d=10169
-@@2: line 2.2 t=30270169 -> @@1
+@@2: line 2.2 t=10713069 -> @@1
 pen-de-kat-an de-sa-in ber-pu-sat pa-da ma-nu-sia (Human-Centered De-sign). Pen-de-kat-an 
 @ via @@2 b=896 p=0 d=830836
-@@3: line 3.0 t=31101005 -> @@2
+@@3: line 3.0 t=11543905 -> @@2
 ini 
 @ via @@2 b=99 p=0 d=11881
-@@4: line 3.1 t=30282050 -> @@2
+@@4: line 3.1 t=10724950 -> @@2
 se-ca-ra spe-si-fik me-me-tak-an pe-nga-lam-an da-ri tar-get peng-gu-na uta-ma di la-pang-an^^Vyakni 
 @ via @@4 b=8 p=0 d=324
-@@5: line 4.2 t=30282374 -> @@4
+@@5: line 4.2 t=10725274 -> @@4
 pi-hak do-na-tur, pe-ne-ri-ma do-na-si, dan re-la-w-an lo-gis-tik^^Vketika me-re-ka ma-sih 
 @ via @@5 b=6608 p=0 d=43807924
-@@6: line 5.0 t=74090298 -> @@5
+@@6: line 5.0 t=54533198 -> @@5
 me-la-kuk-an 
 @ via @@5 b=5 p=0 d=225
-@@7: line 5.2 t=30282599 -> @@5
+@@7: line 5.2 t=10725499 -> @@5
 pro-ses pe-nya-lur-an sur-plus ma-kan-an se-ca-ra ma-nu-al atau kon-ven-sio-nal 
 @ via @@6 b=2142 p=0 d=4631104
-@@8: line 6.0 t=78721402 -> @@6
+@@8: line 6.0 t=59164302 -> @@6
 (As-Is). 
 @ via @@6 b=0 p=0 d=10100
 @ via @@7 b=5771 p=0 d=33429961
-@@9: line 6.0 t=63712560 -> @@7
+@@9: line 6.0 t=44155460 -> @@7
 Ha-sil 
 @ via @@7 b=242 p=0 d=73504
-@@10: line 6.0 t=30356103 -> @@7
+@@10: line 6.0 t=10799003 -> @@7
 pe-me-ta-an per-ma-sa-lah-an ter-se-but ke-mu-di-an di-tu-angk-an ke da-lam 
 @ via @@8 b=2027 p=0 d=4149369
-@@11: line 7.0 t=82870771 -> @@8
+@@11: line 7.0 t=63313671 -> @@8
 ti-ga 
 @ via @@8 b=287 p=0 d=88209
-@@12: line 7.0 t=78809611 -> @@8
+@@12: line 7.0 t=59252511 -> @@8
 ar-te-fak 
 @ via @@9 b=820 p=0 d=688900
 @ via @@10 b=7595 p=0 d=57836025
-@@13: line 7.0 t=64401460 -> @@9
+@@13: line 7.0 t=44844360 -> @@9
 User 
 @ via @@9 b=6 p=0 d=10256
 @ via @@10 b=1038 p=0 d=1098304
-@@14: line 7.0 t=31454407 -> @@10
+@@14: line 7.0 t=11897307 -> @@10
 Expe-ri-en-ce (UX), me-li-pu-ti User Per-so-na, Em-pa-thy Map, 
 @ via @@11 b=8056 p=0 d=65060356
-@@15: line 8.0 t=147931127 -> @@11
+@@15: line 8.0 t=128374027 -> @@11
 dan 
 @ via @@11 b=2035 p=0 d=4182025
 @ via @@12 b=7631 p=0 d=58384881
-@@16: line 8.0 t=87052796 -> @@11
+@@16: line 8.0 t=67495696 -> @@11
 User 
 @ via @@11 b=196 p=0 d=42436
 @ via @@12 b=1527 p=0 d=2362369
-@@17: line 8.0 t=81171980 -> @@12
+@@17: line 8.0 t=61614880 -> @@12
 Jo-ur-ney 
 @ via @@12 b=3 p=0 d=10169
 @ via @@13 b=1117 p=0 d=1270129
 @ via @@14 b=6252 p=0 d=39212644
-@@18: line 8.0 t=65671589 -> @@13
+@@18: line 8.0 t=46114489 -> @@13
 Map, 
 @ via @@13 b=32 p=0 d=1764
 @ via @@14 b=940 p=0 d=902500
-@@19: line 8.0 t=32356907 -> @@14
+@@19: line 8.0 t=12799807 -> @@14
 yang 
 @ via @@14 b=27 p=0 d=1369
-@@20: line 8.1 t=31455776 -> @@14
+@@20: line 8.1 t=11898676 -> @@14
 di-ja-bark-an se-ba-gai ber-i-kut: 
 @\par via @@15 b=0 p=-10000 d=10100
 @\par via @@16 b=0 p=-10000 d=10100
@@ -8882,11 +8657,11 @@ di-ja-bark-an se-ba-gai ber-i-kut:
 @\par via @@18 b=0 p=-10000 d=10100
 @\par via @@19 b=0 p=-10000 d=10100
 @\par via @@20 b=0 p=-10000 d=100
-@@21: line 9.2- t=31455876 -> @@20
+@@21: line 9.2- t=11898776 -> @@20
 
 
-Underfull \hbox (badness 5490) in paragraph at lines 82--83
-\T1/ptm/m/n/12 Guna me-mas-tik-an bah-wa pla-tform Fo-o-dAI Re-scue yang di-kem-bangk-an da-pat
+Underfull \hbox (badness 3260) in paragraph at lines 82--83
+\T1/ptm/m/n/12 Guna me-mas-tik-an bah-wa pla-tform Fo-od AI Re-scue yang di-kem-bangk-an da-pat
  []
 
 
@@ -9430,49 +9205,49 @@ ran-cang-an
 @ via @@4 b=0 p=0 d=10100
 @ via @@5 b=1102 p=0 d=1236544
 @@7: line 4.0 t=4845978 -> @@5
-apli-ka-si Fo-o-dAI Re-scue mam-pu meng-ha-dirk-an ni-lai tam-bah (va-lue 
-@ via @@6 b=5133 p=0 d=26450449
-@@8: line 5.0 t=66496879 -> @@6
+apli-ka-si Fo-od AI Re-scue mam-pu meng-ha-dirk-an ni-lai tam-bah (va-lue 
+@ via @@6 b=3039 p=0 d=9296401
+@@8: line 5.0 t=49342831 -> @@6
 pro-po-si-tion) 
-@ via @@7 b=2875 p=0 d=8323225
-@@9: line 5.0 t=13169203 -> @@7
+@ via @@7 b=1635 p=0 d=2706025
+@@9: line 5.0 t=7552003 -> @@7
 yang 
-@ via @@7 b=132 p=0 d=20164
-@@10: line 5.0 t=4866142 -> @@7
+@ via @@7 b=55 p=0 d=4225
+@@10: line 5.1 t=4850203 -> @@7
 le-bih ku-at dan re-lev-an ba-gi tar-get peng-gu-na-nya^^Vseperti do-na-tur 
 @ via @@8 b=574 p=0 d=341056
-@@11: line 6.0 t=66837935 -> @@8
+@@11: line 6.0 t=49683887 -> @@8
 in-di-vi-du, 
 @ via @@9 b=2134 p=0 d=4596736
-@@12: line 6.0 t=17765939 -> @@9
+@@12: line 6.0 t=12148739 -> @@9
 mi-tra 
 @ via @@9 b=73 p=0 d=6889
 @ via @@10 b=1715 p=0 d=2975625
-@@13: line 6.0 t=7841767 -> @@10
+@@13: line 6.1 t=7558892 -> @@9
 kor-po-rat 
-@ via @@10 b=0 p=0 d=10100
-@@14: line 6.2 t=4876242 -> @@10
+@ via @@10 b=0 p=0 d=100
+@@14: line 6.2 t=4850303 -> @@10
 (HO-RE-CA), re-la-w-an, dan pe-ne-ri-ma do-na-si^^Vserta se-la-ras 
 @ via @@11 b=977 p=0 d=974169
-@@15: line 7.0 t=67812104 -> @@11
+@@15: line 7.0 t=50658056 -> @@11
 de-ngan 
 @ via @@11 b=48 p=0 d=13364
 @ via @@12 b=2080 p=0 d=4368100
-@@16: line 7.0 t=22134039 -> @@12
+@@16: line 7.0 t=16516839 -> @@12
 vi-si 
 @ via @@12 b=187 p=0 d=38809
 @ via @@13 b=3557 p=0 d=12723489
-@@17: line 7.0 t=17804748 -> @@12
+@@17: line 7.0 t=12187548 -> @@12
 in-stan-si 
 @ via @@13 b=17 p=0 d=729
 @ via @@14 b=4467 p=0 d=20053529
-@@18: line 7.1 t=7842496 -> @@13
+@@18: line 7.1 t=7559621 -> @@13
 pe-ngem-bang se-per-ti Ja-go-AI. 
 @\par via @@15 b=0 p=-10000 d=10100
 @\par via @@16 b=0 p=-10000 d=10100
 @\par via @@17 b=0 p=-10000 d=10100
 @\par via @@18 b=0 p=-10000 d=100
-@@19: line 8.2- t=7842596 -> @@18
+@@19: line 8.2- t=7559721 -> @@18
 
 
 Underfull \hbox (badness 1838) in paragraph at lines 138--139
@@ -9485,8 +9260,8 @@ Underfull \hbox (badness 1102) in paragraph at lines 138--139
  []
 
 
-Underfull \hbox (badness 1715) in paragraph at lines 138--139
-\T1/ptm/m/n/12 le-bih ku-at dan re-lev-an ba-gi tar-get peng-gu-na-nya^^Vseperti do-na-tur in-di-vi-du, mi-tra
+Underfull \hbox (badness 1635) in paragraph at lines 138--139
+\T1/ptm/m/n/12 apli-ka-si Fo-od AI Re-scue mam-pu meng-ha-dirk-an ni-lai tam-bah (va-lue pro-po-si-tion)
  []
 
 @firstpass
@@ -9512,58 +9287,65 @@ la-pang-an ke da-lam spe-si-fi-ka-si tek-nis yang komp-re-hen-sif ba-gi pla-tfor
 @ via @@2 b=936 p=0 d=894916
 @ via @@3 b=5504 p=0 d=30404196
 @@5: line 3.0 t=3523484 -> @@2
-Fo-o-dAI 
-@ via @@2 b=2 p=0 d=10144
-@ via @@3 b=169 p=0 d=32041
-@ via @@4 b=2790 p=0 d=7850000
-@@6: line 3.0 t=548534 -> @@3
+Fo-od 
+@ via @@2 b=15 p=0 d=625
+@ via @@3 b=681 p=0 d=477481
+@ via @@4 b=5548 p=0 d=30901364
+@@6: line 3.0 t=993974 -> @@3
+AI 
+@ via @@2 b=21 p=0 d=10961
+@ via @@3 b=81 p=0 d=8281
+@ via @@4 b=1681 p=0 d=2869481
+@@7: line 3.1 t=524774 -> @@3
 Re-scue. 
-@ via @@4 b=10 p=0 d=400
-@@7: line 3.2 t=518388 -> @@4
+@ via @@4 b=2 p=0 d=144
+@@8: line 3.2 t=518132 -> @@4
 Ta-hap-an ana-li-sis ini di-kla-si-fi-ka-sik-an ke da-lam ti-ga se-gmen 
-@ via @@5 b=3547 p=0 d=12652249
-@@8: line 4.0 t=16175733 -> @@5
+@ via @@5 b=2376 p=0 d=5692996
+@@9: line 4.0 t=9216480 -> @@5
 uta-ma, 
-@ via @@5 b=261 p=0 d=73441
-@ via @@6 b=4391 p=0 d=19368801
-@@9: line 4.0 t=3596925 -> @@5
+@ via @@5 b=149 p=0 d=25281
+@ via @@6 b=1584 p=0 d=2540836
+@ via @@7 b=4391 p=0 d=19368801
+@@10: line 4.0 t=3534810 -> @@6
 yak-ni 
-@ via @@5 b=0 p=0 d=10100
-@ via @@6 b=607 p=0 d=380689
-@@10: line 4.0 t=929223 -> @@6
+@ via @@5 b=5 p=0 d=10225
+@ via @@6 b=109 p=0 d=14161
+@ via @@7 b=607 p=0 d=380689
+@@11: line 4.0 t=905463 -> @@7
 pen-de-fi-ni-si-an 
-@ via @@7 b=50 p=0 d=3600
-@@11: line 4.1 t=521988 -> @@7
+@ via @@8 b=50 p=0 d=3600
+@@12: line 4.1 t=521732 -> @@8
 ting-kat hak ak-ses peng-gu-na (me-li-pu-ti Do-na-tur, Pe-ne-ri-ma, 
-@ via @@8 b=147 p=0 d=24649
-@ via @@9 b=5022 p=0 d=25321024
-@@12: line 5.0 t=16200382 -> @@8
+@ via @@9 b=147 p=0 d=24649
+@ via @@10 b=5022 p=0 d=25321024
+@@13: line 5.0 t=9241129 -> @@9
 Re-la-w-an, 
-@ via @@9 b=7 p=0 d=10289
-@ via @@10 b=1389 p=0 d=1957201
-@@13: line 5.0 t=2886424 -> @@10
-Admin, 
 @ via @@10 b=7 p=0 d=10289
-@ via @@11 b=6842 p=0 d=46949904
-@@14: line 5.2 t=939512 -> @@10
+@ via @@11 b=1389 p=0 d=1957201
+@@14: line 5.0 t=2862664 -> @@11
+Admin, 
+@ via @@11 b=7 p=0 d=10289
+@ via @@12 b=6842 p=0 d=46949904
+@@15: line 5.2 t=915752 -> @@11
 dan 
-@ via @@11 b=1466 p=0 d=2178576
-@@15: line 5.0 t=2700564 -> @@11
+@ via @@12 b=1466 p=0 d=2178576
+@@16: line 5.0 t=2700308 -> @@12
 Su-pe-rA-dmin), pe-me-ta-an ke-bu-tuh-an fung-sio-nal ce-rdas apli-ka-si, 
-@ via @@12 b=175 p=0 d=34225
-@@16: line 6.0 t=16234607 -> @@12
+@ via @@13 b=175 p=0 d=34225
+@@17: line 6.0 t=9275354 -> @@13
 ser-ta 
-@ via @@13 b=1769 p=0 d=3164841
-@@17: line 6.0 t=6051265 -> @@13
+@ via @@14 b=1769 p=0 d=3164841
+@@18: line 6.0 t=6027505 -> @@14
 spe-si-fi-ka-si 
-@ via @@14 b=571 p=0 d=347561
-@ via @@15 b=4403 p=0 d=19474569
-@@18: line 6.0 t=1287073 -> @@14
+@ via @@15 b=571 p=0 d=347561
+@ via @@16 b=4403 p=0 d=19474569
+@@19: line 6.0 t=1263313 -> @@15
 in-fras-truk-tur tek-no-lo-gi pen-du-kung di si-si bac-kend. 
-@\par via @@16 b=0 p=-10000 d=10100
 @\par via @@17 b=0 p=-10000 d=10100
 @\par via @@18 b=0 p=-10000 d=10100
-@@19: line 7.2- t=1297173 -> @@18
+@\par via @@19 b=0 p=-10000 d=10100
+@@20: line 7.2- t=1273413 -> @@19
 
 @firstpass
 |[]\T1/ptm/b/n/14.4 Analisa Kebutuhan Fungsional| 
@@ -9668,34 +9450,33 @@ ak-an
 @ via @@18 b=92 p=0 d=20404
 @ via @@19 b=2932 p=0 d=8655364
 @@24: line 7.1 t=5933541 -> @@18
-di-im-ple-men-ta-sik-an pa-da eko-sis-tem Fo-o-dAI Re-scue 
-@ via @@20 b=1990 p=0 d=4000000
-@@25: line 8.0 t=92727011 -> @@20
+di-im-ple-men-ta-sik-an pa-da eko-sis-tem Fo-od AI Re-scue 
+@ via @@20 b=1122 p=0 d=1281424
+@ via @@21 b=5862 p=0 d=34480384
+@@25: line 8.0 t=90008435 -> @@20
 di-kla-si-fi-ka-sik-an 
-@ via @@22 b=6608 p=0 d=43797924
-@@26: line 8.0 t=58665161 -> @@22
+@ via @@22 b=3690 p=0 d=13690000
+@@26: line 8.0 t=28557237 -> @@22
 ke 
-@ via @@22 b=1661 p=0 d=2792241
-@@27: line 8.0 t=17659478 -> @@22
+@ via @@22 b=900 p=0 d=828100
+@ via @@23 b=7256 p=0 d=52794756
+@@27: line 8.0 t=15695337 -> @@22
 da-lam 
-@ via @@22 b=2 p=0 d=10144
-@ via @@23 b=972 p=0 d=964324
-@@28: line 8.0 t=8497822 -> @@23
+@ via @@22 b=0 p=0 d=10100
+@ via @@23 b=500 p=0 d=260100
+@ via @@24 b=5091 p=0 d=26020201
+@@28: line 8.0 t=7793598 -> @@23
 enam 
-@ via @@23 b=0 p=0 d=10100
-@ via @@24 b=688 p=0 d=487204
-@@29: line 8.0 t=6420745 -> @@24
-mo-dul 
-@ via @@24 b=89 p=0 d=19801
-@@30: line 8.3 t=5953342 -> @@24
-uta-ma ber-i-kut 
+@ via @@23 b=1 p=0 d=10121
+@ via @@24 b=341 p=0 d=123201
+@@29: line 8.0 t=6056742 -> @@24
+mo-dul uta-ma ber-i-kut 
 @\par via @@25 b=0 p=-10000 d=10100
 @\par via @@26 b=0 p=-10000 d=10100
 @\par via @@27 b=0 p=-10000 d=10100
 @\par via @@28 b=0 p=-10000 d=10100
 @\par via @@29 b=0 p=-10000 d=10100
-@\par via @@30 b=0 p=-10000 d=100
-@@31: line 9.2- t=5953442 -> @@30
+@@30: line 9.2- t=6066842 -> @@29
 
 
 Underfull \hbox (badness 1048) in paragraph at lines 144--145
@@ -9720,106 +9501,106 @@ Underfull \hbox (badness 2096) in paragraph at lines 144--145
 dan 
 @ via @@0 b=355 p=0 d=143225
 @@2: line 1.0 t=143225 -> @@0
-ter-o-to-ma-ti-sa-si, pla-tform Fo-o-dAI Re-scue ti-dak da-pat ha-nya meng-an-dalk-an 
-@ via @@1 b=4739 p=0 d=22553001
-@@3: line 2.0 t=31920482 -> @@1
+ter-o-to-ma-ti-sa-si, pla-tform Fo-od AI Re-scue ti-dak da-pat ha-nya meng-an-dalk-an 
+@ via @@1 b=2828 p=0 d=8054244
+@@3: line 2.0 t=17421725 -> @@1
 an-tar-mu-ka 
-@ via @@1 b=0 p=0 d=10100
-@ via @@2 b=259 p=0 d=72361
-@@4: line 2.0 t=215586 -> @@2
+@ via @@1 b=7 p=0 d=10289
+@ via @@2 b=115 p=0 d=15625
+@@4: line 2.0 t=158850 -> @@2
 peng-gu-na ( fron-tend ) sa-ja. Pla-tform ini me-nun-tut ada-nya du-kung-an 
 @ via @@3 b=1062 p=0 d=1149184
-@@5: line 3.0 t=33069666 -> @@3
+@@5: line 3.0 t=18570909 -> @@3
 ar-si-tek-tur 
 @ via @@3 b=0 p=0 d=10100
 @ via @@4 b=1460 p=0 d=2160900
-@@6: line 3.0 t=2376486 -> @@4
+@@6: line 3.0 t=2319750 -> @@4
 sis-tem 
 @ via @@4 b=55 p=0 d=4225
-@@7: line 3.1 t=219811 -> @@4
+@@7: line 3.1 t=163075 -> @@4
 di 
 @ via @@4 b=2 p=0 d=10144
-@@8: line 3.2 t=225730 -> @@4
+@@8: line 3.2 t=168994 -> @@4
 si-si bac-kend yang tang-guh. Se-ca-ra kon-sep-tu-al, in-fras-truk-tur 
 @ via @@5 b=1184 p=0 d=1425636
-@@9: line 4.0 t=34495302 -> @@5
+@@9: line 4.0 t=19996545 -> @@5
 di 
 @ via @@5 b=362 p=0 d=138384
 @ via @@6 b=6675 p=0 d=44689225
-@@10: line 4.0 t=33208050 -> @@5
+@@10: line 4.0 t=18709293 -> @@5
 be-la-kang 
 @ via @@6 b=430 p=0 d=193600
 @ via @@7 b=4036 p=0 d=16370116
-@@11: line 4.0 t=2570086 -> @@6
+@@11: line 4.0 t=2513350 -> @@6
 la-yar 
 @ via @@6 b=5 p=0 d=10225
 @ via @@7 b=718 p=0 d=529984
 @ via @@8 b=1983 p=0 d=3982049
-@@12: line 4.0 t=749795 -> @@7
+@@12: line 4.0 t=693059 -> @@7
 ini 
 @ via @@6 b=60 p=0 d=14900
 @ via @@7 b=142 p=0 d=23104
 @ via @@8 b=562 p=0 d=337184
-@@13: line 4.0 t=242915 -> @@7
+@@13: line 4.0 t=186179 -> @@7
 di-kla-si-fi-ka-sik-an ke da-lam ti-ga pi-lar ke-bu-tuh-an ope-ra-sio-nal 
 @ via @@9 b=1762 p=0 d=3139984
 @ via @@10 b=4872 p=0 d=23833924
-@@14: line 5.0 t=37635286 -> @@9
+@@14: line 5.0 t=23136529 -> @@9
 uta-ma: 
 @ via @@9 b=18 p=0 d=784
 @ via @@10 b=223 p=0 d=54289
 @ via @@11 b=8000 p=0 d=64160100
-@@15: line 5.0 t=33262339 -> @@10
+@@15: line 5.0 t=18763582 -> @@10
 pe-me-nuh-an 
 @ via @@11 b=16 p=0 d=676
 @ via @@12 b=927 p=0 d=877969
 @ via @@13 b=3590 p=0 d=12960000
-@@16: line 5.0 t=1627764 -> @@12
+@@16: line 5.0 t=1571028 -> @@12
 fung-sio-na-li-tas kon-ten (ma-na-je-men do-na-si dan peng-gu-na), 
 @ via @@14 b=5787 p=0 d=33605209
-@@17: line 6.0 t=71240495 -> @@14
+@@17: line 6.0 t=56741738 -> @@14
 ke-ter-se-di-a-an 
 @ via @@15 b=1127 p=0 d=1292769
-@@18: line 6.0 t=34555108 -> @@15
+@@18: line 6.0 t=20056351 -> @@15
 la-yan-an 
 @ via @@16 b=4739 p=0 d=22553001
-@@19: line 6.0 t=24180765 -> @@16
+@@19: line 6.0 t=24124029 -> @@16
 in-te-gra-si 
 @ via @@16 b=1 p=0 d=10121
-@@20: line 6.2 t=1637885 -> @@16
+@@20: line 6.2 t=1581149 -> @@16
 (API se-rvi-ces), ser-ta in-fras-truk-tur tek-no-lo-gi pen-du-kung 
 @ via @@17 b=89 p=0 d=9801
-@@21: line 7.1 t=71250296 -> @@17
+@@21: line 7.1 t=56751539 -> @@17
 Ke-ce-rdas-an 
 @ via @@18 b=193 p=0 d=41209
-@@22: line 7.0 t=34596317 -> @@18
+@@22: line 7.0 t=20097560 -> @@18
 Bu-at-an 
 @ via @@19 b=318 p=0 d=107584
-@@23: line 7.0 t=24288349 -> @@19
+@@23: line 7.0 t=24231613 -> @@19
 (se-per-ti 
 @ via @@20 b=601 p=0 d=383321
-@@24: line 7.0 t=2021206 -> @@20
+@@24: line 7.0 t=1964470 -> @@20
 in-te-gra-si Go-o-gle Ge-mi-ni Vi-sion API) yang men-ja-di 
 @ via @@21 b=2173 p=0 d=4765489
-@@25: line 8.0 t=76015785 -> @@21
+@@25: line 8.0 t=61517028 -> @@21
 mo-tor 
 @ via @@21 b=42 p=0 d=2704
-@@26: line 8.1 t=71253000 -> @@21
+@@26: line 8.1 t=56754243 -> @@21
 peng-ge-rak 
 @ via @@22 b=122 p=0 d=17424
 @ via @@23 b=4181 p=0 d=17564481
-@@27: line 8.0 t=34613741 -> @@22
+@@27: line 8.0 t=20114984 -> @@22
 ino-va-si 
 @ via @@23 b=118 p=0 d=16384
 @ via @@24 b=4595 p=0 d=21206025
-@@28: line 8.0 t=23227231 -> @@24
+@@28: line 8.0 t=23170495 -> @@24
 sis-tem. 
 @\par via @@24 b=0 p=-10000 d=10100
 @\par via @@25 b=0 p=-10000 d=10100
 @\par via @@26 b=0 p=-10000 d=100
 @\par via @@27 b=0 p=-10000 d=10100
 @\par via @@28 b=0 p=-10000 d=10100
-@@29: line 8.2- t=2031306 -> @@24
+@@29: line 8.2- t=1974570 -> @@24
 
 @firstpass
 [] 
@@ -9872,18 +9653,18 @@ Package pdftex.def Info: image/Logo_Universitas_Telkom_Horizontal.png  used on i
 \T1/ptm/m/n/12 Kinerja sistem merepresentasikan standar minimum dan tolok ukur (benchmark) yang 
 @ via @@0 b=65 p=0 d=5625
 @@1: line 1.1 t=5625 -> @@0
-diterapkan guna memastikan seluruh ekosistem aplikasi FoodAI Rescue, khususnya pada 
-@ via @@1 b=0 p=0 d=100
-@@2: line 2.2 t=5725 -> @@1
+diterapkan guna memastikan seluruh ekosistem aplikasi Food AI Rescue, khususnya pada 
+@ via @@1 b=12 p=0 d=484
+@@2: line 2.2 t=6109 -> @@1
 Modul Konfigurasi Pusat (Admin) dan Dasbor Dampak Sosial (SROI), mampu beroperasi 
 @ via @@2 b=23 p=0 d=1089
-@@3: line 3.3 t=6814 -> @@2
+@@3: line 3.3 t=7198 -> @@2
 selaras dengan spesifikasi dan perancangan fungsionalnya. Proses evaluasi kinerja dalam 
 @ via @@3 b=0 p=0 d=100
-@@4: line 4.2 t=6914 -> @@3
+@@4: line 4.2 t=7298 -> @@3
 pengembangan platform ini dititikberatkan pada empat parameter fundamental, meliputi: 
 @ via @@4 b=0 p=0 d=100
-@@5: line 5.2 t=7014 -> @@4
+@@5: line 5.2 t=7398 -> @@4
 @secondpass
 \T1/ptm/m/n/12 Kinerja sis-tem me-rep-re-sen-ta-sik-an stan-dar mi-ni-mum dan to-lok ukur (ben-ch-mark) 
 @ via @@0 b=2197 p=0 d=4880849
@@ -9891,229 +9672,229 @@ pengembangan platform ini dititikberatkan pada empat parameter fundamental, meli
 yang 
 @ via @@0 b=65 p=0 d=5625
 @@2: line 1.1 t=5625 -> @@0
-di-te-rapk-an gu-na me-mas-tik-an se-lu-ruh eko-sis-tem apli-ka-si Fo-o-dAI Re-scue, 
-@ via @@1 b=4779 p=0 d=22934521
-@@3: line 2.0 t=27815370 -> @@1
+di-te-rapk-an gu-na me-mas-tik-an se-lu-ruh eko-sis-tem apli-ka-si Fo-od AI Re-scue, 
+@ via @@1 b=2818 p=0 d=7997584
+@@3: line 2.0 t=12878433 -> @@1
 khu-sus-nya 
-@ via @@1 b=1 p=0 d=10121
-@ via @@2 b=485 p=0 d=245025
-@@4: line 2.0 t=250650 -> @@2
+@ via @@1 b=20 p=0 d=10900
+@ via @@2 b=235 p=0 d=60025
+@@4: line 2.0 t=65650 -> @@2
 pa-da 
-@ via @@2 b=0 p=0 d=100
-@@5: line 2.2 t=5725 -> @@2
+@ via @@2 b=12 p=0 d=484
+@@5: line 2.2 t=6109 -> @@2
 Mo-dul Kon-fi-gu-ra-si Pu-sat (Admin) dan Das-bor Dam-pak So-si-al 
 @ via @@3 b=2809 p=0 d=7946761
-@@6: line 3.0 t=35762131 -> @@3
+@@6: line 3.0 t=20825194 -> @@3
 (SROI), 
 @ via @@3 b=10 p=0 d=10400
 @ via @@4 b=5563 p=0 d=31058329
-@@7: line 3.2 t=27825770 -> @@3
+@@7: line 3.2 t=12888833 -> @@3
 mam-pu 
 @ via @@4 b=204 p=0 d=45796
 @ via @@5 b=2689 p=0 d=7294601
-@@8: line 3.0 t=296446 -> @@4
+@@8: line 3.0 t=111446 -> @@4
 ber-o-pe-ra-si 
 @ via @@5 b=23 p=0 d=1089
-@@9: line 3.3 t=6814 -> @@5
+@@9: line 3.3 t=7198 -> @@5
 se-la-ras de-ngan spe-si-fi-ka-si dan per-an-cang-an fung-sio-nal-nya. 
 @ via @@6 b=76 p=0 d=7396
 @ via @@7 b=7869 p=0 d=62088641
-@@10: line 4.1 t=35769527 -> @@6
+@@10: line 4.1 t=20832590 -> @@6
 Pro-ses 
 @ via @@7 b=116 p=0 d=25876
 @ via @@8 b=4569 p=0 d=20967241
-@@11: line 4.0 t=21263687 -> @@8
+@@11: line 4.0 t=12914709 -> @@7
 eva-lu-a-si 
 @ via @@8 b=73 p=0 d=6889
 @ via @@9 b=7777 p=0 d=60647369
-@@12: line 4.1 t=303335 -> @@8
+@@12: line 4.1 t=118335 -> @@8
 ki-ner-ja 
 @ via @@9 b=607 p=0 d=390689
-@@13: line 4.0 t=397503 -> @@9
+@@13: line 4.0 t=397887 -> @@9
 da-lam 
 @ via @@9 b=0 p=0 d=100
-@@14: line 4.2 t=6914 -> @@9
+@@14: line 4.2 t=7298 -> @@9
 pe-ngem-bang-an pla-tform ini di-ti-tik-be-ratk-an pa-da 
 @ via @@10 b=4441 p=0 d=19811401
-@@15: line 5.0 t=55580928 -> @@10
+@@15: line 5.0 t=40643991 -> @@10
 em-pat 
 @ via @@10 b=153 p=0 d=26569
 @ via @@11 b=4981 p=0 d=24910081
-@@16: line 5.0 t=35796096 -> @@10
+@@16: line 5.0 t=20859159 -> @@10
 pa-ra-me-ter 
 @ via @@11 b=0 p=0 d=10100
 @ via @@12 b=2799 p=0 d=7890481
-@@17: line 5.0 t=8193816 -> @@12
+@@17: line 5.0 t=8008816 -> @@12
 fun-da-men-tal, 
 @ via @@13 b=93 p=0 d=10609
 @ via @@14 b=4995 p=0 d=25060025
-@@18: line 5.1 t=408112 -> @@13
+@@18: line 5.1 t=408496 -> @@13
 me-li-pu-ti: 
 @ via @@14 b=0 p=0 d=100
-@@19: line 5.2 t=7014 -> @@14
+@@19: line 5.2 t=7398 -> @@14
 fung-sio-na-li-tas an-tar-mu-ka per-ang-kat lu-nak, 
 @ via @@15 b=574 p=0 d=341056
-@@20: line 6.0 t=55921984 -> @@15
+@@20: line 6.0 t=40985047 -> @@15
 ke-an-dal-an 
 @ via @@16 b=11 p=0 d=10441
 @ via @@17 b=8094 p=0 d=65674816
-@@21: line 6.2 t=35806537 -> @@16
+@@21: line 6.2 t=20869600 -> @@16
 ser-ta 
 @ via @@17 b=977 p=0 d=974169
-@@22: line 6.0 t=9167985 -> @@17
+@@22: line 6.0 t=8982985 -> @@17
 sta-bi-li-tas 
 @ via @@18 b=4556 p=0 d=20848356
-@@23: line 6.0 t=21256468 -> @@18
+@@23: line 6.0 t=21256852 -> @@18
 ja-lur 
 @ via @@18 b=477 p=0 d=237169
-@@24: line 6.0 t=645281 -> @@18
+@@24: line 6.0 t=645665 -> @@18
 ko-mu-ni-ka-si 
 @ via @@19 b=131 p=0 d=29881
-@@25: line 6.0 t=36895 -> @@19
+@@25: line 6.0 t=37279 -> @@19
 da-ta (ter-u-ta-ma in-te-gra-si Go-o-gle Ge-mi-ni 
 @ via @@20 b=618 p=0 d=394384
-@@26: line 7.0 t=56316368 -> @@20
+@@26: line 7.0 t=41379431 -> @@20
 API), 
 @ via @@20 b=0 p=0 d=10100
 @ via @@21 b=3291 p=0 d=10906601
-@@27: line 7.0 t=46713138 -> @@21
+@@27: line 7.0 t=31776201 -> @@21
 ting-kat 
 @ via @@21 b=65 p=0 d=5625
 @ via @@22 b=1648 p=0 d=2748964
-@@28: line 7.0 t=11916949 -> @@22
+@@28: line 7.0 t=11731949 -> @@22
 res-pon-si-vi-tas 
 @ via @@23 b=235 p=0 d=60025
 @ via @@24 b=3375 p=0 d=11458225
-@@29: line 7.0 t=12103506 -> @@24
+@@29: line 7.0 t=12103890 -> @@24
 ke-a-man-an 
 @ via @@24 b=44 p=0 d=12916
 @ via @@25 b=5245 p=0 d=27615025
-@@30: line 7.3 t=658197 -> @@24
+@@30: line 7.3 t=658581 -> @@24
 sis-tem, 
 @ via @@25 b=120 p=0 d=16900
-@@31: line 7.0 t=53795 -> @@25
+@@31: line 7.0 t=54179 -> @@25
 dan 
 @ via @@25 b=8 p=0 d=10324
-@@32: line 7.2 t=47219 -> @@25
+@@32: line 7.2 t=47603 -> @@25
 me-trik ke-ce-pat-an mu-at ha-lam-an 
 @ via @@26 b=892 p=0 d=813604
 @ via @@27 b=7944 p=0 d=63266116
-@@33: line 8.0 t=57129972 -> @@26
+@@33: line 8.0 t=42193035 -> @@26
 (pa-ge 
 @ via @@26 b=2 p=0 d=10144
 @ via @@27 b=866 p=0 d=767376
-@@34: line 8.0 t=47480514 -> @@27
+@@34: line 8.0 t=32543577 -> @@27
 lo-ad). 
 @ via @@27 b=1 p=0 d=10121
 @ via @@28 b=1371 p=0 d=1907161
-@@35: line 8.0 t=13824110 -> @@28
+@@35: line 8.0 t=13639110 -> @@28
 Ru-ang 
 @ via @@28 b=1 p=0 d=10121
 @ via @@29 b=4156 p=0 d=17355556
-@@36: line 8.2 t=11927070 -> @@28
+@@36: line 8.2 t=11742070 -> @@28
 ling-kup 
 @ via @@29 b=265 p=0 d=75625
 @ via @@30 b=6641 p=0 d=44245801
-@@37: line 8.0 t=12179131 -> @@29
+@@37: line 8.0 t=12179515 -> @@29
 pe-ngu-kur-an 
 @ via @@30 b=105 p=0 d=23225
 @ via @@31 b=2653 p=0 d=7091569
-@@38: line 8.0 t=681422 -> @@30
+@@38: line 8.0 t=681806 -> @@30
 ki-ner-ja 
 @ via @@31 b=117 p=0 d=16129
 @ via @@32 b=1028 p=0 d=1087444
-@@39: line 8.0 t=69924 -> @@31
+@@39: line 8.0 t=70308 -> @@31
 ini 
 @ via @@31 b=3 p=0 d=10169
 @ via @@32 b=204 p=0 d=55796
-@@40: line 8.2 t=63964 -> @@31
+@@40: line 8.2 t=64348 -> @@31
 ti-dak 
 @ via @@32 b=0 p=0 d=100
-@@41: line 8.2 t=47319 -> @@32
+@@41: line 8.2 t=47703 -> @@32
 me-li-batk-an pe-ngu-ji-an 
 @ via @@33 b=1571 p=0 d=2499561
-@@42: line 9.0 t=59629533 -> @@33
+@@42: line 9.0 t=44692596 -> @@33
 ke-ta-han-an 
 @ via @@33 b=2 p=0 d=10144
 @ via @@34 b=275 p=0 d=81225
 @ via @@35 b=6910 p=0 d=47886400
-@@43: line 9.0 t=47561739 -> @@34
+@@43: line 9.0 t=32624802 -> @@34
 per-ang-kat 
 @ via @@35 b=16 p=0 d=676
 @ via @@36 b=2680 p=0 d=7246100
-@@44: line 9.1 t=13824786 -> @@35
+@@44: line 9.1 t=13639786 -> @@35
 ke-ras 
 @ via @@36 b=78 p=0 d=7744
 @ via @@37 b=5446 p=0 d=29767936
-@@45: line 9.1 t=11934814 -> @@36
+@@45: line 9.1 t=11749814 -> @@36
 fi-sik 
 @ via @@37 b=695 p=0 d=497025
-@@46: line 9.0 t=12676156 -> @@37
+@@46: line 9.0 t=12676540 -> @@37
 (ha-rdwa-re) 
 @ via @@38 b=1009 p=0 d=1038361
-@@47: line 9.0 t=1719783 -> @@38
+@@47: line 9.0 t=1720167 -> @@38
 di 
 @ via @@38 b=201 p=0 d=44521
 @ via @@39 b=4832 p=0 d=23444964
-@@48: line 9.0 t=725943 -> @@38
+@@48: line 9.0 t=726327 -> @@38
 la-pang-an, 
 @ via @@39 b=16 p=0 d=676
 @ via @@40 b=386 p=0 d=166816
 @ via @@41 b=4832 p=0 d=23454964
-@@49: line 9.1 t=70600 -> @@39
+@@49: line 9.1 t=70984 -> @@39
 me-la-ink-an 
 @ via @@41 b=0 p=0 d=100
-@@50: line 9.2 t=47419 -> @@41
+@@50: line 9.2 t=47803 -> @@41
 di-ba-ta-si se-ca-ra 
 @ via @@42 b=764 p=0 d=599076
-@@51: line 10.0 t=60228609 -> @@42
+@@51: line 10.0 t=45291672 -> @@42
 ke-tat 
 @ via @@42 b=5 p=0 d=10225
 @ via @@43 b=4254 p=0 d=18181696
-@@52: line 10.2 t=59639758 -> @@42
+@@52: line 10.2 t=44702821 -> @@42
 pa-da 
 @ via @@43 b=546 p=0 d=309136
-@@53: line 10.0 t=47870875 -> @@43
+@@53: line 10.0 t=32933938 -> @@43
 do-ma-in 
 @ via @@43 b=58 p=0 d=14624
 @ via @@44 b=1337 p=0 d=1814409
 @ via @@45 b=8075 p=0 d=65367225
-@@54: line 10.0 t=15639195 -> @@44
+@@54: line 10.0 t=15454195 -> @@44
 re-ka-ya-sa 
 @ via @@44 b=0 p=0 d=100
 @ via @@45 b=314 p=0 d=104976
 @ via @@46 b=2818 p=0 d=7997584
-@@55: line 10.0 t=12039790 -> @@45
+@@55: line 10.0 t=11854790 -> @@45
 per-ang-kat 
 @ via @@46 b=0 p=0 d=10100
 @ via @@47 b=3780 p=0 d=14364100
-@@56: line 10.2 t=12686256 -> @@46
+@@56: line 10.2 t=12686640 -> @@46
 lu-nak 
 @ via @@47 b=287 p=0 d=88209
 @ via @@48 b=1242 p=0 d=1567504
-@@57: line 10.0 t=1807992 -> @@47
+@@57: line 10.0 t=1808376 -> @@47
 de-ngan 
 @ via @@48 b=0 p=0 d=10100
 @ via @@49 b=2980 p=0 d=8940100
-@@58: line 10.2 t=736043 -> @@48
+@@58: line 10.2 t=736427 -> @@48
 rin-ci-an 
 @ via @@49 b=46 p=0 d=3136
 @ via @@50 b=7030 p=0 d=49571600
-@@59: line 10.1 t=73736 -> @@49
+@@59: line 10.1 t=74120 -> @@49
 stan-dar 
 @ via @@50 b=427 p=0 d=200969
-@@60: line 10.0 t=248388 -> @@50
+@@60: line 10.0 t=248772 -> @@50
 pe-ngu-ji-an 
 @ via @@51 b=3343 p=0 d=11242609
-@@61: line 11.0 t=71471218 -> @@51
+@@61: line 11.0 t=56534281 -> @@51
 se-ba-gai 
 @ via @@51 b=40 p=0 d=2500
 @ via @@52 b=1448 p=0 d=2135764
-@@62: line 11.1 t=60231109 -> @@51
+@@62: line 11.1 t=45294172 -> @@51
 ber-i-kut: 
 @ via @@52 b=0 p=0 d=100
 @ via @@53 b=359 p=0 d=136161
-@@63: line 11.0 t=48007036 -> @@53
+@@63: line 11.0 t=33070099 -> @@53
  
 @\par via @@52 b=22 p=-10000 d=1024
 @\par via @@53 b=0 p=-10000 d=10100
@@ -10126,7 +9907,7 @@ ber-i-kut:
 @\par via @@60 b=0 p=-10000 d=10100
 @\par via @@61 b=0 p=-10000 d=10100
 @\par via @@62 b=0 p=-10000 d=100
-@@64: line 11.2- t=73836 -> @@59
+@@64: line 11.2- t=74220 -> @@59
 
 @firstpass
 [] 
@@ -10190,17 +9971,6 @@ of Food Waste for Environment and Sustainability,^^Q \T1/ptm/m/it/12 Frontiers i
 Systems\T1/ptm/m/n/12 , vol. 9, hlm. 1 575 113, Jun. 2025. \T1/ptm/m/sc/12 doi\T1/ptm/m/n/12 : [][]$\T1/cmtt/m/n/12 10 . 3389 / fsufs . 2025 . 1575113$[][]\T1/ptm/m/n/12 . 
 @\par via @@2 b=0 p=-10000 d=100
 @@3: line 3.2- t=300 -> @@2
-
-@firstpass
-[]\T1/ptm/m/n/12 C. Liu, J. Shang, dan C. Liu, ^^P  Exploring Household Food Waste Reduction for 
-@ via @@0 b=55 p=0 d=4225
-@@1: line 1.1 t=4225 -> @@0
-Carbon Footprint Mitigation: A Case Study in Shanghai, China,^^Q \T1/ptm/m/it/12 Foods\T1/ptm/m/n/12 , vol. 12, 
-@ via @@1 b=14 p=0 d=576
-@@2: line 2.1 t=4801 -> @@1
-no. 17, hlm. 3211, Aug. 2023. \T1/ptm/m/sc/12 doi\T1/ptm/m/n/12 : [][]$\T1/cmtt/m/n/12 10 . 3390 / foods12173211$[][]\T1/ptm/m/n/12 . 
-@\par via @@2 b=0 p=-10000 d=100
-@@3: line 3.2- t=4901 -> @@2
 
 @firstpass
 []\T1/ptm/m/n/12 L. Yuliana, ^^P  Potensi Gerakan Anti Food Waste Dalam Penguatan Perekonomian 
@@ -10301,6 +10071,17 @@ Ma-li-kus-sa-leh\T1/ptm/m/n/12 , vol. 10, no. 2, hlm. 70^^U82, Oct.
 @\par via @@16 b=0 p=-10000 d=10100
 @\par via @@17 b=0 p=-10000 d=100
 @@18: line 5.2- t=585378 -> @@17
+
+@firstpass
+[]\T1/ptm/m/n/12 C. Liu, J. Shang, dan C. Liu, ^^P  Exploring Household Food Waste Reduction for 
+@ via @@0 b=55 p=0 d=4225
+@@1: line 1.1 t=4225 -> @@0
+Carbon Footprint Mitigation: A Case Study in Shanghai, China,^^Q \T1/ptm/m/it/12 Foods\T1/ptm/m/n/12 , vol. 12, 
+@ via @@1 b=14 p=0 d=576
+@@2: line 2.1 t=4801 -> @@1
+no. 17, hlm. 3211, Aug. 2023. \T1/ptm/m/sc/12 doi\T1/ptm/m/n/12 : [][]$\T1/cmtt/m/n/12 10 . 3390 / foods12173211$[][]\T1/ptm/m/n/12 . 
+@\par via @@2 b=0 p=-10000 d=100
+@@3: line 3.2- t=4901 -> @@2
 
 @firstpass
 @secondpass
@@ -10643,14 +10424,14 @@ Package logreq Info: Writing requests to 'main.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  31980 strings out of 476041
- 611859 string characters out of 5793174
+ 611850 string characters out of 5793174
  1863388 words of memory out of 6000000
  51803 multiletter control sequences out of 15000+600000
  561284 words of font info for 82 fonts, out of 8000000 for 9000
  1137 hyphenation exceptions out of 8191
- 89i,17n,83p,2025b,2378s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 89i,18n,83p,2022b,2378s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (30 pages, 30954715 bytes).
+Output written on main.pdf (30 pages, 30954038 bytes).
 PDF statistics:
  417 PDF objects out of 1000 (max. 8388607)
  351 compressed objects within 4 object streams
