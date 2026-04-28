@@ -7,13 +7,15 @@
 \usepackage[indonesian]{babel} % Support for Bahasa Indonesia
 \usepackage{geometry}
 \usepackage{graphicx}
-\usepackage{xcolor}
+\usepackage{pdflscape}
+\usepackage[table]{xcolor}
 \usepackage{fancyhdr}
 \usepackage{titlesec}
 \usepackage{tocloft}
 \usepackage{booktabs}
 \usepackage{tabularx}
 \usepackage{array}
+\renewcommand{\tabularxcolumn}[1]{m{#1}}
 \newcolumntype{L}{>{\raggedright\arraybackslash}X}
 \newcolumntype{C}{>{\centering\arraybackslash}X}
 \newcolumntype{R}{>{\raggedleft\arraybackslash}X}
@@ -24,6 +26,10 @@
 \usepackage{setspace}
 \usepackage{enumitem}
 \usepackage{mathptmx} % Use Times New Roman style font
+\usepackage{amssymb}
+\usepackage{pifont}
+\newcommand{\cmark}{\scalebox{2.0}{\textcolor{blue}{\ding{51}}}}%
+\newcommand{\xmark}{\scalebox{2.0}{\textcolor{red}{\ding{55}}}}%
 
 % --- Global Style Adjustments ---
 \let\cleardoublepage\clearpage
