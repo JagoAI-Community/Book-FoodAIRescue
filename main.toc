@@ -18,9 +18,9 @@
 \contentsline {section}{\numberline {2.2}Gambaran Sistem Saat Ini}{10}{section.2.2}%
 \contentsline {subsection}{\numberline {2.2.1}Analisis Proses Bisnis}{10}{subsection.2.2.1}%
 \contentsline {subsection}{\numberline {2.2.2}Pengalaman Pengguna}{13}{subsection.2.2.2}%
-\contentsline {section}{\numberline {2.3}Identifikasi Aplikasi Sejenis}{27}{section.2.3}%
-\contentsline {section}{\numberline {2.4}Analisis Kebutuhan Sistem}{29}{section.2.4}%
-\contentsline {subsection}{\numberline {2.4.1}Analisis Grup Akses}{30}{subsection.2.4.1}%
-\contentsline {subsection}{\numberline {2.4.2}Analisis Kebutuhan Fungsional}{32}{subsection.2.4.2}%
-\contentsline {subsection}{\numberline {2.4.3}Analisis Kebutuhan Dukungan Sistem}{34}{subsection.2.4.3}%
-\contentsline {section}{\numberline {2.5}Analisis Kinerja Sistem}{36}{section.2.5}%
+\contentsline {section}{\numberline {2.3}Identifikasi Aplikasi Sejenis}{25}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Analisis Kebutuhan Sistem}{27}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Analisis Grup Akses}{28}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Analisis Kebutuhan Fungsional}{30}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.4.3}Analisis Kebutuhan Dukungan Sistem}{32}{subsection.2.4.3}%
+\contentsline {section}{\numberline {2.5}Analisis Kinerja Sistem}{34}{section.2.5}%
