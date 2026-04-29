@@ -7,7 +7,7 @@ Target pengguna utama dari aplikasi Food AI Rescue (FAR) secara umum adalah selu
 
 % \subsection{Segmentasi Pengguna}
 
-\begin{figure}[htbp]
+\begin{figure}[H]
     \centering
     \includegraphics[width=1\textwidth]{image/bab2/segmentasi.png}
     \caption{Segmentasi Pengguna Food AI Rescue}
@@ -88,58 +88,214 @@ Pada sistem manual, proses berbagi makanan berlebih berjalan secara sporadis, li
 \subsection{Pengalaman Pengguna}
 Guna memastikan bahwa platform Food AI Rescue yang dikembangkan dapat menyelesaikan permasalahan secara akurat dan tepat sasaran, penelitian ini menerapkan pendekatan desain berpusat pada manusia (\textit{Human-Centered Design}). Pendekatan ini secara spesifik memetakan pengalaman dari target pengguna utama di lapangan, yakni pihak donatur, penerima donasi, dan relawan logistik, ketika mereka masih melakukan proses penyaluran surplus makanan secara manual atau konvensional (\textit{As-Is}). Hasil pemetaan permasalahan tersebut kemudian dituangkan ke dalam tiga artefak \textit{User Experience} (UX), meliputi \textit{User Persona}, \textit{Empathy Map}, dan \textit{User Journey Map}, yang dijabarkan sebagai berikut:
 
-\begin{figure}[htbp]
+\begin{figure}[H]
     \centering
-    \includegraphics[width=1\textwidth]{image/bab2/User Persona/THINKS AND FEELS(1)/UP.DonaturIndividu.png}
-    \caption{User Persona Individu Donor}
-    \label{fig:userPersonaIndividuDonor}
-\end{figure}
-\begin{figure}[htbp]
-    \centering
-    \includegraphics[width=1\textwidth]{image/bab2/segmentasi/empati_map/thinks_and_feels/donatur_individu.png}
-    \caption{Empati Map Individu Donor}
-    \label{fig:empatiMapIndividuDonor}
+    \includegraphics[width=1\textwidth]{image/bab2/segmentasi/UserPersona/UP.DonaturIndividu.png}
+    \caption{User Persona Donatur Individu}
+    \label{fig:userPersonaDonaturIndividu}
 \end{figure}
 
-\begin{figure}[htbp]
+\textbf{Penjelasan Profil (Siti):}
+Siti (32 tahun) adalah ibu rumah tangga sibuk di perkotaan yang sering memiliki makanan berlebih layak konsumsi namun bingung menyalurkannya dengan aman.
+\begin{itemize}
+    \item \textbf{Motivasi:} Ingin berbagi dan melihat dampak nyata, termasuk mengurangi jejak karbon (mitigasi iklim).
+    \item \textbf{Tujuan:} Menyalurkan makanan surplus dengan cepat sebelum basi, serta mendapatkan jaminan keamanan pangan bagi penerima.
+    \item \textbf{Frustrasi:} Repot mencari penerima manual; khawatir makanannya malah meracuni orang lain karena tidak ada alat verifikasi kelayakan.
+    \item \textbf{Preferensi:} Aplikasi mobile, media sosial, serta nilai kepedulian sosial dan efisiensi.
+\end{itemize}
+
+% \newpage
+
+\begin{figure}[H]
     \centering
-    \includegraphics[width=1\textwidth]{image/bab2/User Persona/THINKS AND FEELS(1)/UP.DonaturKorporat.png}
-    \caption{User Persona Korporat Donor}
-    \label{fig:userPersonaKorporatDonor}
-\end{figure}
-\begin{figure}[htbp]
-    \centering
-    \includegraphics[width=1\textwidth]{image/bab2/segmentasi/empati_map/thinks_and_feels/donatur_korporat.png}
-    \caption{Empati Map Korporat Donor}
-    \label{fig:empatiMapKorporatDonor}
+    \includegraphics[width=1\textwidth]{image/bab2/segmentasi/EmpathyMap/EM.DonaturIndividu.png}
+    \caption{Empathy Map Donatur Individu}
+    \label{fig:empathyMapDonaturIndividu}
 \end{figure}
 
-\begin{figure}[htbp]
+
+\textbf{Penjelasan Aspek Empathy Map (Siti):}
+Siti adalah ibu rumah tangga yang sering memiliki makanan berlebih dan ingin menyumbang dengan aman tanpa repot.
+\begin{itemize}
+    \item \textbf{THINKS:} Meragukan keamanan makanan sisa rumah tangga; sayang jika dibuang karena merusak lingkungan; akan praktis jika ada kurir yang menjemput sebelum makanan basi.
+    \item \textbf{PAINS:} Cemas akan keamanan pangan karena tidak punya alat ukur higienitas; tidak ada sistem yang menghubungkan donatur rumah tangga dengan relawan secara \textit{real-time}; buta informasi siapa yang membutuhkan di radius terdekat.
+    \item \textbf{SAYS:} "Saya punya makanan berlebih tapi bingung mau dibagikan ke mana." "Mencari kontak panti asuhan sangat merepotkan." "Saya ingin menyumbang tapi tidak punya waktu atau kendaraan."
+    \item \textbf{DOES:} Sering belanja berlebihan (\textit{over-purchasing}); menyimpan sisa makanan di kulkas namun akhirnya basi karena perencanaan kurang baik; terpaksa membuang makanan rusak ke tempat sampah (menyumbang emisi metana).
+    \item \textbf{GAINS:} Mengharapkan "Polisi Pangan" berbasis AI (cukup foto untuk verifikasi kelayakan); ekosistem relawan kurir yang menjemput ke rumah seperti ojek online, terverifikasi aman dengan QR Code; dasbor dampak sosial (SROI) untuk melihat kontribusi pengurangan emisi karbon \& penyelamatan air.
+\end{itemize}
+
+% \newpage
+
+\begin{figure}[H]
     \centering
-    \includegraphics[width=1\textwidth]{image/bab2/User Persona/THINKS AND FEELS(1)/UP.PenerimaDonasi.png}
+    \includegraphics[width=0.99\textwidth]{image/bab2/segmentasi/CustomerJourneyMap/CJ.DonaturIndividu.png}
+    \caption{Customer Journey Map Donatur Individu}
+    \label{fig:customerJourneyMapDonaturIndividu}
+\end{figure}
+
+\textbf{Penjelasan Fase Customer Journey Map (Siti):} \\
+\textit{Fase perjalanan: Kesadaran $\rightarrow$ Pencarian Penerima $\rightarrow$ Pelaksanaan Donasi $\rightarrow$ Pasca-Donasi \& Pelaporan}
+\begin{description}
+    \item[Kesadaran:] Siti melihat makanan berlebih di kulkas/dapur yang masih layak konsumsi (Titik Sentuh: Kulkas). Ia merasa bersalah karena membuang makanan, namun tidak paham standar keamanannya (\textit{Pain Points}). \textbf{Peluang Solusi (FAR):} Rekomendasi resep masakan dari bahan sisa menggunakan AI.
+    \item[Pencarian Penerima:] Secara manual mencari pihak yang membutuhkan via internet/WhatsApp. Ini merepotkan karena \textit{blind spot} informasi penerima (\textit{Pain Points}). \textbf{Peluang Solusi (FAR):} Integrasi ke peta Radar Penerima dan akses Relawan Kurir secara instan.
+    \item[Pelaksanaan Donasi:] Memotret makanan melalui aplikasi FAR dan melakukan validasi QR. Proses terasa mudah, tapi ada keraguan donasi bisa basi di jalan. \textbf{Peluang Solusi (FAR):} Verifikasi AI \textit{Quality Verification} untuk memastikan keamanan pangan.
+    \item[Pasca-Donasi \& Pelaporan:] Melihat kontribusinya melalui dasbor SROI personal, yang mengatasi ketidaktahuan akan dampak lingkungan dari tindakannya. \textbf{Peluang Solusi (FAR):} Dasbor SROI Pribadi menampilkan total porsi terselamatkan dan emisi yang dicegah.
+\end{description}
+
+% \clearpage
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=1\textwidth]{image/bab2/segmentasi/UserPersona/UP.DonaturKorporat.png}
+    \caption{User Persona Donatur Korporat}
+    \label{fig:userPersonaDonaturKorporat}
+\end{figure}
+
+\textbf{Penjelasan Profil (Hendra):}
+Hendra (40 tahun) adalah manajer restoran/CSR yang sering mengalami kelebihan stok makanan layak konsumsi di akhir jam operasional. Perusahaannya ingin berdonasi rutin namun butuh pelaporan dampak sosial yang terstruktur.
+\begin{itemize}
+    \item \textbf{Motivasi:} Menjalankan CSR, membangun citra merek positif, serta berkontribusi pada pengurangan emisi gas rumah kaca dari limbah kuliner.
+    \item \textbf{Frustrasi:} Tidak ada metrik dampak sosial (SROI) yang konkret; repot mencari penerima satu per satu; khawatir makanan berlebih terpaksa dibuang ke TPA dan merusak reputasi.
+    \item \textbf{Preferensi:} Aplikasi mobile, AI, media sosial, dengan nilai kepedulian sosial dan efisiensi.
+\end{itemize}
+
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=1\textwidth]{image/bab2/segmentasi/EmpathyMap/EM.DonaturKorporat.png}
+    \caption{Empathy Map Donatur Korporat}
+    \label{fig:empathyMapDonaturKorporat}
+\end{figure}
+
+\textbf{Penjelasan Aspek Empathy Map (Hendra):}
+Hendra adalah manajer restoran/CSR yang ingin menyalurkan surplus makanan dengan tetap menjaga reputasi dan efisiensi operasional.
+\begin{itemize}
+    \item \textbf{THINKS:} Membuang makanan ke TPA melepas gas metana \& memperburuk jejak karbon; bisa memicu publisitas buruk jika diketahui publik; akan menguntungkan jika ada sistem otomatis penghitungan hemat air \& emisi CO\textsubscript{2}.
+    \item \textbf{PAINS:} Tidak ada metrik \textit{Social Return on Investment} (SROI) yang valid; tidak punya asisten cepat untuk menyusun promosi CSR \& desain kemasan ekologis; risiko inefisiensi waktu jika mengurus logistik sendiri.
+    \item \textbf{SAYS:} "Perusahaan punya banyak \textit{overstock} layak konsumsi." "Kami butuh platform logistik yang efisien agar tidak ganggu operasional." "Kami butuh laporan CSR konkret untuk publik \& pemegang saham."
+    \item \textbf{FEELS:} Frustrasi karena sulit mencari panti asuhan tepat secara manual; khawatir makanan tidak higienis bisa memicu keracunan \& tuntutan hukum; termotivasi membangun citra merek peduli lingkungan \& penekan kelaparan.
+    \item \textbf{DOES:} Terpaksa membuang surplus ke tempat sampah karena tidak ada sistem penjemputan praktis; beroperasi dengan volume limbah \& jejak karbon tinggi dari \textit{overstock}; masih menggunakan sistem manajemen limbah linear.
+    \item \textbf{GAINS:} Mengharapkan platform dengan dasbor dampak sosial (SROI) otomatis; akses AI generatif (\textit{Eco Packaging Editor}, \textit{CSR Copywriter}) untuk kemasan ramah lingkungan \& naskah promosi; adanya "Polisi Pangan" AI untuk verifikasi kelayakan otomatis.
+\end{itemize}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.99\textwidth]{image/bab2/segmentasi/CustomerJourneyMap/CJ.DonaturKorporat.png}
+    \caption{Customer Journey Map Donatur Korporat}
+    \label{fig:customerJourneyMapDonaturKorporat}
+\end{figure}
+
+\textbf{Penjelasan Fase Customer Journey Map (Hendra):} \\
+\textit{Fase perjalanan: Inisiatif \& Niat Baik $\rightarrow$ Pemilihan Misi $\rightarrow$ Penjemputan \& Pengantaran $\rightarrow$ Serah Terima \& Apresiasi}
+\begin{description}
+    \item[Inisiatif \& Niat Baik:] Ingin berkontribusi namun niat baik sering tidak tersalurkan akibat ketiadaan platform terpusat. \textbf{Peluang Solusi (FAR):} Login peran khusus (RBAC) dengan lingkungan tugas mandiri.
+    \item[Pemilihan Misi:] Memilih opsi pengantaran di aplikasi (Missions Board). Sering repot karena alokasi tugas tumpang tindih secara manual. \textbf{Peluang Solusi (FAR):} Missions Board interaktif yang menampilkan daftar penugasan logistik harian.
+    \item[Penjemputan \& Pengantaran:] Takut donasi salah sasaran atau rentan dituduh jika tak ada bukti penyelesaian. \textbf{Peluang Solusi (FAR):} Wajib Pindai (\textit{Mandatory Scan}) QR Code nirkontak sebagai validasi transaksi mutlak.
+    \item[Serah Terima \& Apresiasi:] Sistem lama kurang memberi motivasi jangka panjang karena minim pencatatan apresiasi. \textbf{Peluang Solusi (FAR):} Sistem Gamifikasi Dinamis dengan poin XP dan peringkat.
+\end{description}
+
+% \clearpage
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=1\textwidth]{image/bab2/segmentasi/UserPersona/UP.Penerima.png}
     \caption{User Persona Penerima}
     \label{fig:userPersonaPenerima}
 \end{figure}
-\begin{figure}[htbp]
+
+\textbf{Penjelasan Profil (Bu Ani):}
+Bu Ani (45 tahun) adalah pengurus panti asuhan di pinggiran kota. Ia bertanggung jawab atas gizi puluhan anak asuhnya dan sangat mengandalkan bantuan sosial, namun harus ekstra hati-hati dengan sumbangan makanan.
+\begin{itemize}
+    \item \textbf{Motivasi:} Memenuhi kebutuhan gizi anak asuh untuk mencegah stunting; ingin bisa melakukan klaim (\textit{booking}) donasi agar tidak berebut di lapangan.
+    \item \textbf{Frustrasi:} Takut makanan sisa menyebabkan keracunan massal; merasa pasif karena hanya bisa menunggu tanpa kepastian informasi pasokan makanan.
+    \item \textbf{Preferensi:} Aplikasi mobile, AI, media sosial, serta mengutamakan kepedulian sosial dan efisiensi.
+\end{itemize}
+
+\begin{figure}[H]
     \centering
-    \includegraphics[width=1\textwidth]{image/bab2/segmentasi/empati_map/thinks_and_feels/penerima.png}
-    \caption{Empati Map Penerima}
-    \label{fig:empatiMapPenerima}
+    \includegraphics[width=1\textwidth]{image/bab2/segmentasi/EmpathyMap/EM.Penerima.png}
+    \caption{Empathy Map Penerima}
+    \label{fig:empathyMapPenerima}
 \end{figure}
 
-\begin{figure}[htbp]
+\textbf{Penjelasan Aspek Empathy Map (Bu Ani):}
+Bu Ani adalah pengurus panti asuhan yang sangat waspada terhadap keamanan pangan donasi.
+\begin{itemize}
+    \item \textbf{THINKS:} Khawatir makanan basi bisa menyebabkan keracunan anak asuh; berharap donasi memiliki gizi cukup cegah stunting; yakin akan terbantu jika ada aplikasi pemesanan makanan.
+    \item \textbf{PAINS:} Ancaman keamanan pangan tinggi karena tidak ada validasi independen; risiko pengambilan ganda (\textit{double-claim}) yang menyebabkan waktu \& tenaga terbuang; tidak ada platform terpadu.
+    \item \textbf{SAYS:} "Apakah makanan sisa ini masih higienis dan aman?" "Kami bingung mencari pasokan makanan bergizi di sekitar." "Kadang datang jauh-jauh tapi sudah diambil orang lain."
+    \item \textbf{FEELS:} Cemas \& waspada takut makanan berbahaya bagi anak asuh; frustrasi \& lelah karena tidak ada kepastian informasi; penuh harap akan akses pasokan pangan yang terjamin mutunya.
+    \item \textbf{DOES:} Menunggu donasi secara pasif tanpa pelacakan \textit{real-time}; mengecek kelayakan hanya dengan mata \& penciuman; sering terima makanan sisa tanpa tahu waktu produksi via grup WhatsApp.
+    \item \textbf{GAINS:} Mendambakan AI \textit{Quality Verification} ("Polisi Pangan") untuk jaminan mutu otomatis; fitur radar/peta ketersediaan makanan surplus \textit{real-time}; sistem klaim (\textit{booking}) tetap dan forum \textit{request}.
+\end{itemize}
+
+\begin{figure}[H]
     \centering
-    \includegraphics[width=1\textwidth]{image/bab2/User Persona/THINKS AND FEELS(1)/UP.Relawan.png}
+    \includegraphics[width=0.99\textwidth]{image/bab2/segmentasi/CustomerJourneyMap/CJ.Penerima.png}
+    \caption{Customer Journey Map Penerima}
+    \label{fig:customerJourneyMapPenerima}
+\end{figure}
+
+\textbf{Penjelasan Fase Customer Journey Map (Bu Ani):} \\
+\textit{Fase perjalanan: Inisiatif \& Niat Baik $\rightarrow$ Pemilihan Misi $\rightarrow$ Penjemputan \& Pengantaran $\rightarrow$ Serah Terima \& Apresiasi}
+\begin{description}
+    \item[Inisiatif \& Niat Baik:] Ingin mendapatkan donasi tapi butuh sistem yang jelas. Niat mendapat bantuan terhambat tanpa platform terpusat. \textbf{Peluang Solusi (FAR):} Login peran khusus (RBAC) sebagai penerima, dengan akses melihat donasi tersedia.
+    \item[Pemilihan Misi:] Antusias jika donasi dekat panti dan bisa segera diklaim. Sering repot berebut klaim (tumpang tindih) secara manual. \textbf{Peluang Solusi (FAR):} Missions Board interaktif untuk melihat daftar donasi yang bisa diklaim oleh penerima.
+    \item[Penjemputan \& Pengantaran:] Takut makanan bukan untuk dirinya; tidak ada bukti serah terima yang sah. \textbf{Peluang Solusi (FAR):} Wajib Pindai QR Code nirkontak sebagai validasi bahwa donasi sampai ke penerima yang benar.
+    \item[Serah Terima \& Apresiasi:] Bangga tercatat sebagai penerima terverifikasi dan aman dari \textit{double-claim}. Sebelumnya kurang ada catatan apresiasi / tingkat kepercayaan. \textbf{Peluang Solusi (FAR):} Sistem Gamifikasi Dinamis memberikan poin kepercayaan atau \textit{badge} bagi penerima yang aktif dan terverifikasi.
+\end{description}
+
+% \clearpage
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=1\textwidth]{image/bab2/segmentasi/UserPersona/UP.Relawan.png}
     \caption{User Persona Relawan}
     \label{fig:userPersonaRelawan}
 \end{figure}
-\begin{figure}[htbp]
+
+\textbf{Penjelasan Profil (Rizky):}
+Rizky (22 tahun) adalah mahasiswa \textit{tech-savvy} dengan mobilitas tinggi (kendaraan pribadi) yang ingin menyumbangkan waktu luangnya untuk mengantarkan donasi makanan. Ia membutuhkan sistem yang terarah, efisien, dan transparan.
+\begin{itemize}
+    \item \textbf{Motivasi:} Memiliki jiwa sosial tinggi dan senang berkontribusi nyata, terutama jika ada sistem penghargaan (\textit{reward/leaderboard}) seperti permainan.
+    \item \textbf{Frustrasi:} Kurang apresiasi/pencatatan kontribusi dalam sistem relawan konvensional; khawatir donasi salah sasaran; tidak ada bukti serah terima yang sah; repot mencari alamat penerima manual.
+    \item \textbf{Preferensi:} Aplikasi mobile, kecerdasan buatan (AI), media sosial, serta nilai efisiensi dan kepedulian sosial.
+\end{itemize}
+
+\begin{figure}[H]
     \centering
-    \includegraphics[width=1\textwidth]{image/bab2/segmentasi/empati_map/thinks_and_feels/relawan.png}
-    \caption{Empati Map Relawan}
-    \label{fig:empatiMapRelawan}
+    \includegraphics[width=1\textwidth]{image/bab2/segmentasi/EmpathyMap/EM.Relawan.png}
+    \caption{Empathy Map Relawan}
+    \label{fig:empathyMapRelawan}
 \end{figure}
-\clearpage
+
+\textbf{Penjelasan Aspek Empathy Map (Rizky):}
+Rizky adalah relawan mahasiswa yang ingin mengantarkan donasi makanan secara efisien dan terarah.
+\begin{itemize}
+    \item \textbf{THINKS:} Mencari alamat manual itu merepotkan; butuh cara praktis membuktikan tugas selesai tanpa laporan tertulis; sistem kompetisi/\textit{leaderboard} seperti game akan memotivasi.
+    \item \textbf{PAINS:} Motivasi jangka panjang rendah karena kurang apresiasi; risiko salah sasaran \& miskomunikasi akibat tidak ada bukti serah terima nirkontak; proses lambat tanpa papan misi terpusat.
+    \item \textbf{SAYS:} "Saya butuh panduan rute yang jelas dan efisien." "Apakah ada jaminan makanan ini sampai ke pihak yang tepat?" "Akan lebih seru jika ada sistem penghargaan."
+    \item \textbf{FEELS:} Frustrasi jika titik lokasi tidak akurat; khawatir makanan jatuh ke tangan salah; antusias \& peduli jika kontribusi diakui dan berdampak nyata.
+    \item \textbf{DOES:} Bertindak sukarela sebagai armada logistik; aktif menggunakan smartphone \& GPS; pada sistem konvensional sering menghabiskan waktu mencari lokasi manual tanpa bukti valid.
+    \item \textbf{GAINS:} Ingin fitur wajib scan QR Code penerima sebagai bukti sah; sistem gamifikasi sosial berbasis AI dengan poin XP dinamis; \textit{badge rank} (Trainee $\rightarrow$ Sultan Relawan).
+\end{itemize}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.85\textwidth]{image/bab2/segmentasi/CustomerJourneyMap/CJ.Relawan.png}
+    \caption{Customer Journey Map Relawan}
+    \label{fig:customerJourneyMapRelawan}
+\end{figure}
+
+\textbf{Penjelasan Fase Customer Journey Map (Rizky):} \\
+\textit{Fase perjalanan: Inisiatif \& Niat Baik $\rightarrow$ Pemilihan Misi $\rightarrow$ Penjemputan \& Pengantaran $\rightarrow$ Serah Terima \& Apresiasi}
+\begin{description}
+    \item[Inisiatif \& Niat Baik:] Antusias untuk mengisi waktu luang membantu distribusi donasi, namun niat baik sering tidak tersalurkan akibat ketiadaan platform terpusat. \textbf{Peluang Solusi (FAR):} Login peran khusus (RBAC) dengan lingkungan tugas mandiri.
+    \item[Pemilihan Misi:] Termotivasi memilih misi (Missions Board) yang searah jalan pulang. Sering repot karena alokasi tugas tumpang tindih secara manual. \textbf{Peluang Solusi (FAR):} Missions Board interaktif menampilkan daftar penugasan logistik harian.
+    \item[Penjemputan \& Pengantaran:] Harus memastikan makanan diserahkan ke alamat dan orang yang tepat. Takut salah sasaran atau dituduh jika tak ada bukti penyelesaian. \textbf{Peluang Solusi (FAR):} Wajib Pindai (\textit{Mandatory Scan}) QR Code nirkontak sebagai validasi transaksi mutlak.
+    \item[Serah Terima \& Apresiasi:] Termotivasi memantau kenaikan pangkat (poin XP) setelah memindai QR Code penerima. Sebelumnya kurang motivasi karena minim pencatatan apresiasi. \textbf{Peluang Solusi (FAR):} Sistem Gamifikasi Dinamis dengan poin XP dan kasta peringkat (Trainee $\rightarrow$ Sultan).
+\end{description}
+% \clearpage
 
 \section{Identifikasi Aplikasi Sejenis}
 \par Tahapan identifikasi aplikasi sejenis merupakan langkah analitis yang dilakukan untuk memetakan produk atau platform digital pendahulu (\textit{existing solutions}) yang memiliki kesamaan fungsional dengan sistem yang diusulkan. Tujuan utama dari observasi ini adalah untuk menemukan celah kelemahan (\textit{gap}) serta batasan operasional pada aplikasi yang telah beredar di masyarakat. Melalui analisis komparatif ini, pengembangan platform Food AI Rescue dapat difokuskan untuk merancang nilai tambah (\textit{value proposition}) yang lebih inovatif, tepat sasaran, dan relevan dalam menjembatani kebutuhan para pemangku kepentingan di ekosistem donasi pangan.
