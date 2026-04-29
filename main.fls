@@ -1301,10 +1301,16 @@ INPUT ./image/Logo_Universitas_Telkom_Horizontal.png
 INPUT ./image/Logo_Universitas_Telkom_Horizontal.png
 INPUT image/Logo_Universitas_Telkom_Horizontal.png
 INPUT ./image/Logo_Universitas_Telkom_Horizontal.png
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ectt1200.tfm
 INPUT ./image/Logo_Universitas_Telkom_Horizontal.png
 INPUT ./image/Logo_Universitas_Telkom_Horizontal.png
 INPUT image/Logo_Universitas_Telkom_Horizontal.png
 INPUT ./image/Logo_Universitas_Telkom_Horizontal.png
+INPUT /usr/share/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc
 INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd
@@ -1370,41 +1376,41 @@ INPUT ./image/Logo_Universitas_Telkom_Horizontal.png
 INPUT ./image/Logo_Universitas_Telkom_Horizontal.png
 INPUT image/Logo_Universitas_Telkom_Horizontal.png
 INPUT ./image/Logo_Universitas_Telkom_Horizontal.png
-INPUT ./image/bab2/user_persona_individu_donor.png
-INPUT ./image/bab2/user_persona_individu_donor.png
-INPUT image/bab2/user_persona_individu_donor.png
-INPUT ./image/bab2/user_persona_individu_donor.png
-INPUT ./image/bab2/user_persona_individu_donor.png
+INPUT ./image/bab2/User Persona/THINKS AND FEELS(1)/UP.DonaturIndividu.png
+INPUT ./image/bab2/User Persona/THINKS AND FEELS(1)/UP.DonaturIndividu.png
+INPUT image/bab2/User Persona/THINKS AND FEELS(1)/UP.DonaturIndividu.png
+INPUT ./image/bab2/User Persona/THINKS AND FEELS(1)/UP.DonaturIndividu.png
+INPUT ./image/bab2/User Persona/THINKS AND FEELS(1)/UP.DonaturIndividu.png
 INPUT ./image/bab2/segmentasi/empati_map/thinks_and_feels/donatur_individu.png
 INPUT ./image/bab2/segmentasi/empati_map/thinks_and_feels/donatur_individu.png
 INPUT image/bab2/segmentasi/empati_map/thinks_and_feels/donatur_individu.png
 INPUT ./image/bab2/segmentasi/empati_map/thinks_and_feels/donatur_individu.png
 INPUT ./image/bab2/segmentasi/empati_map/thinks_and_feels/donatur_individu.png
-INPUT ./image/bab2/user_persona_korporat_donor.png
-INPUT ./image/bab2/user_persona_korporat_donor.png
-INPUT image/bab2/user_persona_korporat_donor.png
-INPUT ./image/bab2/user_persona_korporat_donor.png
-INPUT ./image/bab2/user_persona_korporat_donor.png
+INPUT ./image/bab2/User Persona/THINKS AND FEELS(1)/UP.DonaturKorporat.png
+INPUT ./image/bab2/User Persona/THINKS AND FEELS(1)/UP.DonaturKorporat.png
+INPUT image/bab2/User Persona/THINKS AND FEELS(1)/UP.DonaturKorporat.png
+INPUT ./image/bab2/User Persona/THINKS AND FEELS(1)/UP.DonaturKorporat.png
+INPUT ./image/bab2/User Persona/THINKS AND FEELS(1)/UP.DonaturKorporat.png
 INPUT ./image/bab2/segmentasi/empati_map/thinks_and_feels/donatur_korporat.png
 INPUT ./image/bab2/segmentasi/empati_map/thinks_and_feels/donatur_korporat.png
 INPUT image/bab2/segmentasi/empati_map/thinks_and_feels/donatur_korporat.png
 INPUT ./image/bab2/segmentasi/empati_map/thinks_and_feels/donatur_korporat.png
 INPUT ./image/bab2/segmentasi/empati_map/thinks_and_feels/donatur_korporat.png
-INPUT ./image/bab2/user_persona_penerima.png
-INPUT ./image/bab2/user_persona_penerima.png
-INPUT image/bab2/user_persona_penerima.png
-INPUT ./image/bab2/user_persona_penerima.png
-INPUT ./image/bab2/user_persona_penerima.png
+INPUT ./image/bab2/User Persona/THINKS AND FEELS(1)/UP.PenerimaDonasi.png
+INPUT ./image/bab2/User Persona/THINKS AND FEELS(1)/UP.PenerimaDonasi.png
+INPUT image/bab2/User Persona/THINKS AND FEELS(1)/UP.PenerimaDonasi.png
+INPUT ./image/bab2/User Persona/THINKS AND FEELS(1)/UP.PenerimaDonasi.png
+INPUT ./image/bab2/User Persona/THINKS AND FEELS(1)/UP.PenerimaDonasi.png
 INPUT ./image/bab2/segmentasi/empati_map/thinks_and_feels/penerima.png
 INPUT ./image/bab2/segmentasi/empati_map/thinks_and_feels/penerima.png
 INPUT image/bab2/segmentasi/empati_map/thinks_and_feels/penerima.png
 INPUT ./image/bab2/segmentasi/empati_map/thinks_and_feels/penerima.png
 INPUT ./image/bab2/segmentasi/empati_map/thinks_and_feels/penerima.png
-INPUT ./image/bab2/user_persona_relawan.png
-INPUT ./image/bab2/user_persona_relawan.png
-INPUT image/bab2/user_persona_relawan.png
-INPUT ./image/bab2/user_persona_relawan.png
-INPUT ./image/bab2/user_persona_relawan.png
+INPUT ./image/bab2/User Persona/THINKS AND FEELS(1)/UP.Relawan.png
+INPUT ./image/bab2/User Persona/THINKS AND FEELS(1)/UP.Relawan.png
+INPUT image/bab2/User Persona/THINKS AND FEELS(1)/UP.Relawan.png
+INPUT ./image/bab2/User Persona/THINKS AND FEELS(1)/UP.Relawan.png
+INPUT ./image/bab2/User Persona/THINKS AND FEELS(1)/UP.Relawan.png
 INPUT ./image/bab2/segmentasi/empati_map/thinks_and_feels/relawan.png
 INPUT ./image/bab2/segmentasi/empati_map/thinks_and_feels/relawan.png
 INPUT image/bab2/segmentasi/empati_map/thinks_and_feels/relawan.png
@@ -1462,16 +1468,10 @@ INPUT ./image/Logo_Universitas_Telkom_Horizontal.png
 INPUT ./image/Logo_Universitas_Telkom_Horizontal.png
 INPUT image/Logo_Universitas_Telkom_Horizontal.png
 INPUT ./image/Logo_Universitas_Telkom_Horizontal.png
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ectt1200.tfm
 INPUT ./image/Logo_Universitas_Telkom_Horizontal.png
 INPUT ./image/Logo_Universitas_Telkom_Horizontal.png
 INPUT image/Logo_Universitas_Telkom_Horizontal.png
 INPUT ./image/Logo_Universitas_Telkom_Horizontal.png
-INPUT /usr/share/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc
 INPUT ./image/Logo_Universitas_Telkom_Horizontal.png
 INPUT ./image/Logo_Universitas_Telkom_Horizontal.png
 INPUT image/Logo_Universitas_Telkom_Horizontal.png
